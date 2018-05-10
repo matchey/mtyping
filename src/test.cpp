@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "duo/duo.h"
+#include "mtyping/sentence.h"
 
 using namespace std;
 
@@ -8,9 +8,10 @@ int main()
 {
 	cout << "test for Duo" << endl;
 
-	Duo duo;
+	Sentence sentence;
 
-	duo.print();
+	sentence.print();
+	sentence.typing();
 
 	return 0;
 }
