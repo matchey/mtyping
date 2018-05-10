@@ -31,9 +31,11 @@ void Duo::load(const string& filename)
 	// 1,2,3,
 	// 1~3
 	// random 3
-	// other random 3
 	//
 	// time (default 1 min)
+	//
+	//
+	// other random 3
 	// 
 	// other sentences
 }

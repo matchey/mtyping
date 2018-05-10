@@ -14,6 +14,7 @@ struct Sentence
 class Duo
 {
 	std::vector<Sentence> sentences;
+	// std::vector< std::vector<Sentence> > sections;
 
 	void load(const std::string&);
 

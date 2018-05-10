@@ -12,7 +12,7 @@ SET(CMAKE_CXX_FLAGS "-std=c++11 -O2 -g -Wall ${CMAKE_CXX_FLAGS}")
 #   src/${PROJECT_NAME}/duo.cpp
 # )
 
-add_executable(test src/test.cpp src/duo/duo.cpp)
+add_executable(test_duo src/test.cpp src/duo/duo.cpp)
 
 # target_link_libraries(test)
 # target_link_libraries(typing ${my_LIBRARIES})
