@@ -5,7 +5,7 @@
 #include <iostream>
 #include <vector>
 
-struct Sentense
+struct Sentence
 {
 	std::string eng;
 	std::string jpn;
@@ -13,12 +13,12 @@ struct Sentense
 
 class Duo
 {
-	std::vector<Sentense> sentenses;
+	std::vector<Sentence> sentences;
 
 	void load(const std::string&);
 
 	public:
-	Duo(const std::string&);
+	Duo();
 	void print();
 	void typing();
 };

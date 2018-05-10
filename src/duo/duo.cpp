@@ -1,14 +1,23 @@
 
+#include <unistd.h> // STDIN_FILENO
+#include <termios.h> // tcgetattr
+#include <ctype.h> // isprint()
+#include <chrono> // std::chrono::system_clock
 #include "duo/duo.h"
 
 using namespace std;
 
-Duo::Duo(const string& filename)
+Duo::Duo()
 {
 }
 
 void Duo::print()
 {
+	string sentence = "Foo bar baz fizz";
+
+	cout << sentence << endl;
+	cout << "\e[2m" << sentence << "\e[m" << endl;
+	cout << "\e[A";
 }
 
 void Duo::typing()
@@ -26,6 +35,6 @@ void Duo::load(const string& filename)
 	//
 	// time (default 1 min)
 	// 
-	// other sentenses
+	// other sentences
 }
 
