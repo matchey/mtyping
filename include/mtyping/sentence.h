@@ -2,22 +2,19 @@
 #ifndef SENTENCE_H
 #define SENTENCE_H
 
-#include <iostream>
-#include <vector>
+#include <iostream> //e.g. std::string
 
 class Sentence
 {
-	std::string eng;
 	std::string jpn;
+	std::string eng;
 	// std::vector<Sentence> sentences;
 	// std::vector< std::vector<Sentence> > sections;
 
-	void load(const std::string&);
-
 	public:
-	Sentence();
-	void print();
-	void typing();
+	Sentence(const std::string&, const std::string&);
+	void show();
+	int typing();
 };
 
 #endif

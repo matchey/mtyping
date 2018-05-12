@@ -1,45 +1,47 @@
 
 #include <unistd.h> // STDIN_FILENO
 #include <termios.h> // tcgetattr
-#include <ctype.h> // isprint()
-#include <chrono> // std::chrono::system_clock
+// #include <ctype.h> // isprint()
+// #include <chrono> // std::chrono::system_clock
 #include "mtyping/sentence.h"
 
 using namespace std;
 
-Sentence::Sentence()
+Sentence::Sentence(const std::string& ja, const std::string& en)
 {
+	jpn = ja;
+	eng = en;
 }
 
-void Sentence::print()
+void Sentence::show()
 {
-	string sentence = "Foo bar baz fizz";
-
-	cout << sentence << endl;
-	cout << "\e[2m" << sentence << "\e[m" << endl;
+	cout << jpn << endl;
+	cout << eng << endl;
+	cout << "\e[2m" << eng << "\e[m" << endl;
 	cout << "\e[A";
 }
 
-void Sentence::typing()
+int Sentence::typing()
 {
-	int chr;
-	string sentence = "Foo bar baz fizz";
+	char chr;
+	int cnt_miss = 0;
 
 	struct termios CookedTermIos; // cooked モード用
 	struct termios RawTermIos; // raw モード用
 
-	tcgetattr(STDIN_FILENO, &CookedTermIos);
+	tcgetattr(STDIN_FILENO, &CookedTermIos); //初期状態を保存
 
 	RawTermIos = CookedTermIos;
 	cfmakeraw(&RawTermIos);
 
-	tcsetattr(STDIN_FILENO, 0, &RawTermIos);
+	tcsetattr(STDIN_FILENO, 0, &RawTermIos); //端末をRowモードに設定
 
-	for(auto it = sentence.begin(); it != sentence.end(); ++it) {
-		if((chr = getchar()) == 0x03) break;
+	for(auto it = eng.begin(); it != eng.end(); ++it) {
+		if((chr = getchar()) == 0x03) break; // <C-c> for break
 		if(chr == *it){
 			putchar(chr);
 		}else{
+			cnt_miss++;
 			--it;
 		}
 	}
@@ -47,21 +49,8 @@ void Sentence::typing()
 	tcsetattr(STDIN_FILENO, 0, &CookedTermIos);
 	putchar('\n');
 
+	return cnt_miss;
 }
 
 // private
-void Sentence::load(const string& filename)
-{
-	// section
-	// 1,2,3,
-	// 1~3
-	// random 3
-	//
-	// time (default 1 min)
-	//
-	//
-	// other random 3
-	// 
-	// other sentences
-}
 
