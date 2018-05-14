@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int main(int argc, char** argv)
 {
 	cout << "test for Duo" << endl;
 
@@ -14,6 +14,10 @@ int main()
 	// sentence.print();
 	// sentence.typing();
 	mt.select_sections();
+	mt.load();
+	mt.play();
+
+	// cout << argv[0] << endl;
 
 	return 0;
 }

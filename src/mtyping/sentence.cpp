@@ -7,18 +7,30 @@
 
 using namespace std;
 
+Sentence::Sentence()
+{
+}
+
 Sentence::Sentence(const std::string& ja, const std::string& en)
 {
 	jpn = ja;
 	eng = en;
 }
 
-void Sentence::show()
+void Sentence::set(const std::string& ja, const std::string& en)
+{
+	jpn = ja;
+	eng = en;
+}
+
+int Sentence::show()
 {
 	cout << jpn << endl;
 	cout << eng << endl;
 	cout << "\e[2m" << eng << "\e[m" << endl;
 	cout << "\e[A";
+
+	return eng.length();
 }
 
 int Sentence::typing()

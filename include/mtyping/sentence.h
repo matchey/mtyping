@@ -12,8 +12,10 @@ class Sentence
 	// std::vector< std::vector<Sentence> > sections;
 
 	public:
+	Sentence();
 	Sentence(const std::string&, const std::string&);
-	void show();
+	void set(const std::string&, const std::string&);
+	int show();
 	int typing();
 };
 

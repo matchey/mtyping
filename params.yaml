@@ -1,3 +1,7 @@
+/home/amsl/Programs/cpp/Asobi/mtyping/lists/sentences/duo
+
+# 1行目にディレクトリのフルパスを書く
+# yamlとしてのパラメータ読み込み機能(randomとか)はいずれ追加
 dir_name: "lists/sentences/duo"
 # dir_name: "lists/words/duo"
 # dir_name: "lists/words/target"
