@@ -10,7 +10,7 @@ thesis,make,sense,To,begin,with,theme,obscure
 His essay was concise and to the point.
 essay,concise,to,the,point
 彼の小論文は簡潔で要領を得ていた。
-"How are you going to deal with this complicated problem?" " Leave it to me! It's a piece of cake."
+"How are you going to deal with this complicated problem?" "Leave it to me! It's a piece of cake."
 deal,with,complicated,Leave,to,piece,of,cake
 「この複雑な問題をどう処理するつもり？｣ ｢任せとけって。朝飯前さ。」  
 "Nick, I want you to look this over before I turn it in." "Sorry, but I have my hands full right now."

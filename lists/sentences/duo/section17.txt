@@ -31,6 +31,6 @@ lazy,at,heart,frequently,neglects,duties
 While Bob was at work, Jennifer was at home absorbed in silly soap opera.
 at,work,home,absorbed,silly,soap,opera
 ボブが働いている間、ジェニファーは家でくだらないメロドラマに夢中になっていた。
-Bob likes cartoons, but I don't think much of them. As a matter of fact, they're boring
+Bob likes cartoons, but I don't think much of them. As a matter of fact, they're boring.
 cartoons,think,of,As,matter,of,fact,boring
 ボブはマンガ好きだけど、僕にはそれほどいいものとは思えない。実際、つまらないよ。

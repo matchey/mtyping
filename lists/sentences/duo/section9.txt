@@ -7,7 +7,7 @@ Turn,faucet,off,yelled,rage
 Tighten the lid so the food doesn't go bad.
 Tighten,lid,so,go,bad
 食べ物が腐らない様にふたをしっかり閉めなさい。
-Can I borrow your scissors? " Sure, here you are."
+Can I borrow your scissors? "Sure, here you are."
 borrow,scissors,Sure,here,you,are
 ｢ハサミを貸してもらえる？」「もちろん。はいどうぞ｡」  
 You can substitute some transparent glue for a needle and thread.

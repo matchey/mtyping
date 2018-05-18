@@ -46,6 +46,6 @@ Owing,to,illness,representatives,absent,annual,conference
 Little by little, my son-in-law is recovering from stomach cancer, and now he is in good spirits.
 Little,by,little,son-in-law,recovering,stomach,cancer,spirits
 私の娘婿は徐々に胃癌を克服しつつあり、今は明るく元気だ。
-This is fake, isn't it?" "Hey, it's a genuine antique." " No way!"
+This is fake, isn't it?" "Hey, it's a genuine antique." "No way!"
 fake,genuine,antique,No,way
 「これって偽物だろう？」 「何言ってるの。本物の骨蓮品よ。」 「まさか！」   

@@ -5,12 +5,12 @@ Take it easy. I can assure you that everything will turn out fine.
 Take,it,easy,assure,turn,out
 気楽にいけよ。大丈夫、すべてうまくいくさ。
 Let go of your negative outlook on life. Always maintain a positive attitude.
-Let,go,of,negative,outlook,maintain,positive,attitude
+Let,of,go,negative,outlook,maintain,positive,attitude
 悲観的な人生観を捨てて、前向きな態度を常に持ち続けよう。
 You should be fair to everyone regardless of national origin, gender, or creed.
 fair,regardless,of,national,origin,gender,creed
 生まれた国、性別、信条に関係なく、誰に対しても公平でなくてはならない
-Equality is guaranteed by the Constitution.	
+Equality is guaranteed by the Constitution.
 Equality,guaranteed,Constitution
 平等は憲法で守られている。
 He leaned against the pillar and gazed at the Statue of Liberty.
@@ -22,13 +22,13 @@ passed,by,giving,off,subtle,scent,perfume,reminded,ex-girlfriend
 "Natto" smells awful but tastes terrific.
 smells,awful,tastes,terrific
 納豆は臭いはひどいけれど味は最高。
-I'm soaked with sweat. " Stand back! You stink. Take a shower."
+I'm soaked with sweat. "Stand back! You stink. Take a shower."
 soaked,sweat,Stand,back,stink,Take,shower
 「汗でびしょぬれだよ。」「来ないで！臭いわ。シャワーを浴びて。」  
 Bob was so beside himself that he could scarcely tell fact from fiction.
 was,beside,himself,scarcely,tell,fact,from,fiction
 ボブはひどく取り乱していて、現実と虚構の区別がほとんどできなかった。
-His new nobel, which combines prose with his gift for poetry, is going to be published.	
+His new novel, which combines prose with his gift for poetry, is going to be published.
 novel,combines,prose,gift,poetry,published
 まもなく出版になる彼の小説は、散文に彼の詩の才能を融合させたものだ。
 An up-to-date edition of the encyclopedia will come out next month.
@@ -38,7 +38,7 @@ Ms. Yamada translated the fascinating fairy tale into plain Japanese.
 translated,fascinating,fairy,tale,into,plain
 山田さんがその心ひかれるおとぎ話をやさしい日本語に翻訳した。
 The following passage is quoted from a well-known fable.
-following,passage,quoted,well-kwown,fable
+following,passage,quoted,well-known,fable
 以下の一説は有名な寓話からの引用です。
 Are you familiar with contemporary literature? "I know next to nothing about it."
 familiar,contemporary,literature,next,to
@@ -64,7 +64,7 @@ ugly,object,piece,of,abstract
 I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
 begged,lend,bucks,shook,his,head,broke
 100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。 
-I'm apt to buy things on impulse whenever something is on sale." "So am I.
+I'm apt to buy things on impulse whenever something is on sale." "So am I."
 apt,impulse,on,sale,So,am,I.
 「安売りをしているといつも衝動買いしてしまうたちです。」 「私も。」  
 As it is, ordinary people cannot afford to purchase such luxuries.
@@ -119,7 +119,7 @@ For years the press overlooked the problem. But now, if anything, they are makin
 press,overlooked,if,anything,making,of
 過去数年間その問題を見過ごしていた報道機関が､今ではどちらかと言えばそのことを重視し過ぎている。
 As well as cultivating grain, the farmer runs a grocery store.
-As,well,as,cultivating,grain,farmer,run,grocery,store
+As,well,as,cultivating,grain,farmer,runs,grocery,store
 穀物を栽培するだけでなく、その農業経営者は食料雑貨店も経営している。
 The research institute was established in the late 1960s.
 research,institute,established,late,1960s
@@ -181,10 +181,10 @@ Owing,to,illness,representatives,absent,annual,conference
 Little by little, my son-in-law is recovering from stomach cancer, and now he is in good spirits.
 Little,by,little,son-in-law,recovering,stomach,cancer,spirits
 私の娘婿は徐々に胃癌を克服しつつあり、今は明るく元気だ。
-This is fake, isn't it?" "Hey, it's a genuine antique." " No way!"
+This is fake, isn't it?" "Hey, it's a genuine antique." "No way!"
 fake,genuine,antique,No,way
 「これって偽物だろう？」 「何言ってるの。本物の骨蓮品よ。」 「まさか！」   
-Anything else? " That's it." " For here or to go?" " To go."
+Anything else? "That's it." "For here or to go?" "To go."
 Anything,else,That's,For,here,or,To,go
 「ほかにご注文は?」「こちらでお召し上がりですか？」「持ち帰ります。」  
 How much is this rug? "$100 including tax." "OK, I'll take it."
@@ -193,7 +193,7 @@ rug,including,tax,I'll,take,it
 I don't think those pants look good on you. Try these on. They're really in now!
 pants,look,good,on,Try,on,They're,in
 そのパンツはあなたには似合わないと思う。こっちをはいてみて。今すごく流行っているのよ。
-He got out of the cab in haste, saying, " Keep the change."
+He got out of the cab in haste, saying, "Keep the change."
 got,out,cab,in,haste,Keep,the,change
 彼は「おつりはいいです」と言って、急いでタクシーを降りた。 
 Delivery service is available to our customers for a slight extra charge.
@@ -227,7 +227,7 @@ The chairman cut me off, saying, "Time to wind things up. Let's take a vote."
 chairman,cut,off,wind,vote
 議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。  
 We exchanged frank opinions in the meeting, but consensus is yet to be reached regarding this matter.
-exchanged,frank,opinions,meeting,consequences,yet,to,reached,regarding,matter
+exchanged,frank,opinions,meeting,consensus,yet,to,reached,regarding,matter
 我々は会議で率直な意見を交わしたが、この件に関してはまだ全体の意見がまとまらない。
 Do you agree or disagree with him? "I'm on his side."
 agree,disagree,on,his,side
@@ -272,7 +272,7 @@ Without your solid support, the deal would have fallen through. I'm grateful to 
 Without,solid,support,deal,would,have,fallen,through,grateful,to
 あなたの強固な支援がなかったら、その取引は成立しなかったでしょう。感謝しています。
 Bringing flammable items into the cabin is prohibited.
-flammable,items.cabin,prohibited
+flammable,items,cabin,prohibited
 機内への可燃物の持ち込みは禁止されています。
 Our flight to Vienna was delayed on account of a minor accident.
 flight,Vienna,delayed,on,account,minor,accident
@@ -307,13 +307,13 @@ Turn,faucet,off,yelled,rage
 Tighten the lid so the food doesn't go bad.
 Tighten,lid,so,go,bad
 食べ物が腐らない様にふたをしっかり閉めなさい。
-Can I borrow your scissors? " Sure, here you are."
+Can I borrow your scissors? "Sure, here you are."
 borrow,scissors,Sure,here,you,are
 ｢ハサミを貸してもらえる？」「もちろん。はいどうぞ｡」  
 You can substitute some transparent glue for a needle and thread.
 substitute,transparent,glue,needle,thread
 針と糸の代わりに透明な接着剤を使っても結構です｡
-I dyed this fabric and it shrank
+I dyed this fabric and it shrank.
 dyed,fabric,shrank
 この織物を染めたら縮んでしまった。
 I'm getting rid of this leather jacket because it's worn out at the elbows.
@@ -364,7 +364,7 @@ tired,of,dishes,laundry,and,so,on
 My favorite pastime is strolling along the shore. It's pleasant.
 favorite,pastime,strolling,shore,pleasant
 時間があいたときの一番の楽しみは浜辺の散歩です。気持ちいいですよ。
-I'm exhausted! Let's take a break in the shade. " Why not?"
+I'm exhausted! Let's take a break in the shade. "Why not?"
 exhausted,take,break,shade,Why,not
 「私、もうくたくた。日陰で休憩しましょう｡」「そうだね｡」  
 Bob, this vending machine is out of order. "Oh no! I'm dying of thirst!"
@@ -443,7 +443,7 @@ He saw someone being bullied, but he turned a blind eye.
 bullied,blind
 誰かがいじめられているのを見たのに、彼は見ないふりをした。
 When Nick and I cheated on an exam, I was suspended from school. As for Nick, he got away with it.
-cheat,suspended,As,for,get,away,with
+cheated,suspended,As,for,got,away,with
 ニックと僕がテストでカンニングしたとき、僕は停学処分。ニックの方はまんまと逃れた。
 They are hostile to Richard because they are jealous of his wealth and status.
 hostile,jealous,wealth,status
@@ -460,7 +460,7 @@ claimed,enormous,property,disposal,
 The more stubborn you are, the more isolated you become.
 The,more,stubborn,isolated
 頑固になればなるほど孤立するよ。
-"Don't beat around the bush! What am I supposed to do?" " Just wait and see. Time will tell."
+"Don't beat around the bush! What am I supposed to do?" "Just wait and see. Time will tell."
 bush,supposed,Just,wait,and,see,Time,will,tell
 「遠回しな言い方はやめてくれ！僕にどうしろって言うんだ？」 「慌てずに待つしかありません。時が経てばわかります。」  
 Please hand in your assignment via e-mail no later than 5:00 PM on |une 10.
@@ -475,7 +475,7 @@ thesis,make,sense,To,begin,with,theme,obscure
 His essay was concise and to the point.
 essay,concise,to,the,point
 彼の小論文は簡潔で要領を得ていた。
-"How are you going to deal with this complicated problem?" " Leave it to me! It's a piece of cake."
+"How are you going to deal with this complicated problem?" "Leave it to me! It's a piece of cake."
 deal,with,complicated,Leave,to,piece,of,cake
 「この複雑な問題をどう処理するつもり？｣ ｢任せとけって。朝飯前さ。」  
 "Nick, I want you to look this over before I turn it in." "Sorry, but I have my hands full right now."
@@ -508,7 +508,7 @@ chapter,focus,on,geometry
 Phil is much more interested in academic subjects than in practical skills.
 is,interested,academic,subjects,practical,skills
 フィルは実用的な技能よりも学問的なテーマのほうに興味がある。
-"Something's gone wrong with this microscope. I need to have it repaired." " Let me see it. Maybe I can fix it."
+"Something's gone wrong with this microscope. I need to have it repaired." "Let me see it. Maybe I can fix it."
 gone,wrong,with,microscope,have,repaired,Let,me,see,it,fix
 ｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」  
 "What is 'an instrument?" "For instance, a gauge, such as a thermometer or a barometer."
@@ -544,7 +544,7 @@ introduced,folks,took,to,at,once
 People should be judged not so much by how they look as by who they are.
 judged,not,so,much,as,how,they,look,who,they,are
 人は外見ではなく、むしろ中身で判断されるべきだ。
-" It's not your title that counts. That's for sure!" exclaimed Bob.
+"It's not your title that counts. That's for sure!" exclaimed Bob.
 It's,title,that,counts,for,sure,exclaimed
 「大切なのは肩書きなんかじゃない。絶対そうだ！」と、ボブは語気を強めて言った。 
 As a self-made man put it, "A man of vision will make good in the end."
@@ -586,7 +586,7 @@ lazy,at,heart,frequently,neglects,duties
 While Bob was at work, Jennifer was at home absorbed in silly soap opera.
 at,work,home,absorbed,silly,soap,opera
 ボブが働いている間、ジェニファーは家でくだらないメロドラマに夢中になっていた。
-Bob likes cartoons, but I don't think much of them. As a matter of fact, they're boring
+Bob likes cartoons, but I don't think much of them. As a matter of fact, they're boring.
 cartoons,think,of,As,matter,of,fact,boring
 ボブはマンガ好きだけど、僕にはそれほどいいものとは思えない。実際、つまらないよ。
 It occurred to me that he was holding something back, because he wouldn't look me in the eye.
@@ -1579,7 +1579,7 @@ stand,anytmore,Calm,down,come,over,as,as,possible
 Don't take it literally. He is inclined to exaggerate.
 literally,inclined,to,exaggerate
 そんなこと真に受けちゃだめだよ。彼は大げさに言う傾向があるから。
-"You should apologize to Lisa for making fun of her." "You went too far this time.Yeah .. I will, sometime when she's in a better mood."
+"You should apologize to Lisa for making fun of her." "You went too far this time. Yeah ... I will, sometime when she's in a better mood."
 apologize,making,fun,of,went,too,far,sometime,in,a,better,mood
 「リサを馬鹿にしたことを謝るべきだわ。今回はやりすぎよ。」「ああ、そうするよ。その内彼女の機嫌が直ったらね。」 
 "Lisa, are you getting along with Nick?" "Once in a while, I think of divorcing him." "You must be kidding!"

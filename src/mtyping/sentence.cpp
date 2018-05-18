@@ -26,7 +26,7 @@ void Sentence::set(const std::string& ja, const std::string& en)
 int Sentence::show()
 {
 	cout << jpn << endl;
-	cout << eng << endl;
+	// cout << eng << endl;
 	cout << "\e[2m" << eng << "\e[m" << endl;
 	cout << "\e[A";
 

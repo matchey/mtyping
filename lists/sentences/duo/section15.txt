@@ -13,7 +13,7 @@ chapter,focus,on,geometry
 Phil is much more interested in academic subjects than in practical skills.
 is,interested,academic,subjects,practical,skills
 フィルは実用的な技能よりも学問的なテーマのほうに興味がある。
-"Something's gone wrong with this microscope. I need to have it repaired." " Let me see it. Maybe I can fix it."
+"Something's gone wrong with this microscope. I need to have it repaired." "Let me see it. Maybe I can fix it."
 gone,wrong,with,microscope,have,repaired,Let,me,see,it,fix
 ｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」  
 "What is 'an instrument?" "For instance, a gauge, such as a thermometer or a barometer."

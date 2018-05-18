@@ -25,7 +25,7 @@ tired,of,dishes,laundry,and,so,on
 My favorite pastime is strolling along the shore. It's pleasant.
 favorite,pastime,strolling,shore,pleasant
 時間があいたときの一番の楽しみは浜辺の散歩です。気持ちいいですよ。
-I'm exhausted! Let's take a break in the shade. " Why not?"
+I'm exhausted! Let's take a break in the shade. "Why not?"
 exhausted,take,break,shade,Why,not
 「私、もうくたくた。日陰で休憩しましょう｡」「そうだね｡」  
 Bob, this vending machine is out of order. "Oh no! I'm dying of thirst!"

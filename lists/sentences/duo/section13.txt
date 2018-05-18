@@ -25,6 +25,6 @@ claimed,enormous,property,disposal,
 The more stubborn you are, the more isolated you become.
 The,more,stubborn,isolated
 頑固になればなるほど孤立するよ。
-"Don't beat around the bush! What am I supposed to do?" " Just wait and see. Time will tell."
+"Don't beat around the bush! What am I supposed to do?" "Just wait and see. Time will tell."
 bush,supposed,Just,wait,and,see,Time,will,tell
 「遠回しな言い方はやめてくれ！僕にどうしろって言うんだ？」 「慌てずに待つしかありません。時が経てばわかります。」  

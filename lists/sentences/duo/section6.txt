@@ -1,4 +1,4 @@
-Anything else? " That's it." " For here or to go?" " To go."
+Anything else? "That's it." "For here or to go?" "To go."
 Anything,else,That's,For,here,or,To,go
 「ほかにご注文は?」「こちらでお召し上がりですか？」「持ち帰ります。」  
 How much is this rug? "$100 including tax." "OK, I'll take it."
@@ -7,7 +7,7 @@ rug,including,tax,I'll,take,it
 I don't think those pants look good on you. Try these on. They're really in now!
 pants,look,good,on,Try,on,They're,in
 そのパンツはあなたには似合わないと思う。こっちをはいてみて。今すごく流行っているのよ。
-He got out of the cab in haste, saying, " Keep the change."
+He got out of the cab in haste, saying, "Keep the change."
 got,out,cab,in,haste,Keep,the,change
 彼は「おつりはいいです」と言って、急いでタクシーを降りた。 
 Delivery service is available to our customers for a slight extra charge.

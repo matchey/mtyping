@@ -4,6 +4,7 @@
 #include <unistd.h>
 #include <cmath> // std::round()
 #include <thread> //this_thread::sleep_for()
+#include <algorithm> //shuffle
 #include "mstring/mstring.h"
 #include "mtyping/mtyping.h"
 
@@ -23,6 +24,7 @@ void Mtyping::select_sections()
 	getline(cin, str_input);
 
 	if(str_input == "all"){
+		str_input = "1~45";
 	}
 
 	size_t pos;
@@ -146,7 +148,7 @@ void Mtyping::play()
 		cnt_miss += it->typing();
 		end = chrono::system_clock::now();
 		auto elaped = chrono::duration_cast<chrono::milliseconds>(end - start).count();
-		if(elaped > 60 * 1e3){
+		if(elaped > 70 * 1e3){
 			break;
 		}
 	}
@@ -180,6 +182,9 @@ void Mtyping::set_sentences(const string& fname)
 		}
 		cnt++;
 	}
+	std::random_device seed_gen;
+	std::mt19937 engine(seed_gen());
+	shuffle(sentences.begin(), sentences.end(), engine);
 }
 
 void Mtyping::show_count_down()

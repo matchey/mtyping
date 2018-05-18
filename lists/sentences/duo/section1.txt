@@ -10,7 +10,7 @@ Let,of,go,negative,outlook,maintain,positive,attitude
 You should be fair to everyone regardless of national origin, gender, or creed.
 fair,regardless,of,national,origin,gender,creed
 生まれた国、性別、信条に関係なく、誰に対しても公平でなくてはならない
-Equality is guaranteed by the Constitution.	
+Equality is guaranteed by the Constitution.
 Equality,guaranteed,Constitution
 平等は憲法で守られている。
 He leaned against the pillar and gazed at the Statue of Liberty.
@@ -22,6 +22,6 @@ passed,by,giving,off,subtle,scent,perfume,reminded,ex-girlfriend
 "Natto" smells awful but tastes terrific.
 smells,awful,tastes,terrific
 納豆は臭いはひどいけれど味は最高。
-I'm soaked with sweat. " Stand back! You stink. Take a shower."
+I'm soaked with sweat. "Stand back! You stink. Take a shower."
 soaked,sweat,Stand,back,stink,Take,shower
 「汗でびしょぬれだよ。」「来ないで！臭いわ。シャワーを浴びて。」  
