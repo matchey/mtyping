@@ -1,7 +1,7 @@
 I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
 begged,lend,bucks,shook,his,head,broke
 100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。 
-I'm apt to buy things on impulse whenever something is on sale." "So am I."
+"I'm apt to buy things on impulse whenever something is on sale." "So am I."
 apt,impulse,on,sale,So,am,I.
 「安売りをしているといつも衝動買いしてしまうたちです。」 「私も。」  
 As it is, ordinary people cannot afford to purchase such luxuries.
