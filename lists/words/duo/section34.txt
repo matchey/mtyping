@@ -1,0 +1,80 @@
+a pile of A,たくさんのA（形）
+accept A,Aを受け取る（動）
+addict,中毒者、常用者（名）
+all but,ほとんど（副）
+arrest A,Aを逮捕する（動）
+aspect,(問題などを構成する)側面（名）
+author,作家、著者（名）
+be in charge of A,Aの担当責任者である（動）
+be involved in A,Aに巻き込まれる、Aにかかわる（動）
+be second to none,誰[何]にも劣らない[負けない]（動）
+be sensitive to A,Aに敏感である（動）
+bribe,賄賂（名）
+by and large,概して（副）
+come to light,明るみに出る（動）
+conscience,良心（名）
+consider A,Aをよく検討する（動）
+corruption,汚職、不正(行為)、贈賄(ぞうわい)、 収賄（名）
+cover ... up,…を隠す[隠ぺいする]（動）
+criticism,批判、非難（名）
+decade,10年間（名）
+defense,防衛（名）
+detective,探偵、刑事（名）
+dismiss A,Aを解雇[解任]する（動）
+do not hesitate to do,遠慮なくdoする（動）
+document,書類（名）
+drug,麻薬（名）
+elite,エリート(たち)（名）
+evidence,証拠（名）
+examine A,Aを(よく)調べる（動）
+false,嘘の（形）
+fault,責任、欠陥、短所（名）
+find ... out,…を見つけ出す、…を発見する（動）
+find fault with A,Aの過ちを指摘する、Aに文句をつける（動）
+flaw,欠陥、問題個所（名）
+for the first time,初めて（副）
+fraud,詐欺(行為)（名）
+haunt A,Aの心[脳裏]に付きまとう、Aの脳裏を去らない ★通例受身で用いる（動）
+hesitate,ためらう（動）
+illegal,違法な（形）
+intrude on A,Aを侵害する（動）
+involve A,A(人)を巻き込む（動）
+linger on,まだ続いている[残っている]（動）
+manuscript,原稿（名）
+nevertheless,それでもやはり（副）
+nightmare,悪夢（名）
+numerous,(非常に)多くの（形）
+official,役人、公務員（名）
+on the spot,その場で、直ちに（副）
+on the whole,概して（副）
+over and over again,何度も(何度も)繰り返して（副）
+pang of A,Aの苦しみ[苦痛]（名）
+pile,うずたかく積まれたもの（名）
+program,計画（名）
+project,計画、事業（名）
+prove A,Aを説明[立証]する、Aであるとわかる（動）
+relevant,関連性のある（形）
+reputation,(世間の)評判（名）
+reveal A,Aを明かす[示す]（動）
+revise A,Aを改定する、Aに修正を加える（動）
+ruin A,Aを失墜させる（動）
+rumor,噂（名）
+scheme,企み、陰謀、計画、案（名）
+senior,上級(の)（形）
+sensitive,敏感な（形）
+skepticism,疑い（名）
+sufficient,十分な（形）
+suspect A,Aを疑う、Aに容疑をかける
+suspect A of B,A(人)にBの容疑をかける（動）
+tabloid,タブロイド紙、大衆ゴシップ紙（名）
+take ... down,…を書き取る（動）
+testimony,証言（名）
+to my knowledge,私の知る限りでは（副）
+transaction,商取引（名）
+trial,裁判、審理（名）
+truth,真実（名）
+vague,曖昧な、漠然とした（形）
+vivid,鮮明な（形）
+way out,逃れる道[方法]（名）
+when it comes to A,Aのこととなると（定）
+word for word,一言一句たがわずに（副）

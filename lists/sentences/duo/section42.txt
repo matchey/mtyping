@@ -16,7 +16,7 @@ To,tell,the,truth,classical,On,the,other,hand,is,into
 Bob derives pleasure from observing insects.
 derives,pleasure,from,observing,insects
 ボブは昆虫の観察に楽しみを感じている。
-How about playing cards or something for a change?Sorry, I'm not up for it.
+How about playing cards or something for a change? Sorry, I'm not up for it.
 How,about,cards,or,something,for,change,I'm,not,up,for,it
 「気分転換にトランプか何かしない？」「わるいけど、そういう気分じゃないよ。」 
 "After you." "No pleasure, you go ahead." "Thanks." "You're welcome."
@@ -25,9 +25,9 @@ After,you,you,go,ahead,You're,welcome.
 His niece is sociable and mature for her age. She could pass for twenty-something.
 niece,sociable,mature,for,age,pass,for,twenty-something
 彼の姪は年の割には社交的で大人だ。二十代と言っても通用する。
-Take care of yourself and say hi to your family for me.I will. See you later.
+Take care of yourself and say hi to your family for me. I will. See you later.
 Take,care,of,say,hi,to,See,you,later
 「じゃあね。家族のみんなによろしく。」「ああ。またね。」 
-I'm looking forward to hearing from you.Sincerely,
+I'm looking forward to hearing from you. Sincerely,
 looking,forward,to,hearing,from,Sincerely
 お返事頂けるのを楽しみにしております。敬具

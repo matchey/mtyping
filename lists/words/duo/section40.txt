@@ -1,0 +1,80 @@
+Give me a break,冗談はよしてくれ（定）
+Middle Ages,中世（名）
+access,到達する方法[入る方法]（名）
+acquire A,Aを獲得する（動）
+alien,宇宙人（名）
+ancestor,先祖（名）
+ancient,古代の（形）
+anthropologist,人類学者（名）
+ape,猿、類人猿（名）
+be familiar to A,Aによく知られている（動）
+be fluent in A,Aを流ちょうに話す（動）
+believe it or not,信じてもらえないかもしれないが（副）
+border,国境（名）
+bug,虫（名）
+bury A,Aを埋める（動）
+cast A,[比喩的に] Aを投げる（動）
+cast a spell on A,Aに呪文（魔法）をかける(動)
+cathedral,大聖堂（名）
+cave,洞窟（名）
+civilization,文明（名）
+cost,出費[負担]する（動）
+create A,（作品など）Aを創造する（動）
+credit,評価する、信用する、信頼する(動)
+credit A with B,B を A(人)の実績として認める[評価する]（動）
+custom,習慣（名）
+date A,Aに日付を書く（動）
+date back to A,（起源が）Aにまでさかのぼる（動）
+desert,砂漠（名）
+dialect,方言（名）
+emerge,（姿が）現れる（動）
+evil,とても悪い（形）
+exhibition,展覧会（名）
+explore A,（場所）Aを探検する（動）
+fancy,装飾された（形）
+fluent,流ちょうな（形）
+frame,枠、額縁（名）
+frighten,怯えさせる、ビックリさせる（動）
+from generation to generation,代々（副）
+generation,同世代の人々（名）
+get frightened,怖がる、びっくりする= be～（動）
+hand...down,伝える（動）
+in search of A,Aを求めて（前）
+insight into A,Aに対する洞察、Aに対する深い理解（名）
+insist on A,Aを強く主張する（動）
+inspire him,彼に意欲を沸かせる（動）
+language,言葉（名）
+legend,伝説（名）
+linguist,言語学者（名）
+magnificent,（外観・景観などが）荘厳な、壮大な（形）
+masterpiece,（ある芸術家の）傑作（名）
+millionaire,大富豪（名）
+mount A,Aを載せる[はめ込む]（動）
+myth,神話（名）
+no matter how ～,たとえどんな[どれだけ]～でも
+offer A,Aを提供する[与える]（動）
+path,細道、小道（名）
+portrait,肖像画[写真]（名）
+prevail,広く行われている[よく見られる]（動）
+proceed,進む（動）
+profound,（意味・教養などが）深い（形）
+province,（自治）州（名）
+religion,…の宗教、…教（名）
+renaissance,ルネッサンス、文芸復興（名）
+run away,逃げる（動）
+sculpture,彫刻作品（名）
+seed,きっかけ、種（名）
+several,いくつかの…（形）
+sole,唯一の（形）
+sow A,Aをまく（動）
+spell,呪文、魔法（名）
+splendid,すばらしい（形）
+steep,傾斜が急な（形）
+treasure,宝物（名）
+tribe,部族（名）
+turn A into B,A を B に変える（動）
+upside down,上下逆さまの[に]（形）（副）
+vanish,消える（動）
+wicked,意地の悪い、悪質な（形）
+witch,魔女（名）
+worship A,Aを崇拝する（動）

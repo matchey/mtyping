@@ -22,7 +22,7 @@ passed,by,giving,off,subtle,scent,perfume,reminded,ex-girlfriend
 "Natto" smells awful but tastes terrific.
 smells,awful,tastes,terrific
 納豆は臭いはひどいけれど味は最高。
-I'm soaked with sweat. "Stand back! You stink. Take a shower."
+"I'm soaked with sweat." "Stand back! You stink. Take a shower."
 soaked,sweat,Stand,back,stink,Take,shower
 「汗でびしょぬれだよ。」「来ないで！臭いわ。シャワーを浴びて。」  
 Bob was so beside himself that he could scarcely tell fact from fiction.
@@ -40,7 +40,7 @@ translated,fascinating,fairy,tale,into,plain
 The following passage is quoted from a well-known fable.
 following,passage,quoted,well-known,fable
 以下の一説は有名な寓話からの引用です。
-Are you familiar with contemporary literature? "I know next to nothing about it."
+"Are you familiar with contemporary literature?" "I know next to nothing about it."
 familiar,contemporary,literature,next,to
 「現代文学に詳しいですが？」 「ほとんど知りません。」  
 At times I confuse "curve" with "carve."
@@ -55,16 +55,16 @@ article,tips,those,who,eager,increase,vocabulary
 His latest works are on display at the city hall. They are fabulous beyond description.
 latest,works,display,hall,fabulous,description
 彼の最新の作品が市庁舎で展示されているの｡言葉にできないほど紫敵よ。
-Could you move over a little? "Oh, sorry. I didn't realize I was taking up so much space."
+"Could you move over a little?" "Oh, sorry. I didn't realize I was taking up so much space."
 move,over,taking,up
 「少し詰めていただけませんか？」「あ、ごめんなさい。こんなに 場所を取っていたなんて気付きませんでした｡」  
-What's this ugly object? "This is a piece of abstract art!"
+"What's this ugly object?" "This is a piece of abstract art!"
 ugly,object,piece,of,abstract
 「この不格好な物体は何？」 「これは抽象芸術の作品だよ！」  
 I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
 begged,lend,bucks,shook,his,head,broke
 100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。 
-I'm apt to buy things on impulse whenever something is on sale." "So am I."
+"I'm apt to buy things on impulse whenever something is on sale." "So am I."
 apt,impulse,on,sale,So,am,I.
 「安売りをしているといつも衝動買いしてしまうたちです。」 「私も。」  
 As it is, ordinary people cannot afford to purchase such luxuries.
@@ -181,13 +181,13 @@ Owing,to,illness,representatives,absent,annual,conference
 Little by little, my son-in-law is recovering from stomach cancer, and now he is in good spirits.
 Little,by,little,son-in-law,recovering,stomach,cancer,spirits
 私の娘婿は徐々に胃癌を克服しつつあり、今は明るく元気だ。
-This is fake, isn't it?" "Hey, it's a genuine antique." "No way!"
+"This is fake, isn't it?" "Hey, it's a genuine antique." "No way!"
 fake,genuine,antique,No,way
 「これって偽物だろう？」 「何言ってるの。本物の骨蓮品よ。」 「まさか！」   
-Anything else? "That's it." "For here or to go?" "To go."
+"Anything else?" "That's it." "For here or to go?" "To go."
 Anything,else,That's,For,here,or,To,go
 「ほかにご注文は?」「こちらでお召し上がりですか？」「持ち帰ります。」  
-How much is this rug? "$100 including tax." "OK, I'll take it."
+"How much is this rug?" "$100 including tax." "OK, I'll take it."
 rug,including,tax,I'll,take,it
 「この敷物はおいくらですか?」「税込みで100ドルです」「じゃあ、これにします。」  
 I don't think those pants look good on you. Try these on. They're really in now!
@@ -199,7 +199,7 @@ got,out,cab,in,haste,Keep,the,change
 Delivery service is available to our customers for a slight extra charge.
 Delivery,service,available,customers,slight,extra,charge
 当店のお客様は､わずかな追加料金で配達サービスをご利用できます。
-It's on me. "No. You treat me every time we eat out." "Well, okay. Let's split the check then."
+"It's on me." "No. You treat me every time we eat out." "Well, okay. Let's split the check then."
 It's,on,me,treat,every,time,eat,out,split,check
 「これは僕のおごり。」 「だめよ。外食のときはいつもおごってもらっていいるし。」 「うーん、わかった。じゃあ割り勘にしよう。」  
 While I was hanging out at the mall, I ran into Ken.
@@ -211,7 +211,7 @@ was,short,of,withdrew,deposited,account
 On her way home she was robbed of her purse.
 On,her,way,robbed,purse
 彼女は帰宅途中にハンドバッグを盗まれた。
-That's odd! Tell me how it happened. "I'll explain it to you later."
+"That's odd! Tell me how it happened." "I'll explain it to you later."
 odd,happened,explain
 「それは変だわ。どうしてそんなことが起きたのか教えて。」 「後で説明するよ。」  
 My parents gave me a 6 pm curfew as a punishment because I broke my promise.
@@ -229,7 +229,7 @@ chairman,cut,off,wind,vote
 We exchanged frank opinions in the meeting, but consensus is yet to be reached regarding this matter.
 exchanged,frank,opinions,meeting,consensus,yet,to,reached,regarding,matter
 我々は会議で率直な意見を交わしたが、この件に関してはまだ全体の意見がまとまらない。
-Do you agree or disagree with him? "I'm on his side."
+"Do you agree or disagree with him?W "I'm on his side."
 agree,disagree,on,his,side
 「あなたは彼と同じ意見？ それとも違うの？」「彼のほうを支持するよ。」  
 Strictly speaking, his view differs somewhat from mine.
@@ -241,9 +241,9 @@ go,over,make,out,were,getting,at
 No one backed me up at first, but eventually I talked everyone into going along with my plan.
 backed,at,first,eventually,talked,into,going,with
 僕の案を支持してくれる人は最初は誰もいなかったけれど、最後にはみんなを説得して賛同してもらうことができた。
-I admire your perseverance, courage and wisdom. "You flatter me!"
+"I admire your perseverance, courage and wisdom." "You flatter me!"
 admire,perseverance,courage,wisdom,flatter
-君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」  
+「君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」  
 In making a decision, I rely not on logic but on instinct.
 In,making,decision,rely,on,not,logic,but,instinct
 どうするかを決めるとき、僕は論理ではなく本能を当てにする。
@@ -307,7 +307,7 @@ Turn,faucet,off,yelled,rage
 Tighten the lid so the food doesn't go bad.
 Tighten,lid,so,go,bad
 食べ物が腐らない様にふたをしっかり閉めなさい。
-Can I borrow your scissors? "Sure, here you are."
+"Can I borrow your scissors?" "Sure, here you are."
 borrow,scissors,Sure,here,you,are
 ｢ハサミを貸してもらえる？」「もちろん。はいどうぞ｡」  
 You can substitute some transparent glue for a needle and thread.
@@ -322,7 +322,7 @@ getting,rid,of,leather,worn,elbows
 Add some flour to the mixture and stir it until it becomes thick.
 Add,flour,mixture,stir,thick
 その混ぜ合わせたものに小麦粉を加えて、とろみがつくまでかき混ぜましょう。
-What should we do with the leftovers? "Keep them in the fridge for now. I'll heat them in the microwave later."
+"What should we do with the leftovers?" "Keep them in the fridge for now. I'll heat them in the microwave later."
 do,with,leftovers,fridge,for,now,microwave
 「残り物をどうしよう？」 「とりあえず冷蔵庫に入れておいて。 後で電子レンジで温め直すよ。」  
 I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day.
@@ -346,7 +346,7 @@ made,believe,dinosaurs,scolded
 After he bumped into the shelf, the priceless china fell and shattered into fragments.
 bumped,shelf,priceless,china,shattered,fragments
 彼が棚にぶつかり、とても高価な陶磁器が落ちて粉々に割れてしまった。
-"Can you keep an eye on my kids for a while? I need to pick up Ken. "No problem."
+"Can you keep an eye on my kids for a while? I need to pick up Ken." "No problem."
 keep,an,eye,on,for,while,pick,up
 「うちの子たちをちょっと見ててもらえる？ケンを迎えに行かないといけないの｡」「いいよ｡」  
 Our neighbor told us off for making a mess in his yard.
@@ -364,10 +364,10 @@ tired,of,dishes,laundry,and,so,on
 My favorite pastime is strolling along the shore. It's pleasant.
 favorite,pastime,strolling,shore,pleasant
 時間があいたときの一番の楽しみは浜辺の散歩です。気持ちいいですよ。
-I'm exhausted! Let's take a break in the shade. "Why not?"
+"I'm exhausted! Let's take a break in the shade." "Why not?"
 exhausted,take,break,shade,Why,not
 「私、もうくたくた。日陰で休憩しましょう｡」「そうだね｡」  
-Bob, this vending machine is out of order. "Oh no! I'm dying of thirst!"
+"Bob, this vending machine is out of order." "Oh no! I'm dying of thirst!"
 vending,machine,order,dying,thirst
 「ボブ、この自動販売機、故障してるわ｡」「何だって！喉が乾いて死にそうだよ！」  
 He fainted with hunger and fatigue, but came to after a while.
@@ -412,7 +412,7 @@ turn,our,backs,on,desperate,risk
 The parliament decided to provide developing countries with financial aid.
 parliament,provide,developing,countries,financial,aid
 議会は発展途上国に財政援助を行うことを決議した。
-Some say the British monarchy should be abolished. What do you think?"
+"Some say the British monarchy should be abolished. What do you think?"
 monarchy,abolished,What,do,you,think
 英国の君主制は廃止されるべきだと言う人もいるけど、あなたはどう思う？
 They sought shelter from the attack but found no place to hide.
@@ -451,7 +451,7 @@ hostile,jealous,wealth,status
 I hate him! He behaves as if he were somebody.
 hate,behaves,as,if,somebody
 彼のことは大嫌い。まるで自分が大物であるかのように振る舞うのよ。
-In spite of our compliments, he frowned and turned away.He was so rude!
+In spite of our compliments, he frowned and turned away. He was so rude!
 In spite of our compliments,frowned,turned,away,rude
 僕たちがほめ言葉をかけたのに、彼は顔をしかめてそっぽを向いた。失礼だ！
 He claimed that the enormous property was at his disposal.
@@ -463,7 +463,7 @@ The,more,stubborn,isolated
 "Don't beat around the bush! What am I supposed to do?" "Just wait and see. Time will tell."
 bush,supposed,Just,wait,and,see,Time,will,tell
 「遠回しな言い方はやめてくれ！僕にどうしろって言うんだ？」 「慌てずに待つしかありません。時が経てばわかります。」  
-Please hand in your assignment via e-mail no later than 5:00 PM on |une 10.
+Please hand in your assignment via e-mail no later than 5:00 PM on June 10.
 hand,in,assignment,via,no,later,than
 課題は電子メールで6月10日の午後5時までに提出して下さい。
 Joe is anything but diligent. That's why he flunked math again.
@@ -481,7 +481,7 @@ deal,with,complicated,Leave,to,piece,of,cake
 "Nick, I want you to look this over before I turn it in." "Sorry, but I have my hands full right now."
 look,over,turn,in,have,my,hands,full,right,now
 「ニック、これを提出する前にざっと目を通して欲しいの。」 「ごめん、今、手が離せないんだ。」  
-" What if I don't meet the deadline?" "I bet he'll get mad at you!"
+"What if I don't meet the deadline?" "I bet he'll get mad at you!"
 What,if,meet,deadline,bet,mad
 「締め切りに間に合わなかったらどうなる？」 「きっと彼に怒られるぞ！」  
 Your summary leaves nothing to be desired apart from the terrible handwriting.
@@ -511,7 +511,7 @@ is,interested,academic,subjects,practical,skills
 "Something's gone wrong with this microscope. I need to have it repaired." "Let me see it. Maybe I can fix it."
 gone,wrong,with,microscope,have,repaired,Let,me,see,it,fix
 ｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」  
-"What is 'an instrument?" "For instance, a gauge, such as a thermometer or a barometer."
+"What is 'an instrument'?" "For instance, a gauge, such as a thermometer or a barometer."
 instrument,instance,gauge,such,as,thermometer,barometer
 「インストゥルメントって何ですか？」「例えば、温度計や気圧計とかの計器がそうです。」  
 The minute particles are barely visible to the naked eye.
@@ -545,7 +545,7 @@ People should be judged not so much by how they look as by who they are.
 judged,not,so,much,as,how,they,look,who,they,are
 人は外見ではなく、むしろ中身で判断されるべきだ。
 "It's not your title that counts. That's for sure!" exclaimed Bob.
-It's,title,that,counts,for,sure,exclaimed
+It's,title,that,counts,for,sure,exclaimed.
 「大切なのは肩書きなんかじゃない。絶対そうだ！」と、ボブは語気を強めて言った。 
 As a self-made man put it, "A man of vision will make good in the end."
 As,self-made,put,it,of,vision,make,good,in,the,end
@@ -556,7 +556,7 @@ Keep,in,mind,youth,eternal
 I can't figure out why on earth everybody feels so much contempt for Bob!
 figure,out,on,earth,contempt
 いったいなぜみんながそれ程までにボブを軽蔑するのか、僕にはわからない。
-I can't help laughing at him because he keeps on making stupid mistakes.He'd be the last person to learn his lesson.
+I can't help laughing at him because he keeps on making stupid mistakes. He'd be the last person to learn his lesson.
 can't,help,laughing,at,keeps,on,stupid,mistakes,learn,his,lesson
 彼のことを笑わずにはいられない。ばかな間違いを繰り返すからね。きっと彼は懲りないんだろうな。
 To make matters worse, he isn't even conscious of annoying us.
@@ -598,7 +598,7 @@ patience,give,out,grabbed,collar,swore
 I must admit we quarrel every now and then, but generally we're on good terms with each other.
 admit,quarrel,every,now,and,then,generally,on,good,terms,with
 確かに、私たちは時々口げんかもしますが、普段は仲良くやっています。
-" Do you mind if I stop by your house?" "No, not at all. Be my guest!"
+"Do you mind if I stop by your house?" "No, not at all. Be my guest!"
 Do,you,mind,if,stop,by,not,at,all,Be,my,guest
 「君の家に寄ってもいいかい？」 「もちろんいいわよ。気兼ねなく！」 
 Hold on. I'll be right back. Don't hang up!
@@ -610,7 +610,7 @@ put,up,For,one,thing,dad,drop,in,from,time,to,time
 While Jennifer was standing still, Bob was pacing back and forth along the sidewalk.
 still,pacing,back,and,forth,sidewalk
 ジェニファーがじっと立っている間、ボブは歩道を行ったり来たりしていた。
-"Let's make up, Lisa." "Stop taking me for granted! We're through for good this time.I mean it!"
+"Let's make up, Lisa." "Stop taking me for granted! We're through for good this time. I mean it!"
 make,up,taking,for,through,for,good,mean,it
 「仲直りしようよ、リサ。」 「私がいて当然だなんて思わないで。私たち、今度は永遠に終わりよ。本気なんだから！」 
 Come on! Don't get so emotional, Lisa. I didn't mean to hurt you. Let's talk it over.
@@ -1534,7 +1534,7 @@ To,tell,the,truth,classical,On,the,other,hand,is,into
 Bob derives pleasure from observing insects.
 derives,pleasure,from,observing,insects
 ボブは昆虫の観察に楽しみを感じている。
-How about playing cards or something for a change?Sorry, I'm not up for it.
+How about playing cards or something for a change? Sorry, I'm not up for it.
 How,about,cards,or,something,for,change,I'm,not,up,for,it
 「気分転換にトランプか何かしない？」「わるいけど、そういう気分じゃないよ。」 
 "After you." "No pleasure, you go ahead." "Thanks." "You're welcome."
@@ -1543,10 +1543,10 @@ After,you,you,go,ahead,You're,welcome.
 His niece is sociable and mature for her age. She could pass for twenty-something.
 niece,sociable,mature,for,age,pass,for,twenty-something
 彼の姪は年の割には社交的で大人だ。二十代と言っても通用する。
-Take care of yourself and say hi to your family for me.I will. See you later.
+Take care of yourself and say hi to your family for me. I will. See you later.
 Take,care,of,say,hi,to,See,you,later
 「じゃあね。家族のみんなによろしく。」「ああ。またね。」 
-I'm looking forward to hearing from you.Sincerely,
+I'm looking forward to hearing from you. Sincerely,
 looking,forward,to,hearing,from,Sincerely
 お返事頂けるのを楽しみにしております。敬具
 Can you spare a minute? I'd like to discuss something of importance to both of us.
@@ -1573,8 +1573,8 @@ Between,you,and,me,came,across,passionately,embracing
 Such a remark is open to misunderstanding.
 remark,open,to,misunderstanding
 そういう発言は誤解を招きやすい。
-"I can't stand it anytmore!" "Calm down. I'll come over as soon as possible."
-stand,anytmore,Calm,down,come,over,as,as,possible
+"I can't stand it anymore!" "Calm down. I'll come over as soon as possible."
+stand,anymore,Calm,down,come,over,as,as,possible
 「もう我慢できないっ！」「落ち着けよ。すぐそこに行くから。」 
 Don't take it literally. He is inclined to exaggerate.
 literally,inclined,to,exaggerate

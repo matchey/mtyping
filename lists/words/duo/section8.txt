@@ -1,0 +1,41 @@
+A is to blame for B,BはAのせいだ（動）
+A on board,(飛行機などに)乗っているA（形）
+Vienna,(オーストリアの首都)ウィーン（名）
+accident,事故（名）
+analyze A,Aを分析する（動）
+around the clock,昼夜休むことなく（副）
+aviation,航空（名）
+blow up,(建物などが)爆発する（動）
+cabin,(飛行機・船などの)客室（名）
+catastrophe,大惨事（名）
+cause,原因（名）
+crash,(飛行機の)墜落（名）
+defect,(機械などの)欠陥（名）
+delay A,Aを遅らせる（動）
+disaster,惨事（名）
+every A,Aごとに（形）
+expert,専門家、評論家（名）
+express A,Aを表現する（動）
+few,(数が)ほとんどない[いない]（形）
+flammable,可燃性の（形）
+flight,飛ぶこと、(飛行機の)便（名）
+in a sense,ある意味では（副）
+in detail,細部に（副）
+inspect A,Aを(綿密に)検査する（動）
+item,品目、アイテム（名）
+look into A,Aを調査する（動）
+minor,(程度・重要度などが)小さな（形）
+ocean,海（名）
+on account of A,(好ましくないこと)Aが理由で（前）
+on behalf of A,Aの代表[代理]として（前）
+passenger,(乗物に)乗る人、乗客（名）
+plane,飛行機（名）
+plunge into A,Aに勢いよく[激しく]飛びこむ（動）
+prohibit,(法律・規則で・行為)禁止する（動）
+staff,社員、職員(全体)（名）
+statistics,(複数扱い)統計（名）
+survive A,(事故など)Aで生き残る（動）
+sympathy,同情、共感（名）
+unfortunately,不幸[不運]にも（副）
+vehicle,車両、乗り物（名）
+victim,犠牲者、被害者（名）

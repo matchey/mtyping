@@ -1,0 +1,67 @@
+I'm afraid A,もしかしたらAかなぁ（定）
+abroad,海外に(で)（副）
+advise A to B,AにBするよう助言[忠告]する（動）
+alcohol,酒、アルコール（名）
+amount,量（名）
+appropriate,ふさわしい、適切な（形）
+aspirin,鎮痛剤（名）
+be obliged to A,Aせざるを得ない、Aを余儀なくされる（動）
+bedridden,(病気・高齢で)寝たきりの（形）
+beverage,(水以外の)飲物、キリン○○（名）
+blood,血（名）
+cabinet,内閣（名）
+catch a cold,風邪をひく（動）
+circulation,循環（名）
+come down with A,(風邪など)Aにかかる、Aで体調を崩す（動）
+contribute to A,Aの一因となる（動）
+cure...of A,…(人)のA(病気)を治す（動）
+diarrhea,下痢（名）
+dizzy,めまいがする（形）
+do,本当に、是非(…する)（動）
+especially,特に、とりわけ（副）
+excessive,過度の（形）
+exercise,(体の)運動（名）
+feel like doing,doingしたいな、doingしたい気がする（動）
+for the time being,当分の間は（副）
+get into shape,体調を良くする（動）
+go doing,(自分の意思で)doingしに行く、doingを楽しむ（動）
+government,政府（名）
+growth,成長、発展（名）
+harmful,有害な（形）
+headache,頭痛（名）
+hypothesis,仮説（名）
+in no time,(驚くほど)すぐに（副）
+infant,乳児、幼児（名）
+infection,伝染、感染（名）
+ingredient,(食品などの)成分、原料（名）
+jet lag,時差ボケ（名）
+junk food,ジャンクフード（名）
+look after A,Aの面倒を見る（動）
+lose weight,体重が減る（動）
+minister,大臣（名）
+moderate,(程度・量が)適度な、手ごろな（形）
+mortality,(避けられない)死ぬべき運命（名）
+nasty,(病気・怪我などが)ひどい（形）
+nutrition,栄養摂取（名）
+oblige,余儀なくさせる（動）
+organ,器官、臓器（名）
+pale,顔色が悪い、青白い（形）
+persuade A to B,(人)Aを説得してBさせる（動）
+physician,医師（名）
+pregnant,妊娠している（形）
+prevent A from doing,Aにdoingさせない、Aがdoingすることを(事前に)防ぐ（動）
+refrain from A,Aを控える（動）
+resign from A,Aを辞職する[辞任する]（動）
+sort of,ちょっと、何か、大体、どちらかと言うと、多少（副）
+spread,(病気・情報などが)広がる（動）
+stay up late,夜更かしする（動）
+stimulate A,Aを刺激する（動）
+suffer from A,A(病気など)で苦しむ（動）
+surgeon,外科医（名）
+take turns doing,doingを交代でする（動）
+take...measures,手段を取る、対策を取る、 策を講じる（動）
+take...off,(日数)...の休みを取る（動）
+throw up,吐く（動）
+transplant,移植(手術[治療])（名）
+undergo A,Aを経験する[受ける]（動）
+vital,極めて重要な（形）

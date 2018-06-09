@@ -154,8 +154,17 @@ void Mtyping::play()
 	}
 
 	auto elaped = chrono::duration_cast<chrono::milliseconds>(end - start).count();
+	int score = round((cnt_char-cnt_miss) / (1e-3 * elaped / 60.0));
+	char rank = 'F' - (score - 230)/10;
+	rank = rank < 'A' ? 'S' : rank;
+
+	cout << "==========" << endl;
 	cout << "CPM  : " << round(cnt_char / (1e-3 * elaped / 60.0)) << endl; // characters per minute
 	cout << "miss : " << cnt_miss << endl; // "word" means "5 characters" for WPM
+
+	cout << "Score: " << score << endl;
+	cout << "rank : " << rank << endl;
+	cout << "==========" << endl;
 }
 
 // private

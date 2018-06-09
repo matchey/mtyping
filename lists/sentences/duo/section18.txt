@@ -7,7 +7,7 @@ patience,give,out,grabbed,collar,swore
 I must admit we quarrel every now and then, but generally we're on good terms with each other.
 admit,quarrel,every,now,and,then,generally,on,good,terms,with
 確かに、私たちは時々口げんかもしますが、普段は仲良くやっています。
-" Do you mind if I stop by your house?" "No, not at all. Be my guest!"
+"Do you mind if I stop by your house?" "No, not at all. Be my guest!"
 Do,you,mind,if,stop,by,not,at,all,Be,my,guest
 「君の家に寄ってもいいかい？」 「もちろんいいわよ。気兼ねなく！」 
 Hold on. I'll be right back. Don't hang up!
@@ -19,7 +19,7 @@ put,up,For,one,thing,dad,drop,in,from,time,to,time
 While Jennifer was standing still, Bob was pacing back and forth along the sidewalk.
 still,pacing,back,and,forth,sidewalk
 ジェニファーがじっと立っている間、ボブは歩道を行ったり来たりしていた。
-"Let's make up, Lisa." "Stop taking me for granted! We're through for good this time.I mean it!"
+"Let's make up, Lisa." "Stop taking me for granted! We're through for good this time. I mean it!"
 make,up,taking,for,through,for,good,mean,it
 「仲直りしようよ、リサ。」 「私がいて当然だなんて思わないで。私たち、今度は永遠に終わりよ。本気なんだから！」 
 Come on! Don't get so emotional, Lisa. I didn't mean to hurt you. Let's talk it over.

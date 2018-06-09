@@ -1,0 +1,46 @@
+A or something,A か何か（名）
+After you,お先にどうぞ（定）
+How about A ?,Aはいかがですか？（定）
+I'm not up for it,そういう気分じゃないよ（定）
+See you later,またね（定）
+Take care of yourself,じゃあね、体に気をつけてね（定）
+You're welcome,どういたしまして（定）
+adjust,調節する、調整する（動）
+adjust to A,Aに順応する（動）
+among,～の中で、～の間に(前)
+be good at A,Aが上手だ（動）
+be into A,Aにはまっている（趣味など)（動）
+belong,受け入れられる場所にいる（動）
+card,カード、トランプ札、トランプ（名)
+classical,クラシックの…（形）
+derive A from B,B から A を引き出す、BからAを得る（動）
+extremely,極度に（副）
+for a change,気分転換に（副）
+for her age,年の割には（副）
+go ahead,先へ進む、お先にどうぞ（動）
+hear from you,あなたから連絡をもらう（手紙・電話などで）（動）
+insect,昆虫（名）
+keep to A,Aから離れない[それない]（動）
+keep to oneself,自分の殻に閉じこもる（動）
+lonely,孤独な（形）
+look forward to doing,doingを楽しみにする（動）
+make friends,仲良しになる[親しくなる]（動）
+mature,大人になった、大人びた、円熟した、熟成した（形）
+niece,姪（名）
+observe,観察する（動）
+on the other hand,しかし一方では（副）
+out of place,場違いの、浮いてしまって（形）
+pass for A,Aとして通用する（動）
+play cards,トランプをする[で遊ぶ]（動）
+pleasure,楽しみ（名）
+pretty,かなり（副）
+say hi to A for me,A(人)によろしく（定）
+sincerely,心から（副） 敬具（定）
+sociable,社交的な（形）
+sophisticated,洗練された（形）
+surroundings,環境、状況（名）
+take care of A,Aの世話をする（動）
+to tell the truth,実を言うと（副）
+twenty-something,二十何歳、二十代（名）
+uneasy,不安な（形）
+utterly,全く（副）

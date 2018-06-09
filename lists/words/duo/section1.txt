@@ -1,0 +1,41 @@
+Take it easy,気楽にやれ（定）
+assure A that B,(人)AにBを確約する[保証する]（動）
+attitude,態度（名）
+awful,ひどい（形）
+constitution,憲法（名）
+creed,(宗教上の)信条（名）
+equality,平等（名）
+ex-A,前のA(頭)
+fair,公平な（形）
+gaze at A,(意識を奪われて)Aをじっと見つめる（動）
+gender,性別（名）
+give off A,(臭い・光・熱)Aを発する（動）
+guarantee A,Aを保証する、Aを約束する（動）
+individual,個人（名）
+lean A,Aに寄りかかる（動）
+let go of A,Aを離す、Aを捨てる（動）
+liberty,自由（名）
+maintain A,(関係)Aを維持する（動）
+national origin,国籍、生まれた国
+negative,悲観的な（形）
+outlook on A,Aに対する見方[態度]、…観（名）
+pass by A,Aのそばを通り過ぎる（動）
+perfume,香水（名）
+pillar,柱、支柱（名）
+positive,積極的な、前向きな（形）
+regardless of A,Aにかかわらず
+remind A of B,AにBを思い出させる（動）
+respect A,(気持・意見など)Aを尊重する（動）
+scent,(いい)香り（名）
+smell A,(物が)Aな匂いがする（動）
+soaked,(雨などで)びしょ濡れの（形）
+stand back,(邪魔・迷惑だから)後ろに下がる（動）
+statue,彫像（名）
+stink,悪臭がする、(ひどく)くさい（動）
+subtle,かすかな（形）
+sweat,汗（名）
+take a shower,シャワーを浴びる（動）
+taste A,(飲食物が)Aの味がする（動）
+terrific,素晴らしい（形）
+turn out A,(最終的に)Aという結果になる（動）
+will,意志（名）

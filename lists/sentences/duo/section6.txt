@@ -1,7 +1,7 @@
-Anything else? "That's it." "For here or to go?" "To go."
+"Anything else?" "That's it." "For here or to go?" "To go."
 Anything,else,That's,For,here,or,To,go
 「ほかにご注文は?」「こちらでお召し上がりですか？」「持ち帰ります。」  
-How much is this rug? "$100 including tax." "OK, I'll take it."
+"How much is this rug?" "$100 including tax." "OK, I'll take it."
 rug,including,tax,I'll,take,it
 「この敷物はおいくらですか?」「税込みで100ドルです」「じゃあ、これにします。」  
 I don't think those pants look good on you. Try these on. They're really in now!
@@ -13,7 +13,7 @@ got,out,cab,in,haste,Keep,the,change
 Delivery service is available to our customers for a slight extra charge.
 Delivery,service,available,customers,slight,extra,charge
 当店のお客様は､わずかな追加料金で配達サービスをご利用できます。
-It's on me. "No. You treat me every time we eat out." "Well, okay. Let's split the check then."
+"It's on me." "No. You treat me every time we eat out." "Well, okay. Let's split the check then."
 It's,on,me,treat,every,time,eat,out,split,check
 「これは僕のおごり。」 「だめよ。外食のときはいつもおごってもらっていいるし。」 「うーん、わかった。じゃあ割り勘にしよう。」  
 While I was hanging out at the mall, I ran into Ken.
@@ -25,7 +25,7 @@ was,short,of,withdrew,deposited,account
 On her way home she was robbed of her purse.
 On,her,way,robbed,purse
 彼女は帰宅途中にハンドバッグを盗まれた。
-That's odd! Tell me how it happened. "I'll explain it to you later."
+"That's odd! Tell me how it happened." "I'll explain it to you later."
 odd,happened,explain
 「それは変だわ。どうしてそんなことが起きたのか教えて。」 「後で説明するよ。」  
 My parents gave me a 6 pm curfew as a punishment because I broke my promise.

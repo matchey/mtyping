@@ -1,0 +1,57 @@
+a piece of A,一つ[一個]のA（形）
+abstract,抽象的な（形）
+article,記事（名）
+at times,たまに、時々（副）
+be beside oneself,ひどく興奮する、取り乱す （動）
+be eager to A,しきりにAしたがっている（動）
+be familiar with A,Aを(よく)知っている（動）
+be on display,展示されている（動）
+beyond description,言葉では表せない(ほど)（形）（副）
+carve,…を彫る（動）
+city hall,市庁舎（名）
+combine A with B,AとBを組み合わせる（動）
+come out,発売される、出版される（動）
+confuse A with B,AとBを混同する（動）
+contain A,Aを含んでいる（動）
+contemporary,現代の（形）
+correct,正しい（形）
+curve,曲線（名）
+edition,(本などの)版（名）
+encyclopedia,百科事典（名）
+fable,寓話（名）
+fabulous,素敵な（形）
+facinating,(人を)魅了する（形）
+fact,現実（名）
+fairy tale,おとぎ話（名）
+fiction,作り話、虚構（名）
+following,(伝える内容が)以下の…（形）
+gift,(天賦の)才能（名）
+hall,廊下（名）
+increase A,Aを増やす（動）
+latest,最新の（形）
+literature,文学（名）
+more or less,だいたい（副）
+move over,(人が座れるように)席を詰める（動）
+next to,…の隣に、ほとんど...（定）
+novel,小説（名）
+object,物体、物（名）
+passage,(文章などの)一節（名）
+plain,平易な、やさしい、明瞭な（形）
+poetry,(文学の一分野)詩（名）
+pronunciation,発音（名）
+prose,散文（名）
+publish A,Aを出版する（動）
+quote A,Aを引用する（動）
+realize A,Aということに気付く（動）
+scarcely,ほとんど(し)ない（副）
+shy,恥ずかしがりの（形）
+take up A,(必要以上に空間・時間など)Aを取る（動）
+tell A from B,AをBと区別する（動）
+those who A,Aという人たち(代)
+tip,役立つ情報（名）
+translate A,Aを翻訳する（動）
+ugly,醜い、不格好[不細工]な（形）
+up-to-date,(情報などが)最新の…（形）
+vocabulary,語彙（名）
+well-known,有名な（形）
+work,作品（名）

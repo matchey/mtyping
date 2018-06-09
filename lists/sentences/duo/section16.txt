@@ -17,7 +17,7 @@ People should be judged not so much by how they look as by who they are.
 judged,not,so,much,as,how,they,look,who,they,are
 人は外見ではなく、むしろ中身で判断されるべきだ。
 "It's not your title that counts. That's for sure!" exclaimed Bob.
-It's,title,that,counts,for,sure,exclaimed
+It's,title,that,counts,for,sure,exclaimed.
 「大切なのは肩書きなんかじゃない。絶対そうだ！」と、ボブは語気を強めて言った。 
 As a self-made man put it, "A man of vision will make good in the end."
 As,self-made,put,it,of,vision,make,good,in,the,end

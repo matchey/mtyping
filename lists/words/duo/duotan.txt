@@ -1,0 +1,2644 @@
+Take it easy,気楽にやれ（定）
+assure A that B,(人)AにBを確約する[保証する]（動）
+attitude,態度（名）
+awful,ひどい（形）
+constitution,憲法（名）
+creed,(宗教上の)信条（名）
+equality,平等（名）
+ex-A,前のA(頭)
+fair,公平な（形）
+gaze at A,(意識を奪われて)Aをじっと見つめる（動）
+gender,性別（名）
+give off A,(臭い・光・熱)Aを発する（動）
+guarantee A,Aを保証する、Aを約束する（動）
+individual,個人（名）
+lean A,Aに寄りかかる（動）
+let go of A,Aを離す、Aを捨てる（動）
+liberty,自由（名）
+maintain A,(関係)Aを維持する（動）
+national origin,国籍、生まれた国
+negative,悲観的な（形）
+outlook on A,Aに対する見方[態度]、…観（名）
+pass by A,Aのそばを通り過ぎる（動）
+perfume,香水（名）
+pillar,柱、支柱（名）
+positive,積極的な、前向きな（形）
+regardless of A,Aにかかわらず
+remind A of B,AにBを思い出させる（動）
+respect A,(気持・意見など)Aを尊重する（動）
+scent,(いい)香り（名）
+smell A,(物が)Aな匂いがする（動）
+soaked,(雨などで)びしょ濡れの（形）
+stand back,(邪魔・迷惑だから)後ろに下がる（動）
+statue,彫像（名）
+stink,悪臭がする、(ひどく)くさい（動）
+subtle,かすかな（形）
+sweat,汗（名）
+take a shower,シャワーを浴びる（動）
+taste A,(飲食物が)Aの味がする（動）
+terrific,素晴らしい（形）
+turn out A,(最終的に)Aという結果になる（動）
+will,意志（名）
+a piece of A,一つ[一個]のA（形）
+abstract,抽象的な（形）
+article,記事（名）
+at times,たまに、時々（副）
+be beside oneself,ひどく興奮する、取り乱す （動）
+be eager to A,しきりにAしたがっている（動）
+be familiar with A,Aを(よく)知っている（動）
+be on display,展示されている（動）
+beyond description,言葉では表せない(ほど)（形）（副）
+carve,…を彫る（動）
+city hall,市庁舎（名）
+combine A with B,AとBを組み合わせる（動）
+come out,発売される、出版される（動）
+confuse A with B,AとBを混同する（動）
+contain A,Aを含んでいる（動）
+contemporary,現代の（形）
+correct,正しい（形）
+curve,曲線（名）
+edition,(本などの)版（名）
+encyclopedia,百科事典（名）
+fable,寓話（名）
+fabulous,素敵な（形）
+facinating,(人を)魅了する（形）
+fact,現実（名）
+fairy tale,おとぎ話（名）
+fiction,作り話、虚構（名）
+following,(伝える内容が)以下の…（形）
+gift,(天賦の)才能（名）
+hall,廊下（名）
+increase A,Aを増やす（動）
+latest,最新の（形）
+literature,文学（名）
+more or less,だいたい（副）
+move over,(人が座れるように)席を詰める（動）
+next to,…の隣に、ほとんど...（定）
+novel,小説（名）
+object,物体、物（名）
+passage,(文章などの)一節（名）
+plain,平易な、やさしい、明瞭な（形）
+poetry,(文学の一分野)詩（名）
+pronunciation,発音（名）
+prose,散文（名）
+publish A,Aを出版する（動）
+quote A,Aを引用する（動）
+realize A,Aということに気付く（動）
+scarcely,ほとんど(し)ない（副）
+shy,恥ずかしがりの（形）
+take up A,(必要以上に空間・時間など)Aを取る（動）
+tell A from B,AをBと区別する（動）
+those who A,Aという人たち(代)
+tip,役立つ情報（名）
+translate A,Aを翻訳する（動）
+ugly,醜い、不格好[不細工]な（形）
+up-to-date,(情報などが)最新の…（形）
+vocabulary,語彙（名）
+well-known,有名な（形）
+work,作品（名）
+... to come,これから来る…(形)
+So am I,(先行文に答えて)私もそうです（定）
+a lot of A,たくさんの(数の)A (形)
+aging,高齢化(名)
+alarming,(悪いことの増加が)深刻な(形)
+announce A,Aを公表[発表]する(動)
+anticipate,…を予期する（動）
+as it is,（残念ながら）実際のところ（副）
+at a ... rate,…なペース[割合]で(副)
+be apt to A,Aしがちである(動)
+be broke,(全然)お金がない、すっからかんだ(動)
+be for sale,売り物である(動)
+be in demand,需要がある(動)
+be on the increase,増加している(動)
+beg A,(人に)Aにすがってお願いする（動）
+birthrate,出生率(名)
+buck,ドル(名)
+buy A on impulse,Aを衝動買いする（動）
+can afford to A,Aする（金銭的・時間的な）余裕がある（動）
+carry ... out,…(計画・任務など)を実行する(動)
+certain,(特定はできないが)ある…(形)
+chart,図、表(名)
+competent,能力[技能]を持つ(形)
+compromise,妥協する(動)
+concrete,(計画などが)具体的な(形)
+consequence,(当然の)結果、影響(名)
+continue to A,Aし続ける(動)
+cut down on A,Aを減らす（動）
+daily,毎日の(形)
+decent,かなりよい(形)
+decline,減少する(=decrease)(動)
+decrease,減少[低下]する(=decline)(動)
+deliquency,非行(名)
+density,密度(名)
+dismal,気分を暗くさせる(形)
+district,地区(名)
+earn A,(金を)Aを稼ぐ(動)
+expense,(個々の)出費(名)
+from now on,これからは(副)
+gradually,徐々に(副)
+in a row,連続で（副）
+in all likelihood,ほぼ間違いなく(副)
+in any case,とにかく、いずれにせよ(副)
+indicate A,(事実・兆候など)Aを示す(動)
+inevitable,避けられない(形)
+it goes without saying that A,Aは言うまでもない(定)
+juvenile,青少年の、少年の(形)
+keep track of A,Aの動き[流れ]を常に記録する(動)
+lead to A,(結果)Aに至る[を導く](動)
+lend B A,BにA（物・金）を貸す（動）
+lot,たくさんの量、一区画(名)
+luxury,贅沢品（名）
+mechanic,整備士、修理工(名)
+metropolis,大都市(名)
+no doubt,きっと(副)
+on a A basis,Aという基準[やり方]で(副)
+on impulse,衝撃的に(副)
+on sale,バーゲン[特売]で(副)
+ordinary,普通の（形）
+policy,政策(名)
+population,人口(名)
+president,大統領(名)
+purchase A,Aを購入する（動）
+quarter,四半期（名）
+rate,率、割合（名）
+reform,(制度などの)改革(名)
+review,見直し(名)
+rise,（数・量などが）上がる、増える（動）
+shake one's head,NOと言う(動)
+steadily,着実に(副)
+take a look at A,Aをちょっと見る(動)
+thorough,(調査などが)徹底的な(形)
+to ... extent,…の程度(副)
+unemployment,失業（名）
+union,労働組合(名)
+vacant,(家・座席などが)誰もいない空いている(形)
+wages,賃金(名)
+welfare,福祉(名)
+allow A to B,AにBすることを許す(動)
+as well as A,Aだけでなく(前)
+attorney,弁護士(名)
+by far,[比較級・最上級を強めて]間違いなく、はるかに(副)
+cannot A too much,いくらAしてもし過ぎる事はない(構)
+client,(弁護士・設計事務所などの)依頼人、顧客(名)
+consult A,(専門家など)Aに相談する(動)
+county,(米国の)郡(名)
+cultivate A,(土地)Aを栽培する(動)
+danger,危険(な状況)、危険性(名)
+device,装置(名)
+electricity,電気(名)
+emphasize,…を強調[力説]する(動)
+energy,(石油・電気などの)エネルギー(名)
+establish A,Aを設立する(動)
+expose A to B,AをBにさらす(動)
+farmer,(近代的な)農業経営者(名)
+grain,穀物(名)
+grocery store,食料雑貨店(名)
+have a bad memory,記憶力が悪い(動)
+if anything,むしろ、どちらかと言えば(副)
+in fact,実際は(副)
+in person,(電話や代理人を使わず)本人と直接会って(副)
+inhabitant,住民(名)
+institute,理系の大学、組織(名)
+insurance,保険(名)
+just in case,[文末に用いて]念のため(副)
+legal,法的な…(形)
+make... of A,Aに対して...な評価[判断]をする(動)
+nuclear,核の、原子力の(形)
+operate A,(機械)Aを動かす[操作する](動)
+overlook A,(不注意で)Aを見落とす[見過ごす(動)
+permission,(正式な)許可(名)
+potential,潜在的な(形)
+power,(電気・ガスなどの)エネルギー(名)
+power plant,発電所(名)
+press,[the -]報道陣[機関](名)
+prominent,(人が)傑出した、著名な(形)
+radiation,放射機能、放射能(名)
+recommend that A B,(人)AにBするのがいいと勧める(動)
+remote,(距離などが)遠く離れた(形)
+researh,研究[調査](名)
+run A,Aを経営[運営]する(動)
+supply A with B,AにBを供給する(動)
+take A action,Aな行動をとる(動)
+the late 1960s,1960年代後半
+why don't you A?,Aしたら？、Aしてみるのどう？(定)
+write A down,(忘れないように)Aを書き留める(動)
+A as a whole,Aを全体[一つ]として（形）
+No way!,まさか！(感)
+absolutely,全くの（副）
+annual,年に一度の…（形）
+antique,骨董品（名）
+apply A to B,(理論など)AをBに応用[適用]する（動）
+back,背中、腰（名)
+be absent from A,Aを欠席する（動）
+be entitled to A,(人に)Aする権利がある（動）
+be in A spirits,Aな気分[精神状態]である（動）
+be opposed to A,Aに反対である（動）
+be proud of A,Aを誇りに思う（動）
+bend down,腰をかがめる（動）
+benefit,(恩恵、幸福などの非金銭的な)利益（名）
+beyond the reach of A,Aの届かない範囲に（前）
+biologist,生物学者（名）
+bite A,Aを噛む（動）
+boast about A,Aを自慢げに話す（動）
+brain,脳（名）
+breakthrough,(科学・技術などの)飛躍的な発展（名）
+brief,短時間の（形）
+bring ... about,…(変化など)をもたらす（動）
+cancer,がん（名）
+cattle,(畜産用の)牛（名）
+classify A,Aを分類する（動）
+clone,クローンを作る（動）
+compensate A for B,AにB(損害)を補償する（動）
+complex,(構造などが)複雑な（形）
+conference,(公式の大きな)会議（名）
+die of A,(病気など)Aで死ぬ（動）
+discovery,発見(したもの)（名）
+disease,病気A（名）
+disgusting,ぞっとするような、キモい（形）
+effect,効果（名）
+epidemic,(伝染病の)流行（名）
+ethical,倫理上の、倫理的な（形）
+evolution,進化（名）
+fake,偽物の（形）
+fever,(病気による)高熱（名）
+flu,インフルエンザ（名）
+forbid,(絶対的な圧力で)禁止する（動）
+genuine,(物が)本物の（形）
+grandma,おばあちゃん（名）
+have a habit of A,(よくない)Aする癖がある（動）
+herbal,薬草の、漢方の（形）
+historic,歴史的(に重要)な（形）
+hug A,Aを(ギュッと)抱きしめる（動）
+human being,(神・動物・機械に対して)人間（名）
+humanity,人類（名）
+illness,病気B（名）
+imagination,想像力（名）
+initial,最初の（形）
+injury,けが、負傷（名）
+intese,(感情・勢いなどが)激しい、強烈な（形）
+let alone A,Aはなおさら(接)
+little by little,徐々に（副）
+mammal,哺乳動物（名）
+medical,医学の（形）
+nail,爪（名）
+no less than A,Aもの(多くの)（副）
+on A grounds,Aな理由から（副）
+owing to A,Aのために、Aが理由で（前）
+pill,錠剤（名）
+recover from A,(病気)Aから回復する（動）
+remedy,治療(法)（名）
+representative,代表者（名）
+so far,現在までに（副）
+so-called,いわゆる（形）
+son-in-law,娘婿（名）
+sore,(炎症などを起こして)痛い（形）
+stiff,(筋肉などが)凝った（形）
+stomach,胃（名）
+strain A,(無理をして体の一部)Aを痛める（動）
+structure,構造（名）
+symptom,(病気の)兆候、症状（名）
+technique,(実用的な)技術（名）
+theory,理論、学説（名）
+therapy,(特殊な)治療、療法（名）
+throat,のど（名）
+whale,クジラ（名）
+Anything else?,ほかに何か？（定）
+For here or to go?,こちらでお召し上がりですか？（定）
+I'll take it,それ[これ]にします[決めます]（定）
+It's on me,(この支払は)私のおごりです（定）
+That's it,（それで）以上です（定）
+account,(銀行)口座（名）
+as the proverb goes,ことわざにある通り（副）
+available,利用[入手・購入]可能な（形）
+be in,流行っている（動）
+be short of A,Aが不足している（動）
+break one's promise,約束を破る（動）
+cab,タクシー（名）
+check,（レストランの）伝票（名）
+curfew,門限（名）
+customer,(小売業・飲食業・企業の)客（名）
+delivery,配達（名）
+deposit A,(口座に)Aを預金する（動）
+eat out,外食する（動）
+end,終わり、(最終)目的（名）
+every time A,Aする時はいつでも（接）
+explain A to B,AをB(人)に説明する（動）
+extra charge,追加料金
+get out of A,(小型車など)Aから降りる（動）
+hang out,なんとなく時間を過ごす、ぶらぶらする（動）
+happen,(偶然・不意に)起こる（動）
+in haste,急いで（副）
+including A,Aを含めて（前）
+justify A,Aを正当化する（動）
+keep the change,お釣りはいりません（定）
+look good on A,(服などが)Aに似合う（動）
+mall,(巨大な)ショッピングセンター[モール]
+means,手段（名）
+now that A,(さあ[今や])Aなのだから(接)
+odd,奇妙な（形）
+on one's way to A,Aに向かう途中で（副）
+punishment,罰（名）
+purse,(女性用の)ハンドバック（名）
+rob A of B,A(人)からB(物・金)を奪う（動）
+rug,（床の一部に敷く装飾的な）敷物（名）
+run into A,Aに偶然出会う（動）
+service,(便利な)サービス（名）
+slight,(量・程度が)わずかな（形）
+split the check,割り勘にする（動）
+stand on one's own two feet,(人が)自立する（動）
+tax,税金（名）
+treat A,Aにごちそうする[ご褒美をあげる]（動）
+try A on,Aを試しに着てみる（動）
+turn to,(困った時)…に頼る（動）
+withdraw A,(口座から)Aを下す（動）
+No one,だれも…ない
+You flatte me,お世辞でもうれしいよ（定）
+admire A,Aを素晴らしい[すごい]と思う、Aに感心する（動）
+agree with A,(人)Aと同じ意見である（動）
+at first,最初は（副）
+back A up,Aを後援[支持]する（動）
+be getting at,…を言おうとしている（動）
+be grateful to A,(人)Aに感謝している（動）
+be inferior to A,Aよりも劣る（動）
+be on A side,Aの味方[側]である（動）
+be yet to A,まだAしていない（動）
+capacity,(人の)能力（名）
+chairman,(会議などの)議長（名）
+come up with A,(うまい考えなど)Aを考え出す（動）
+complete,完全な、全くの（形）
+consensus,(グループ内の)まとまった意見（名）
+courage,勇気（名）
+cut...off,･･･の話を遮る（動）
+deal,取引（名）
+defeat A,(相手)Aに勝つ、Aを負かす（動）
+desagree with A,(人)Aと意見が異なる（動）
+despite A,Aにもかかわらず（前）
+differ from A,Aと異なる（動）
+endeavor,(壮大な)試み、努力（名）
+eventually,最終的には（副）
+exchange A,(意見など)Aを交換する（動）
+expect A to B,AがBすることを期待する（動）
+experience,(長い時間をかけて習得した)経験（名）
+fail to A,(そうすべきなのに)Aしない（動）
+failure,失敗（名）
+fall through,(交渉・計画などが)うまくいかない（動）
+firsthand,(情報などが)直接得た（形）
+former,[the -]前者（名）
+frank,(良い意味で)率直な（形）
+from A viewpoint,Aの見地からすると、Aの観点でみると（副）
+genius,天賦の才能（名）
+go along with A,(意見など)Aに賛成する（動）
+go over A,Aをよく見る[説明する/考える]（動）
+immediately,直ちに（副）
+in doing,…する時は（前）
+in practice,(理論ではなく)実際には（副）
+in theory,理論的には（副）
+ingenious,(考えなどが)独創的な（形）
+instinct,本能（名）
+ironically,皮肉にも（副）
+lack,欠乏、不足（名）
+latter,[the -]後者（名）
+live up to A expectation,Aの期待にこたえる（動）
+logic,論理（名）
+make ... out,…(わかりにくいこと)を理解できる（動）
+make a decision,どうするかを決める（動）
+make up for A,(マイナス状態)Aを埋め合わせる（動）
+marvelous,すばらしい（形）
+matter,事柄、問題（名）
+meeting,(会社などの)会議、打ち合わせ（名）
+mission,(政治的・軍事的な)任務、使命（名）
+not A but B,AでなくB（定）
+objective,客観的な（形）
+obstacle,障害（名）
+opinion,意見、考え（名）
+opponent,(論争・試合などの)相手、対抗者（名）
+overcome A,Aを克服する（動）
+perseverance,不屈の努力（名）
+possess A,Aを所有する（動）
+put A into practice,(考え・計画など)Aを実行に移す（動）
+reach A,(合計・結論など)Aに達する（動）
+regarding A,Aに関して（前）
+rely on A,Aに頼る（動）
+result in A,(結果)Aに終わる（動）
+sensible,(人・判断などが)懸命な（形）
+solid,しっかりした、団結した（形）
+solution,(…に対する)解決策（名）
+somewhat,いくらか（副）
+sound A,(聞いたところ)Aのようだ（動）
+strictly speaking,厳密に言うと（副）
+support,支持（名）
+take a vote,決を取る（動）
+talk A into B,(人)Aを説得してBさせる（動）
+view,考え、見解（名）
+wind A up,(会合など)を)Aを終わりにする（動）
+wisdom,知恵（名）
+without A,Aがなかった[いなかった]なら（前）
+would have done,…していただろう（動）
+yet,しかし(それでも)(接)
+A is to blame for B,BはAのせいだ（動）
+A on board,(飛行機などに)乗っているA（形）
+Vienna,(オーストリアの首都)ウィーン（名）
+accident,事故（名）
+analyze A,Aを分析する（動）
+around the clock,昼夜休むことなく（副）
+aviation,航空（名）
+blow up,(建物などが)爆発する（動）
+cabin,(飛行機・船などの)客室（名）
+catastrophe,大惨事（名）
+cause,原因（名）
+crash,(飛行機の)墜落（名）
+defect,(機械などの)欠陥（名）
+delay A,Aを遅らせる（動）
+disaster,惨事（名）
+every A,Aごとに（形）
+expert,専門家、評論家（名）
+express A,Aを表現する（動）
+few,(数が)ほとんどない[いない]（形）
+flammable,可燃性の（形）
+flight,飛ぶこと、(飛行機の)便（名）
+in a sense,ある意味では（副）
+in detail,細部に（副）
+inspect A,Aを(綿密に)検査する（動）
+item,品目、アイテム（名）
+look into A,Aを調査する（動）
+minor,(程度・重要度などが)小さな（形）
+ocean,海（名）
+on account of A,(好ましくないこと)Aが理由で（前）
+on behalf of A,Aの代表[代理]として（前）
+passenger,(乗物に)乗る人、乗客（名）
+plane,飛行機（名）
+plunge into A,Aに勢いよく[激しく]飛びこむ（動）
+prohibit,(法律・規則で・行為)禁止する（動）
+staff,社員、職員(全体)（名）
+statistics,(複数扱い)統計（名）
+survive A,(事故など)Aで生き残る（動）
+sympathy,同情、共感（名）
+unfortunately,不幸[不運]にも（副）
+vehicle,車両、乗り物（名）
+victim,犠牲者、被害者（名）
+Here you are,(物を手渡す時に)はいどうぞ（定）
+Sure,もちろん（副）
+add A to B,AをBに加える（動）
+be amazed to see A,Aを見て(とても)驚く（動）
+bill,請求書（名）
+borrow A,A(物)を借りる（動）
+cell phone,携帯電話（名）
+chore,(特に家庭内の)雑用（名）
+come to A,(合計が)Aになる（動）
+decide to A,Aすることに決める（動）
+do with A,Aをどうにかする[扱う]（動）
+do without A,Aなしでやっていく（動）
+dye A,Aを染める（動）
+elbow,(服の)ひじの部分（名）
+fabric,織物、生地（名）
+faucet,水道の栓（名）
+flour,小麦粉（名）
+for a rainy day,まさかの時のために（副）
+for now,とりあえず（副）
+fridge,冷蔵庫（名）
+get rid of A,Aを処分する、Aを捨てる（動）
+glue,接着剤（名）
+go bad,(食べ物などが)腐る、痛む（動）
+in a rage,激怒して（副）
+lay ... out,…(大金)をつぎ込む（動）
+lay A,Aを(そっと)置く（動）
+leather,革（名）
+leftovers,(食事の)残り物（名）
+lid,(箱・鍋などの)蓋（名）
+lie down,(体を休めるために)横になる（動）
+microwave,電子レンジ（名）
+mixture,混合物（名）
+necessity,必需品（名）
+needle,縫い針（名）
+no sooner A than B,Aした途端にBが起こる(構)
+on second thought,考え直して（副）
+put A aside,(物・お金など)Aを取っておく（動）
+relax,くつろぐ（動）
+scissors,はさみ（名）
+shrink,(服などが)縮む（動）
+sit back,ゆったりと座る（動）
+so that A will B,AがBするように(構)
+something of a A,ちょっとしたA（形）
+stir A,Aをかき混ぜる（動）
+substitute A for B,AをBの代わりに使う（動）
+thick,(スープなどが)濃い、とろみのある（形）
+thread,(裁縫用の)糸（名）
+tighten A,Aをきつく締める（動）
+transparent,透明な（形）
+turn A off,A(電気など)を消す、A(水栓)を止める（動）
+utility,(公益サービスとしての)電気、ガス、水道（名）
+wear out,すり切らす（動）
+what should we do,どうしたらよいのでしょう？
+yell,(興奮して)…と叫ぶ（動）
+As a rule,概して（副）
+Why not ?,(勧誘の問いに対して)もちろん（定）
+after a while,しばらくして（副）
+and so on,など（副）
+be dying of A,Aで死にそうだ（動）
+be exhausted,疲れ切っている（動）
+be tired of A,Aにうんざりしている（動）
+big sister,姉、お姉さん（名）
+bump into A,Aに(ドンと)ぶつかる（動）
+china,陶磁器（名）
+come to,意識を回復する（動）
+dinosaur,恐竜（名）
+do the dishes,食器を洗う（動）
+do the laundry,洗濯をする（動）
+faint,気を失う（動）
+fatigue,(倒れる寸前の)疲労（名）
+favorite,(一番の)お気に入りの…（形）
+for a while,少しの間（副）
+fragment,(割れた)破片（名）
+have a lot in common,共通点が多い（動）
+hunger,空腹（名）
+in A way,Aの点[意味]で（副）
+in the way,邪魔よ（副）
+keep an eye on A,Aから目を離さない、Aを気を付けて見る（動）
+make believe that A,Aの真似をして遊ぶ（動）
+mess,散らかって汚い状態[もの]（名）
+neighbor,隣の住人（名）
+out of order,調子が悪い、故障中の（形）
+pastime,余暇の楽しみ（名）
+pick A up,(車で)Aを迎えに行く、Aを拾い上げる、Aをナンパする（動）
+pleasant,(性格・雰囲気などが)楽しい、心地よい（形）
+priceless,とても高価な（形）
+put A away,(収納場所に)Aを片付ける（動）
+resemble A,Aに(外見などが)似ている（動）
+scold A,(子供)Aを叱る（動）
+shade,日陰（名）
+shatter,粉々になる（動）
+shelf,棚（名）
+shore,海岸、湖岸（名）
+stroll,ぶらぶらと歩く、散歩する（動）
+stuff,もの、こと（名）
+take a break,一休みする（動）
+tell A apart,(複数の人、物)Aを見分ける（動）
+tell A off for B,AにがみがみBことで説教をする（動）
+thirst,のどの渇き（名）
+twin,双子の一方（名）
+vending machine,自動販売機（名）
+yard,(家の周りの)庭（名）
+a number of A,かなりのA
+abandon A,Aを見捨てる
+aggressive,強引な、押しの強い
+apartment,マンション
+as long as A,Aである限り
+auditorium,講堂
+be faces with A,Aに直面する
+be particular about A,Aの好みがうるさい
+competitiveness,競争力
+contract,契約、契約書
+crisis,危機
+deregulation,規制緩和
+development,発達、発展
+discourage A from doing,A(人)にdoingする気をなくさせる
+domestic,国内の
+economic,経済の
+empty,(中が)空の
+except for A,Aを除いては
+export A,Aを輸出する
+factor,要因
+furniture,家具
+get down to A,A(仕事など)に取りかかる
+goods,商品、品物
+import A,Aを輸入する
+in earnest,真剣に
+in order to A,Aする目的で
+in short,要するに
+in the course of A,Aの過程で
+industry,産業
+inherit A,Aを相続する
+invest in A,Aに投資する
+keep...up,...を維持する
+make A do,A(人)にdoさせる
+manufacture A,Aを製造する
+protect A,Aを保護する
+purpose,目的
+raw materials,材料、原料
+real estate,不動産
+regulation,規制
+rent,家賃、賃料
+resent A,Aに腹を立てる
+salesman,販売員
+sign,署名する
+small talk,世話話、雑談
+so much for A,Aはここまでにしましょう
+stock,株、株式
+sweeping,(変化などが)大幅な…
+traditional,伝統的な
+undertake,…に着手する
+unprecedented,いまだかつてない
+value,価値、価値観
+various,様々な
+will do,十分である、間に合う
+A to one's heart's content,思う存分にAする（動）
+What do you think?,あなたはどう思う？（定）
+abolish A,(制度・法律など)Aを廃止する（動）
+abuse A,Aを乱用[悪用]する（動）
+after all,結局、やはり（副）
+aid,援助（名）
+alter A,Aを(部分的に)変える（動）
+aristocrat,貴族（名）
+attack,攻撃（名）
+be anxious to A,Aしたいと切望している（動）
+be at risk,危険[危機]にさらされている（動）
+be under way,(ある状況が)進行中である（動）
+bear fruit,成果を生む（動）
+before long,間もなく、近いうちに（副）
+crucial,極めて重大[重要]な（形）
+desperate,(人が)わらにもすがる思いの、必死の（形）
+destiny,運命（名）
+developing country,発展途上国（名）
+disarmament,軍備縮小（名）
+enter A,Aに入る（動）
+financial,財政の、財政的な（形）
+hide,隠す、隠れる（動）
+in itself,それ自体は[が]（副）
+make B progress in A,AでBな進行[前進]をする（動）
+monarchy,君主国、君主政治（名）
+negotiation,交渉（名）
+parliament,議会（名）
+phase,(段階的に変化する)局面、段階（名）
+privilege,特権（名）
+prospect,可能性、見込み（名）
+provide A with B,AにBを提供する（動）
+revolution,革命（名）
+seek A,Aを探し求める（動）
+shelter,安全な場所（名）
+significant,重要な、(注目に値する)大きな（形）
+slave,奴隷（名）
+some say,だと言う人もいる。
+turn one's back on A,Aに背を向ける（動）
+as for A,Aはと言うと（前）
+as if A,まるでAであるかのように(接)
+at A disposal,A(人)の自由にできる（形）
+be against A,(意見など)Aに反対である（動）
+be jealous of A,Aを妬んでいる（動）
+be supposed to do,(当然)…するものだと思われている（動）
+beat around the bush,話をじらす（動）
+behave A,Aのように振る舞う（動）
+bully A,(Aを)いじめる（動）
+cheat on A,(試験)Aでカンニングする（動）
+claim A,(事実は)Aだと主張[断言]する（動）
+compliment,褒め言葉（名）
+conversation,会話（名）
+cut in on A,(会話など)Aに割り込む（動）
+enormous,莫大な（形）
+frown,顔をしかめる（動）
+get away with A,Aの罰をまんまと逃れる（動）
+hate A,Aが大嫌い（動）
+hostile to A,Aに対して敵対的な（形）
+ignore A,Aを無視する（動）
+in spite of A,Aにもかかわらず、Aなのに（前）
+isolated,孤立した（形）
+just wait and see,(結論を急ぐ人に対して)慌てずに待つしかないよ（定）
+on purpose,わざと（副）
+property,財産（名）
+rude,失礼な（形）
+skip A,Aを飛ばす（動）
+somebody,すごい人、大物（名）
+status,(社会的な高い)地位（名）
+stubborn,頑固な（形）
+suspend A,(人)Aを停職[停学]にする（動）
+the more ～the more～,～すればするほど(構)
+time will tell,(最終的にどうなるかは)時が経てばわかる（定）
+turn,順番（名）
+turn a blind eye,見て見ぬふりをする（動）
+turn away,顔をそむける（動）
+wealth,富（名）
+I bed A,きっとAだ
+I have my hands full,手が離せないんだ
+It's a piece of cake,朝飯前だよ
+That's why,そういうわけで～だ
+What if A,もしAならどうなるだろう？
+above all,とりわけ
+anything but A,とてもAとは思えない
+apart from A,A以外は
+assignment,任務、(研究)課題、宿題
+call for A,Aを必要とする
+complicated,込み入った、複雑な
+concise,簡潔な
+deal with A,(問題など) Aを処理する
+definition,定義
+diligent,勤勉な
+essay,小論文
+flunk,(科目・学科を)落とす
+get mad at A,Aに腹を立てる
+hand...in,(レポートなど)･･･を提出する=turn...in
+handwriting,(手書きの)字
+leave A to B,A(仕事など)をB(人)に任せる
+leave nothing to be desired,申し分ない
+look A over,A(書類など)にざっと目を通す
+make sense,意味をなす
+math,数学
+meet A,(基準。要求など)を満たす
+meet the deadline,締め切りに間に合わせる
+no later than A,(締切などを）Aまでに
+obscure,(意味などが)曖昧な
+ought to A,Aするべきである=should do
+precise,厳密な
+premise,(倫理などの)前提
+right now,今現在
+scientific,科学の
+summary,要約
+term,(専門)用語
+terrible,(程度などが)ひどい
+theme,主題
+thesis,(学位)論文
+think A over,Aを(どうしたらいいのか)よく考える
+to begin with,〔文頭で〕まず(第一に)
+to the point,要領を得た
+turn...in,(米)...を提出する=hand...in
+valid,(理由・論などが)妥当な
+via A,A経由で、Aを使って
+whether A,Aかどうか
+Celsius,セ氏
+Let me see it,ちょっと見せて
+academic,(純粋に)学問的な
+barely,何とか…(する)、かろうじて
+barometer,気圧計
+barrel,樽
+be composed of A,Aから構成されている
+be interested in A,(人が) Aに関心[興味]がある
+bottom,〔the-〕底
+calculate A,Aを計算する
+cell,細胞
+chapter,(書物などの)章
+concept,概念、考え
+consist of A,Aから成る
+crack,ひび
+degree,(温度・角度の)度
+depth,深さ
+exact,正確な
+first of all,何よりもまず
+fix A,Aを修理する
+focus on A,Aに焦点をあてる
+for instance,例えば
+formula,(数学などの)公式
+gauge,計器
+geometry,幾何学(きかがく)
+go wrong with A,A(機械)の調子が悪くなる
+have A done,(専門の人に)Aを…してもらう
+have A repaired,Aを(誰かに)修理してもらう
+hydrogen,水素
+instrument,(医療・計測用などの)器具
+learn A by heart,Aを暗記する
+length,長さ、縦
+microscope,顕微鏡
+minute,極めて小さい(細かい)
+mostly,主に
+multiply A by B,AにBを掛ける
+muscle,筋肉
+oxygen,酸素
+particle,粒子
+practical,実用的な
+skill,(実用的な)技能[技術]
+subject,主題、テーマ
+substance,物質
+such as A,(例えば) Aとか[みたいな]
+temperature,温度、体温
+the naked eye,肉眼
+thermometer,温度計
+tiny,とても小さな
+tissue,(細胞からなる動植物の)組織
+vast,膨大な
+visible,目に見える
+volume,体積、容量
+width,横、幅
+...of A,A(という性質)を持つ...
+I wish A,Aだったらなぁ
+as A put it,A(人)が言うように
+at first sight,一目見ただけで
+at once,すぐに
+bring...up,...を育てる
+by chance,偶然に
+considerate,(他人に対して)思いやりのある
+count,重要である
+envy A,Aを羨む
+eternal,永遠の
+exclaim,語気を強めて言う
+fall in love with A,Aに恋をする
+figure,(女性の)体形[スタイル]
+folks,両親
+for sure,確かに
+gentle,(人などの性質が)優しい
+go on a diet,ダイエットを始める[中である]
+how A looks,(人・物の)外見、見た目
+in the end,(過程はどうであれ)最後には
+introduce A to B,AをBに紹介する
+it is A that B,AこそがBだ
+judge A,(Aを)判断する
+keep in mind that A,Aを覚えておく
+make good,(社会的・経済的に)成功する
+modest,謙虚な
+nephew,甥
+not so much A as B,AというよりもむしろB
+perfect,完璧な
+propose to A,Aに結婚を申し込む
+self-made,(人が)自らの努力で成功[出世]した
+show...off,(...を)見せびらかす[ひけらかす]
+single,独身の
+smart,(人・機械などが)頭のいい
+take a chance,思い切ってやってみる
+take to A,Aが好きになる
+thin,(人が)細い、痩せた
+title,肩書き
+turn A down,Aのお願い事を断る
+vision,先見の明
+what's more,おまけに
+who I am,本当の自分、現在の自分
+youth,若さ
+ankle,足首
+annoy A,Aを不快な気分にさせる
+as a matter of fact,(意外に思うかも知れないが)実際には
+at heart,(気持ちなどが)本当は
+at home,家にいる
+at the thought of A,Aのことを考えると
+at work,職場にいて、仕事中の
+be absorbed in A,Aに夢中になっている
+be conscious of A,Aを自覚している
+be in a hurry,慌てている
+be scared of A,Aが怖い
+boring,(人を)うんざりさせる、退屈な
+by mistake,誤って、間違えて
+can't help A,Aせずにはいられない
+cartoon,(テレビ・映画の)マンガ、アニメ
+clumsy,不器用な、どじな
+contempt for A,Aを軽蔑
+convince A,A(人)を納得させる
+coward,臆病者、弱虫
+duty,(与えられた)仕事
+express oneself,自分を表現する
+fat,デブの
+fear,恐怖
+figure...out,(よく考えた末に)…を理解する
+frequently,頻繁に
+glove,手袋
+height,高い所
+in public,人前で
+injection,注射
+inside out,裏返しに
+irrational,(考えなどが)根拠のない
+keep on A,Aし続ける
+laugh at A,Aをばかにして笑う
+lazy,怠惰な
+leap,(前方に大きく)跳ぶ、飛び越える
+learn one's lesson,教訓を得る、懲りる
+make a mistake,間違える、間違いをする
+neglect A,A(すべきこと)を怠る
+on earth,〔疑問文中で〕いったい
+passive,(性格などが)消極的な
+put A on,Aを着る
+seldom if ever,めったにない
+shallow,(水深・容器などが)浅い
+silly,ばかな、くだらない
+since～,～なので
+soap opera,連続メロドラマ、昼メロ
+stream,小川
+stumble,つまずく
+stupid,ばかな
+superstition,迷信
+think...of A,Aを...（程度）だと思う
+to make matters worse,さらに悪いことに
+tremble,(体などが)震える
+twist A,Aを捻挫する
+A rather than B,BよりむしろAだ
+Come on,(軽い抗議の気持ちを表す)おいおい
+Do you mind if I A,Aしても気分悪くないですか？
+I mean it,本気で言ってるんだよ
+I'll be right back,（ここに）すぐに戻ってくるよ
+Not at all,いや全然
+admit A,Aを認める
+back and forth,行ったり来たり
+be my guest,遠慮しないで
+be on good terms with A,Aと親しい間柄である
+be through,(人間関係などが)終わる
+betray,裏切る
+can't help,仕方がない
+cheer up,元気を出す
+collar,襟
+conceal A,Aを隠す
+confess,(罪を)告白する
+dad,お父さん
+do one's best,最善を尽くす
+drop in,ふらっと立ち寄る
+dwell on A,Aをくよくよ考える
+emotional,(人が)感情的な
+end up A,Aする結果になる
+every now and then,たまに、時々
+for good,永遠に
+for one thing,（その理由の）ひとつには
+forgive,許してあげる
+from time to time,時々
+generally,普通は、普段は
+get even,(…人)に)仕返しする
+give out,（能力などが）尽きる
+grab A,Aを(勢いよく)掴む
+hang up,（電話を）切る
+hold B back,(真実、感情など）Bを隠す
+hold on,（ちょっと）待ってて
+honesty,誠実、正直
+hurt A,Aの心を傷つける
+in the long run,(長い目で見れば)最後には
+keep one's word,約束を守る
+look A in the eye,Aの目をまっすぐ見る
+lose face,評判を落とす
+make it up to,埋め合わせをする
+make up,仲直りする
+mean to A,Aするつもりである
+moral,道徳的な
+occurs to A,Aがふと浮かぶ
+otherwise,そうしなければ
+pace,（落ち着きなく））歩く
+past,過去
+patience,忍耐力
+pay off,(努力などが)報われる
+principle,主義、信条
+put...up,...を泊める
+quarrel,口げんかする
+sidewalk,歩道
+sin,(宗教上の)罪、過ち
+stand still,じっと立つ
+start over,一からやり直す
+stick to A,Aを(あくまでも)守る
+stop by A,Aに立ち寄る
+swear at A,Aをののしる
+take A for granted,Aを当然のことと思う
+talk...over,...についてよく話し合う
+I wish I could,ちょっと無理かなあ、力になれればよかったんですが
+I'd be glad to,ええ、喜んで
+Interstate,(州と州とを結ぶ)幹線道路
+agent,代理人、(反応・変化をもたらす)力、薬品
+ahead of,...の前方に、...よりも早く
+ambulance,救急車
+as usual,いつも通り
+avoid,...を避ける
+be tied up,とても忙しい
+busy,にぎやかな、交通量が多い
+chill out,冷静になる
+collision,(移動するもの同士の)衝突、(意見などの)衝突
+come close to,危うく...しそうになる
+dent,(衝撃を受けてできた小さな)へこみ、くぼみ
+fine,(粒などが)細かい、(差異などが)微妙な
+get a flat tire,タイヤがパンクする
+get stuck,動かなくなる、はまる
+in case of,...の場合には[際には]
+in the middle of,...の真ん中に[で]、...している真っ最中に[で]
+in time,間に合って、じきに、やがては
+it's no good doing,...しても無駄だ(2)
+it's no use doing,...しても無駄だ(1)
+pedestrian,歩行者(walker)
+pull over,(車を)路肩に寄せて止める
+recall,...を思い出す
+right away,すぐに、ただちに
+run ... over,(車などが)...をひく
+run out of,...を使い果たす
+sheer,全くの...、ほとんど垂直の
+the other day,この前、ついこのあいだ
+tie A to B,AをBに結び付ける
+turn ... over,ひっくり返る、うつ伏せ[仰向け]になる、...をひっくり返す
+turn up,(待っていた人が)現れる
+Mars,火星
+a series of,一連の
+affect,...に影響を及ぼす、...の心を動かす
+affection,愛情
+applause,拍手、賞賛
+assume,(確証はないが)～だと考える、...(責任・役割など)を持ち始める[引き受ける]
+astronaut,宇宙飛行士
+astronomer,天文学者
+be busy doing,忙しく...している、...するのに忙しい
+be on the verge of,...の寸前である、今にも...しそうだ
+call on A to do,Aに...(援助など)するよう求める
+carbon dioxide,二酸化炭素
+cause A damage to,...にA(程度)の損害を与える(2)
+committee,委員会
+conduct,...(調査など)を実施する、...(組織・楽団など)を指揮する
+conductor,(旅行などの)案内係、(楽団の)指揮者、(電気・熱の)伝導体
+conservation,保存、保護
+conserve,...(資源など)を保護する
+contend,～だと力説する
+cruel,残酷な
+curb,...を抑制すｒ
+damage to,...に与える損害[被害]、損傷
+directly,(関係が)直接に
+disappear,消える、見えなくなる
+divide,...を分ける、分かれる、...を分け合う
+divide A into B,AをBに分ける
+do A damage to,...にA(程度)の損害を与える(1)
+drought,干ばつ、日照り
+due date,支払期日
+due to,...が原因で、...が理由で
+emission,(ガス・熱などの)排出、放出
+endangered,(動物などが)絶滅の危機に瀕した
+equator,(the -)赤道
+exist,実在する、存在する
+expand,膨張する、(活動範囲などが)広がる
+experiment,(科学的な)実験、試験
+extinction,(生物などの)絶滅
+flood,洪水
+fragile,(ものが)壊れやすい、(精神的・肉体的に)弱い
+fund,基金、(-s)手持ちの資金
+glacier,氷河
+global warming,地球温暖化
+globe,(the -)地球
+gravity,重力、(問題などの)重大さ
+greet,...に挨拶する、...を迎える
+hemisphere,半球(体)
+in part,一部は、いくらか
+infinitely,無限に
+it is said that,～だと言われている、～だそうだ
+launch,...(ロケットなど)を発射する、...(新しいこと)を始める
+layer,層、地層
+life,(集合的に)生物、一生、実物
+lifespan,寿命
+local,現地の...、地元の...
+massive,極めて大きい
+melt,(氷などが)溶ける、...を溶かす
+monitor,...(の動向[反応])を(常に)監視する
+network,...網、放送網
+on a ... scale,...の規模で
+orbit,(惑星などの)軌道
+organization,団体、組織
+outer,外側の
+outer space,(大気圏外の)宇宙(空間)
+paralyze,...を麻痺させる
+play a ... role in A,Aで...な役割を果たす
+prepare for,...のための準備をする
+preserve,...を(現状のまま)保存[保護]する
+primitive,原始の、原子的な
+principal,最も重要な...、主要な...
+prolonged,長引く、長期間続く
+relate A to B,AをBに関連づける
+relate A with B,AをBと関連づける
+role,役割、役目(part)
+role model,(見習うべき)模範、お手本
+scale,段階、尺度、規模、体重計
+set ... up,...(委員会・組織など)を設立する
+severe,(被害などが)ひどい、激しい
+side by side,(人が)並んで、協力し合って
+spacious,(場所・部屋などが)広々とした
+species,(生物の)種
+spontaneous,(行動・感情などが)自然に生じる
+transportation,交通[輸送]機関、輸送、移動
+trap,...を(動物)を罠で捕らえる、...を閉じ込める
+tropical,熱帯の、熱帯地方の
+tropical rain forest,熱帯雨林
+universe,(the -)宇宙
+voyage,航海、宇宙旅行
+wildlife,(集合的に)野生動物
+with a view to doing,(将来)...するつもりで、...を期待して
+Atlantic,(the -)大西洋
+It sure is,(返答で)全く、本当だ
+Pacific,(the -)太平洋
+So what?,(不愉快・無関心を表して)それが何だって言うんだい？
+abundant,豊富な
+accelerate,加速する、...を加速させる
+accompany,...に同伴する
+account for,(現象が)...の理由[原因]を説明するものだ、(人が)...の理由を説明をする、...(割合)を占める
+active,活動している、活動的な、活発な
+agricultural,農業の
+approach,...に近づく、(問題など)に取り組む
+approximately,ほぼ、およそ
+at ... intervals,...の間隔で
+be abundant in,...が豊富である(1)
+be accompanied by,...(物事)が付随して起こる
+be characteristic of,...の特徴である
+be indispensable for,...に不可欠である
+be likely to do,...しそうだ
+be rich in,...が豊富である(2)
+be similar to,...に似ている
+blessing,天の恵み
+call ... off,...を中止する
+canal,運河、水路
+capital,首都、資本金、大文字
+ceiling,天井、(価格などの)上限
+chances are,たぶん～だ
+characteristic,特有の、特徴的な
+clear up,(天気が)よくなる、晴れる
+climate,気候、(経済的・社会的)情勢
+coast,沿岸
+connect,...をつなぐ[結ぶ]
+connect A with B,AとBとをつなぐ
+consumption,消費、消費量
+continent,大陸
+curse,呪いの言葉、汚い言葉、災いのもと
+devastating,壊滅的な、衝撃的な
+earthquake,地震
+ecologist,生態学者、環境保護論者
+erupt,噴火する、(暴動などが)勃発する
+famine,飢饉、食糧不足
+feature,特徴、特色、顔立ち
+fertile,(土地が)肥沃な、(動植物が)繁殖力のある
+flour,小麦粉
+foggy,霧が濃い
+forecast,予報
+fossil,化石
+fuel,燃料
+geographic,地理学上の、地理的な
+give way,崩れ落ちる
+harvest,収穫、刈り入れ、収穫高
+hit,...を(力強く)叩く、(地震・台風などが)...を襲う
+homeless,家のない、(the -)家のない人々
+humid,湿度が高い、湿った
+indispensable,不可欠な
+interval,間隔
+it's up in the air,(どうなるかが)決まっていない
+later on,この[その]後に、(ある時間帯の)後半に
+likely,...しそうな、ありそうな
+look out for,...に気をつける(2)
+make no difference to,...にとってはどちらでも同じ
+mineral,鉱物の、ミネラルを含んだ
+more often than not,たいてい、よく
+not only A but also B,AだけでなくBも
+peninsula,半島
+petroleum,石油
+plague,疫病、伝染病
+prefecture,(日本・フランスなどの)県、府
+production,生産、生産高、生産量
+put ... off,...を先に延ばす[延期する]
+region,地方、地域
+regular,定期的な、規則正しい、通常の、常連の
+relatively,比較的、相対的に
+resident,住民、居住者
+resource,資源、財源、(いざという時)役に立つもの
+resourceful,機転がきく
+rich,金持ちの、豊富な、栄養分の高い
+similar,似ている
+soil,土、土壌
+state,状態、(米国などの)州、国、国家
+that of,...のそれ
+time and again,(しつこく)何度も何度も、繰り返し
+two-thirds,3分の2
+typhoon,台風
+volcano,火山
+warn,警告する
+watch out for,...に気をつける(1)
+weather,天気、天候
+wheat,小麦
+-oriented,...志向の、...向けの
+A stands for,Aは...の略[頭文字]である
+You gotta do,...しなきゃ(くだけた表現)
+You've got to do,...しなきゃ
+a bunch of,たくさんの...
+adequate,(ある目的には)十分な、まずまずの
+advance,進歩する、前進する、...を促進する
+appear,現れる、見えてくれる、(...のように)見える
+appear to be,...のように見える
+appearance,外見、見かけ、現れること
+appliance,電化製品(electriacal device)
+artificial,人工の、人造の
+at your convenience,あなたの都合の良い時に
+attractive,魅力的な、人を引きつける
+attribute A to B,(定かではないが)A(結果)の起因をBだと考える
+be superior to,...よりも優れている
+bunch,房、束、集団
+catch on,流行る、人気を博す
+catch up with,...に追いつく
+close at hand,(時間・空間的に)すぐ近くに[の]
+come in handy,(いざという時に)役に立つ
+content,(-s)(箱の)中身、(本などの)全内容、目次、含有量
+convenient,(ものが)便利な、(約束の時間などが)都合のいい
+conventional,従来の、通常の
+desolate,(場所が)荒涼とした、(人が)孤独な、寂しい
+equipment,機器、用具、設備
+excellent,優れた、すばらしい
+fall behind,...に遅れをとる
+family of four,4人家族
+firm,会社、企業、事務所
+for the most part,大部分は、ほとんど、たいてい
+from coast to coast,全米で
+function,(機械などの)機能、働き、(公式の)式典、会合
+gadget,(特殊な)機器、道具
+handy,便利な、使いやすい
+have A to do with,...とA程度の関係がある
+household,一世帯、家族(全体)、家庭の
+hub,中心(地)、中核
+identify,...を同じものと考える、...を本人であると確認[特定]する
+identify A with B,AをBと同じものだと考える
+imitate,...を真似する
+in ... respect,...の点に関して
+in general,一般的に、概して
+in particular,とりわけ
+innovation,(技術などの)革新(をもたらすこと)、革新的な製品
+integrate,融合する、...を融合させる
+integrate ... into A,...(機能など)を(Aに)統合させる
+intelligence,知能、(国防上の)機密情報
+intelligent,頭の良い、知能が高い
+interactive,双方向性の、相互に意志伝達ができる
+invention,発明、発明品
+keep pace with,...(速い変化など)に遅れずについていく
+keep up with,...に(遅れずに)ついてゆく
+make the best of,...(よくない状況)の中で何とかやっていく
+medium media,媒体(単数 & 複数)
+method,(一般的に確立された)方法
+modernization,近代化、現代化
+more and more,ますます多くの...、どんどん増えてゆく
+nature,自然、性質、本質
+once,いったん～してしまえば
+phenomenon,現象
+plenty of,(余るくらい)たくさんの...
+popularity,人気
+prefer A to B,BよりもAのほうを好む[選ぶ]
+provide for,...(家族)を養う
+quality,質、特質、特性
+quantity,量、分量、数量
+range,範囲、幅、届く距離、(山などの)連なり
+rapidly,急速に
+room,場所、空間、余地、余裕
+rush,焦る、焦ってする、...をせかす
+strategy,戦略
+strength,(肉体的な)力、(精神面の)強さ、(人･物の)長所
+superior,優れた、上の
+the other way around,正反対に[な]、あべこべに[な]
+thriving,(事業が)繁栄している
+tool,道具、工具
+tough,(物・人が)丈夫な、(肉が)堅い、難しい、厳しい
+transform ... into A,...をAへと一変させる
+unique,唯一の、他にはない、珍しい、個性的な
+unusual,普通ではない、まれな
+westernization,西欧化
+advertisement,広告
+as a result of,の結果
+assemble,を組み立てる
+be aim it,…を狙いとしている
+be away,いない
+be in danger of,危険な状態にある
+branch,支店
+come into being,誕生する
+commerce,商業
+compare to,と比べると
+corporation,大企業
+drop a line,に手紙を書く
+efficient,能率的な
+enterprise,企業
+factory,工場
+gigantic,巨大な
+give birth to,を出産する
+go bankrupt,倒産する
+in terms of,の点では
+in those days,当時は
+internal,国内の
+labor,労働
+look up,上向く
+machinery,機械類
+make a profit,儲ける、利益になる
+manual,手を使う、肉体的な
+monopoly,独占
+obviously,明らかに
+on business,仕事で
+overseas,海外の
+per,…あたり
+previous,前の、前回の
+remove,を取り除く
+replace,に取って代わる
+restriction,制限
+ridiculous,ばかげた
+teenager,10代の若者
+transfer to,をＢに転任する
+under construction,建設中の
+unit,（構成）単位、ユニット
+venture,事業
+virtual,事実上の
+with,ＡがＢなので
+Don't mention it,どういたしまして、いいんですよ
+add to,(行為が)...(負担など)を増やす[大きくする]
+against one's will,自らの意志ではなく、意志に反して
+apparently,どうやら[見たところ]～のようだ
+appreciate,...の質を(正当に[高く])評価する、...に感謝する
+ashamed,(心が痛むことに関して)恥じている
+at the cost of,...を犠牲にして(2)
+at the expense of,...を犠牲にして(1)
+at the sacrifice of,...を犠牲にして(3)
+authority,(通例the -s)当局、権限、大家、権威
+be around,(自分の)近く[そば]にいる
+be ashamed of,...を恥ずかしく思う
+be concerned about,...を心配している[不安に思う]
+be confronted with,...(たいへんなこと)に直面する[している]
+be out of work,失業中である
+be responsible for,...に対して責任がある、...の責任を負うべきである
+be willing to do,...してもいいと思う
+be worried about,...を心配している
+boss,上司
+burden,負担、(精神的な)重荷
+by ... at the latest,遅くとも...までに(no later than)
+colleague,(仕事の)同僚
+come to the conclusion that,～という結論に至る
+concern,...を心配させる、...におとっての(重要な)関心事である
+conclusion,結論、(契約などの)締結
+confront,(人が)...に立ち向かう、(困難などが)...に立ちはだかる
+count on,...に頼る、...を当てにする
+currency,通貨、貨幣、(考え方が)(世間に)受け入れられていること
+deficit,赤字、欠損
+employee,従業員
+enthusiastic,熱心な、熱烈な
+estimate ... at A,...をAぐらいだと見積もる
+get promoted,昇進する
+hardship,(経済的)困窮、苦難
+huge,巨大な
+in vain,無駄に
+intend to do,...するつもりである
+intentionally,意図的に、わざと(on purpose)
+lay ... off,...を(一時的に)解雇する
+loss,損失、失うこと、なくすこと
+manage,...を何とかする、...を運営する
+mention,...に言及する、...の話題に触れる
+nothing is more A than doing,...するよりもA(形容詞)なことはない、...することが最もAだ
+nowadays,(昔と違って)今日では
+one after another,次々と
+optimistic,楽観的な
+pessimistic,悲観的な
+pretend,...のふりをする、...ごっこをして遊ぶ
+promote,...を促進する、...を昇進させる
+recession,景気後退
+reduce,...を減らす
+responsible,責任がある、責任感がある
+see to,必ず[きちんと]...する
+set in,(好ましくないことが)始まる
+somehow,(あれこれ)何とかして、どういうわけか、なぜだか
+stabilize,...を安定させる、安定する
+strive,懸命に努力する
+surplus,黒字
+take ... on,...(仕事・責任など)を(さらに)引き受ける、...を雇う
+take ... out,...を(中から)取り出す、...(人)を(外食などに)連れていく、...(異性)とデートする
+task,(課せられた大変な)任務、仕事
+temporary,一時的な、仮の
+urgent,緊急の、差し迫った
+vain,虚栄心[うぬぼれ]の強い、(努力などが)無駄な、効果のない
+white-collar,オフィス労働の
+willing,(協力・参加などに対して)自発的な、前向きな
+work overtime,残業する
+worry,心配する、悩む、...を心配させる
+All you have to do is do,...するだけでいい
+Be sure to do,必ず...しなさい
+Don't forget to do,...するのを忘れないで
+above average,平均以上の
+as follows,以下の通り(の)
+at least,少なくとも
+attach ... to A,Aに...を取り付ける
+attachment,付属品、愛着
+battery,(乾)電池
+be attached to,...に愛着を感じている、...に付属する
+be free of,...(いやなもの)とは無縁である(fromも可)
+below average,平均以下の
+blank,余白、空欄
+check in,(空港で)搭乗手続きをする
+chemical,化学物質
+come off,(自然に)外れる[取れる]、(計画などが)うまくいく、...という結果になる
+confirm,...を確認する、...(意見など)を固める
+departure,出発
+destination,(旅行などの)目的地、行き先
+dim,(輪郭・記憶などが)ぼやけた、おぼろげな、(明るさが)薄暗い
+distribute,...を配る[配布する]
+excursion,日帰りツアー、遊覧[周遊]旅行、遠足
+fill ... in fill ... out,...(用紙)に必要事項を記入する(2つ)
+flashlight,(米)懐中電灯
+for free,無料で
+garbage,ゴミ、くだらないもの
+hazardous,(化学物質などが)(人体に)有害な、(活動などが)危険を伴う
+in addition to,...に加えて
+in black ink,黒インクで
+never forget doing,(過去に)...したことを決して忘れないで
+on an average,平均すると(theも可)
+optional,自由に選べる、(商品・サービスが)有料の
+package,(米)小包、包み、セット品
+pick ... out,...を選ぶ、(たくさんの中から)...を見つけ出す
+pound,(重量単位)ポンド、イギリスの通貨
+print,...を印刷する、ブロック体(楷書)ではっきり書く
+prior to,...より前に(before)
+questionnaire,アンケート用紙、調査票
+return,往復の...(英)
+round-trip,往復の...(米)
+tag,(紐で結びつける)札
+torch,(英)懐中電灯
+weigh,...の重さがある、...の重さを量る
+How often ?,～はどのくらいの頻度ですか？
+I have no idea,よくわかりません（定）
+I'd like a word with you,相談したいことがあるんだけど（定）
+What's going on?,何が起こっているんだい？（定）
+accommodate A,A人分の十分なスペースがある、Aを収容する（動）
+appetite,食欲（名）
+as ～ as,～もの（副）
+ask for A,Aを求める[ねだる]（動）
+autograph,(有名人などの)サイン（名）
+be astonished at A,Aに大変驚く（動）
+be subject to A,Aを受ける場合がある（動）
+beforehand,事前に（副）
+catch a glimpse of A,Aを一瞬目にする（動）
+celebrity,有名人（名）
+cook,料理人（名）
+curious,好奇心旺盛な、知りたがっている（形）
+downtown,中心地の…、…の市街（形）
+encounter A,Aに(偶然)出会う（動）
+excited,(人が)興奮した（形）
+exit,出口（名）
+facility,施設（名）
+fan,(有名人などの)ファン（名）
+fine,罰金（名）
+get back to A,A(人)に連絡しなおす[会いに行く]（動）
+go on,続く、進む、起こっている
+had better A,Aした方がいい（動）
+hang around A,A(場所)に群がる(たむろする)（動）
+in private,内密に（副）
+incredible,信じられない（形）
+interrupt A,Aを中断する（動）
+litter A,Aにゴミを投げ捨てる（動）
+make a reservation,予約を取る[する]（動）
+maximum,最大[最高]の（形）
+meal,食事（名）
+motel,モーテル（名）
+on doing,doingするとすぐに（前）
+pack,(店などが)混んでいる（動）
+rear,(入り口などが)裏の…（形）
+shuttle,往復[シャトル]便（名）
+suite,スイートルーム（名）
+three times larger than A,Aより３倍大きい
+I'm afraid A,もしかしたらAかなぁ（定）
+abroad,海外に(で)（副）
+advise A to B,AにBするよう助言[忠告]する（動）
+alcohol,酒、アルコール（名）
+amount,量（名）
+appropriate,ふさわしい、適切な（形）
+aspirin,鎮痛剤（名）
+be obliged to A,Aせざるを得ない、Aを余儀なくされる（動）
+bedridden,(病気・高齢で)寝たきりの（形）
+beverage,(水以外の)飲物、キリン○○（名）
+blood,血（名）
+cabinet,内閣（名）
+catch a cold,風邪をひく（動）
+circulation,循環（名）
+come down with A,(風邪など)Aにかかる、Aで体調を崩す（動）
+contribute to A,Aの一因となる（動）
+cure...of A,…(人)のA(病気)を治す（動）
+diarrhea,下痢（名）
+dizzy,めまいがする（形）
+do,本当に、是非(…する)（動）
+especially,特に、とりわけ（副）
+excessive,過度の（形）
+exercise,(体の)運動（名）
+feel like doing,doingしたいな、doingしたい気がする（動）
+for the time being,当分の間は（副）
+get into shape,体調を良くする（動）
+go doing,(自分の意思で)doingしに行く、doingを楽しむ（動）
+government,政府（名）
+growth,成長、発展（名）
+harmful,有害な（形）
+headache,頭痛（名）
+hypothesis,仮説（名）
+in no time,(驚くほど)すぐに（副）
+infant,乳児、幼児（名）
+infection,伝染、感染（名）
+ingredient,(食品などの)成分、原料（名）
+jet lag,時差ボケ（名）
+junk food,ジャンクフード（名）
+look after A,Aの面倒を見る（動）
+lose weight,体重が減る（動）
+minister,大臣（名）
+moderate,(程度・量が)適度な、手ごろな（形）
+mortality,(避けられない)死ぬべき運命（名）
+nasty,(病気・怪我などが)ひどい（形）
+nutrition,栄養摂取（名）
+oblige,余儀なくさせる（動）
+organ,器官、臓器（名）
+pale,顔色が悪い、青白い（形）
+persuade A to B,(人)Aを説得してBさせる（動）
+physician,医師（名）
+pregnant,妊娠している（形）
+prevent A from doing,Aにdoingさせない、Aがdoingすることを(事前に)防ぐ（動）
+refrain from A,Aを控える（動）
+resign from A,Aを辞職する[辞任する]（動）
+sort of,ちょっと、何か、大体、どちらかと言うと、多少（副）
+spread,(病気・情報などが)広がる（動）
+stay up late,夜更かしする（動）
+stimulate A,Aを刺激する（動）
+suffer from A,A(病気など)で苦しむ（動）
+surgeon,外科医（名）
+take turns doing,doingを交代でする（動）
+take...measures,手段を取る、対策を取る、 策を講じる（動）
+take...off,(日数)...の休みを取る（動）
+throw up,吐く（動）
+transplant,移植(手術[治療])（名）
+undergo A,Aを経験する[受ける]（動）
+vital,極めて重要な（形）
+I mean,（より明確な理由を加えたい時に）だって、つまり
+ambition,大きな目標、夢
+ambitious,野心的な
+apply for,申しこむ
+as of,（特定の日付）より
+at all costs,どんな犠牲を払っても
+be ...by nature,生まれつき…である
+be cut out for,（職種に）向いている
+be determined to do,…すると決心している
+be of two minds whether A or B,（AとBの）どちらにしようか悩んでいる
+community,社会、共同体
+compulsory,強制的な、義務の
+conformity,体制・社会通念などに従うこと
+current,現在の
+determine,…をはっきりと決める、特定する
+discipline,規律
+drop out,退学する
+education,教育
+element,要素、元素
+encourage,勇気付ける、（活動などを）促進する
+encourage A to do,Aに…するように励ます
+essential,不可欠な、本質に関る
+fit in,（グループなどに）とけ込む
+freshman,大学1年生
+fulfill,…を果たす、実現させる
+fulfillment,達成感、充足感
+get ...nowhere,...に何の進歩ももたらさない
+give in,降参する
+give it a try,（あれこれ考えずに）やってみる
+go one's own way,わが道を行く
+grew up,大人になる
+homogeneous,均質な、同種のものだけで構成された
+learn to do,…出来るようになる
+make ... come true,（夢、計画など）を実現させる
+make a living,生計をたてる
+make one's way,（苦労して少しずつ）進む
+military,軍隊
+mold,（決まった）型
+nearly,ほとんど、ほぼ
+obsolete,時代遅れの
+obstinate,頑固な
+personality,人柄、性格
+perspective,バランスの取れた見方、視点
+philosophy,哲学
+playwright,脚本家
+raise,上げる、高くする、育てる
+regard,…を（疑い・羨望などの気持ちで）見る
+regard A as B,AをBだと考える
+rigid,厳格な、厳しい
+scholarship,奨学金
+take ... over,引き継ぐ
+take after,（親などに）似ている
+toil away,ひたすら働く
+tuition,授業料
+would rather do A than do B,BするよりむしろAしたい
+accomplish,…を成し遂げる、(努力や技能を注ぎ込んで)達成する
+accumulate,（長期間かけて）…をためる、たまる
+achieve,…を成し遂げる
+adversity,逆境、不運
+architecture,建築様式、建築
+audience,観衆
+award,賞
+background,育ち、経歴、背景
+believe in,…を信頼する、…が正しいことだと信じる
+bold,大胆な、（線が）太い
+conquer,征服する、克服する
+demonstrate,実演してみせる、実証する、はっきり示す
+deserve,…を受けるに値する、…を受けるのは当然だ
+eloquent,説得力のある
+era,時代
+extraordinary,並外れた
+faith,信頼、信仰
+faithful,誠実な
+fame,名声
+feat,偉業
+fortune,財産、運勢、運命
+generous,気前のよい
+go for,…を手に入れようと頑張る
+graceful,優雅な
+have faith in,…を信頼している
+humble,庶民の、謙虚な
+if only,…でありさえすればいいのになあ
+impress,…に感銘を与える、…に良い印象を与える
+in the face of,…をものともせず
+it's up to,それは（人）次第だ
+lecture,公演、講義、説教
+let...down,…をがっかりさせる
+live from hand to mouth,その日暮らしをする
+make it,（困難を乗り越えて）成功する
+make the most of,（有利な状況）を最大限利用する
+move,感動させる
+opportunity,機会、チャンス
+performance,演技、実績、性能、成果
+postwar,戦後の
+praise,賞賛、ほめること
+prestigious,権威のある、名門の
+rare,珍しい、めったにない
+receive,受ける、受け取る
+ripe,（果物、機などが）熟した
+spectator,観客
+stand by,（友達など）を見捨てない
+stand up for,（人、権利）を守る、…の為に立ち上がる
+talent,才能、能力
+threat,脅威、脅迫
+tremendous,大きな、膨大な
+used to do,かつて…だった、以前はよく…した
+weakness,弱点、短所、弱さ
+well off,裕福な
+worldwide,世界的な
+yield,（利益）を生む、…を譲り渡す
+yield to,屈する
+There you go again!,（飽きれて）またそれだ、また始まったよ！
+adapt,...を（目的に合うように）変える、採用する
+adapt to,...に順応する
+adaptable,順応性のある
+altogether,全部で
+amount to,（合計が）...に達する
+at best,（程度が）よくても、せいぜい
+at most,(数が)多くても、せいぜい
+at worst,最悪でも
+be a must,絶対条件である
+be hard up,（一時的に）お金に困っている
+be satisfied with,...に満足する
+by no means,決して...しない（ではない）
+cling to,...にしがみつく、...に執着する
+come to an end,（長く続いてきたことが）終わる
+computer literacy,コンピューターが使えること
+considerable,（数量・程度が）かなりの
+debt,（多額の）借金
+department,（企業、大学などの）部
+enclose,...を同封する、...を囲む
+envelope,封筒
+escape from,...から逃げる
+feel free to do,遠慮なくどうぞ
+further,なお一層の、さらに遠くの
+give...a call,...に電話する
+glory,栄光、名誉
+greedy,欲の深い
+harsh,（環境などが）激しい、辛い、厳しい
+in other words,つまり、別の言い方をすると
+inquiry,問い合わせ、質問、取調べ
+last,続く、望ましい状態を保つ
+leave ... behind,...を置き去りにする
+literacy,読み書き能力
+obtain,...を入手する
+obtainable,（商品などが）入手可能な
+one of these days,いつかは、近いうちに
+optimistic,楽観的な
+owe A B,A（人）にB（金額）の借りがある
+participant,参加者
+participate in,...に参加する
+pay...back A,...にA（金額）を返す
+personnel,社員（全体）、職員（全体）
+pessimistic,悲観的な
+position,位置、姿勢、地位、立場、仕事
+proper,相応しい、適切な
+prosperity,（経済的）繁栄
+qualification,資格、能力
+realistic,現実的な
+reality,現実
+registration,登録
+require,...が必要である
+requirement,要件、求めているもの
+resume,履歴書
+reward,見返り、報酬、謝礼金
+satisfy,（人、欲求を）を満足させる、（条件を）満たす
+selfish,自己中心的な、利己的な
+submit...to A,（案、申請書などを）Aに提出する
+sum,金額、...の総計
+to one's surprise,（文を修飾して）驚いたことに
+toll free,フリーダイヤルで（の）
+work out,うまくいく
+workshop,教室、講習会
+A might well do,Aが...するのももっともだ
+Couldn't be better,最高だよ
+Good for you,よくやった、おめでとう
+How's it going?,最近どう？調子はどう？
+Mind your own business,おせっかいはやめろ、他人のことはどうでもいい
+absurd,ばかげた、道理に合わない
+all the way,最初から最後まで、全面的に
+all the way from,...からわざわざ、はるばる
+arouse,（怒り、関心などを）呼び起こす
+at one time,同時に、一度に、かつて
+be fed up with,...にうんざりしている
+be out of the question,無理だ、認められない
+be sick and tired of,...にはうんざりだ
+behind one's back,...のいないところで
+bother,...を悩ませる、困らせる
+cannot make heads or tails of,...が（何がなんだか）さっぱりわからない
+challenging,やりがいのある
+childish,子供じみた、幼稚な
+clerk,事務員
+commute,（電車などで）通勤する
+constant,絶え間のない
+contrary,反対の
+despise,...を軽蔑する、...が大嫌い
+dictator,独裁者、ワンマンな人
+distant,遠い
+disturb,...の邪魔をする
+do well,（仕事、試験などで）うまくいく
+feed,餌をやる
+fold,...の倍の、...の面の
+fundamental,抜本的な、基本的な
+fuss,大騒ぎ
+get by on,何とか生活していく
+get on one's nerves,...をいらいらさせる
+have difficulty in doing,することに苦労している
+have the nerve to do,...する度胸がある、無神経にも...する
+in one's presence,...のいる前で（自分よりも目上の人がいる前で）
+in reality,現実には、実際には
+instruction,指導、指示
+insult,侮辱、...を侮辱する
+interview,面接
+look up to,...を尊敬する
+lose one's temper,かっとなる
+loyalty,忠誠、誠実、忠誠心
+make a fuss,騒ぎ立てる
+make ends meet,（収入の範囲内で）なんとかやりくりする
+nerve,度胸、無神経さ
+notion,（根拠のない）考え
+on the contrary,それどころか
+one by one,一人一人、ひとつひとつ
+persist,（習慣などが）存続する、しつこく続ける、（痛みなどが）長引く
+polite,礼儀正しい、丁寧な
+pour,...を注ぐ、飲み物を注ぐ、流れる
+resist,...に抵抗する、（欲求などを）我慢する
+restructuring,事業の再構築、構造改革
+routine,日常業務
+short-tempered,かっとなりやすい、短気な
+shuffle,トランプを切る、...を仕分ける、整理する
+so ... that,たいへん...なので～
+so to speak,言ってみれば、例えて言えば
+suburb,郊外
+surplus,黒字
+swell,膨らむ、増大する、（手足などが）はれる
+talk about ... behind one's back,...の陰口を言う
+talk back,口答えをする、言い返す
+temper,かんしゃく、（急にかっとなる）性質
+tempt A to do,Aを誘惑して...させる
+temptation,誘惑
+there's no point in doing,...するのは無駄だ（意味がない）
+think of A as B,AをBだと考える、みなす
+to one's face,本人の前で
+trainee,研修生
+whisper,ささやく、ひそひそ話
+accurate,正確な（形）
+autobiography,自叙伝（名）
+be disappointed,（人が）がっかりする（動）
+be sold out,（商品・チケットなどが）完売する（動）
+billion,10億（名）
+candidate,（立）候補者（名）
+care for A,Aの世話をする（動）
+charity,慈善団体（名）
+collect A,Aを集める[収集する]（動）
+concentrate on A,（神経などを）Aに集中する（動）
+cooperate,協力する（動）
+council,（地方自治体の）議会（名）
+data,データ（名）
+devote A to B,（時間・労力など）AをBに捧げる（動）
+donation,寄付（金）（名）
+election,選挙（名）
+far from A,Aと言うにはほど遠い（定）
+for the sake of A,Aの（利益・保護の）ために（前）
+force A to B,AにBするよう強いる(強制する)（動）
+give...away,…をただであげる、…を寄付する（動）
+ideal,理想（名）
+in need,（生活に）困っている（形）
+integrity,高潔さ、誠実さ（名）
+issue,（公の場で議論されるべき）問題（点）（名）
+it is the case that ～,～ということは事実だ（定）
+lead a A life,Aな生活を送る（動）
+leave...out,（全体から）除外する、除く（動）
+live on A,（収入など）Aで生活する（動）
+mayor,市長、町長（名）
+municipal,市[町]の（形）
+name A after B,Aの名前をBから取る（名付ける）（動）
+orphan,孤児（名）
+outcome,結果、結末（名）
+pension,年金（名）
+pursue A,（人・理想など）Aを追いかける（動）
+refer to A as B,AをBと呼ぶ、AをBと言及する（動）
+release A,（新製品など）Aを発売する（動）
+rest of A,Aの残り部分（名）
+retirement,退職、引退（名）
+run for A,（官職）Aに立候補する（動）
+some,約、およそ（副）
+specific,具体的な（形）
+spend A doing,Aをdoingに費やす（動）
+admit,...を肯定する
+associate A with B,AからBを連想する
+be about to do,(間もなく)...するところである
+be concerned with,...に関心がある
+be confident about,...できると確信している
+behind the scenes,裏で、ひそかに
+bureaucrat,官僚
+career,経歴、職業
+commit,...(犯罪・過失)を犯す
+confidence,自信、確信
+confidential,内密の、機密の
+conservative,保守的な
+contradict,...と矛盾する、...(人)の意見を否定する
+dare to do,(否定文で)思い切って...する
+deny,...を否定する
+deny doing,...したことはないと言う
+dignity,尊厳、気高さ
+diminish,弱める、小さくする
+dominant,支配的な
+employer,雇用主
+enhance,...(質、価値など)を高める
+entertain,...をもてなす、接待する、楽しませる
+exclusive,排他的な、高級な、独占的な
+executive,役員、取締役
+exert,...(権力など)を行使する
+exploit,...(人など)から搾取する
+fate,運命
+fire,...を解雇する、発砲する
+flatly,きっぱりと
+for fear of,...を恐れて
+hypocrisy,偽善
+in return for,お返しとして、見返りとして
+influence,影響(力)
+investigation,調査
+kill oneself,自殺する
+leak,...(情報など)をもらす
+living costs,生活費
+living standard,生活水準
+make a comment,コメントする、見解を述べる
+might as well do A as do B,BするくらいならAするほうがましだ
+party,党、政党
+poison,毒
+politician,政治家
+primarily,第一に、何よりもまず
+promising,前途有望な
+pull string,糸を引く、操る
+reconcile,...を和解させる、調和させる
+reconcile oneself to,...を仕方なく受け入れる
+refuse,(きっぱりと)断る
+retain,...を維持する
+sacrifice,...を犠牲にする、犠牲
+scene,景色、現場
+secretary,秘書
+spokesperson,報道担当者
+string,紐、弦楽器
+suicide,自殺
+swallow,...(食べ物などを)飲みこむ
+tend to do,...する傾向がある
+think better of,(考え直して)...しないことにする
+under investigation,調査中の
+a pile of A,たくさんのA（形）
+accept A,Aを受け取る（動）
+addict,中毒者、常用者（名）
+all but,ほとんど（副）
+arrest A,Aを逮捕する（動）
+aspect,(問題などを構成する)側面（名）
+author,作家、著者（名）
+be in charge of A,Aの担当責任者である（動）
+be involved in A,Aに巻き込まれる、Aにかかわる（動）
+be second to none,誰[何]にも劣らない[負けない]（動）
+be sensitive to A,Aに敏感である（動）
+bribe,賄賂（名）
+by and large,概して（副）
+come to light,明るみに出る（動）
+conscience,良心（名）
+consider A,Aをよく検討する（動）
+corruption,汚職、不正(行為)、贈賄(ぞうわい)、 収賄（名）
+cover ... up,…を隠す[隠ぺいする]（動）
+criticism,批判、非難（名）
+decade,10年間（名）
+defense,防衛（名）
+detective,探偵、刑事（名）
+dismiss A,Aを解雇[解任]する（動）
+do not hesitate to do,遠慮なくdoする（動）
+document,書類（名）
+drug,麻薬（名）
+elite,エリート(たち)（名）
+evidence,証拠（名）
+examine A,Aを(よく)調べる（動）
+false,嘘の（形）
+fault,責任、欠陥、短所（名）
+find ... out,…を見つけ出す、…を発見する（動）
+find fault with A,Aの過ちを指摘する、Aに文句をつける（動）
+flaw,欠陥、問題個所（名）
+for the first time,初めて（副）
+fraud,詐欺(行為)（名）
+haunt A,Aの心[脳裏]に付きまとう、Aの脳裏を去らない ★通例受身で用いる（動）
+hesitate,ためらう（動）
+illegal,違法な（形）
+intrude on A,Aを侵害する（動）
+involve A,A(人)を巻き込む（動）
+linger on,まだ続いている[残っている]（動）
+manuscript,原稿（名）
+nevertheless,それでもやはり（副）
+nightmare,悪夢（名）
+numerous,(非常に)多くの（形）
+official,役人、公務員（名）
+on the spot,その場で、直ちに（副）
+on the whole,概して（副）
+over and over again,何度も(何度も)繰り返して（副）
+pang of A,Aの苦しみ[苦痛]（名）
+pile,うずたかく積まれたもの（名）
+program,計画（名）
+project,計画、事業（名）
+prove A,Aを説明[立証]する、Aであるとわかる（動）
+relevant,関連性のある（形）
+reputation,(世間の)評判（名）
+reveal A,Aを明かす[示す]（動）
+revise A,Aを改定する、Aに修正を加える（動）
+ruin A,Aを失墜させる（動）
+rumor,噂（名）
+scheme,企み、陰謀、計画、案（名）
+senior,上級(の)（形）
+sensitive,敏感な（形）
+skepticism,疑い（名）
+sufficient,十分な（形）
+suspect A,Aを疑う、Aに容疑をかける
+suspect A of B,A(人)にBの容疑をかける（動）
+tabloid,タブロイド紙、大衆ゴシップ紙（名）
+take ... down,…を書き取る（動）
+testimony,証言（名）
+to my knowledge,私の知る限りでは（副）
+transaction,商取引（名）
+trial,裁判、審理（名）
+truth,真実（名）
+vague,曖昧な、漠然とした（形）
+vivid,鮮明な（形）
+way out,逃れる道[方法]（名）
+when it comes to A,Aのこととなると（定）
+word for word,一言一句たがわずに（副）
+adopt,(方法など)を採用する、養子にする
+ally,同盟国
+appeal to,…(理性、人の心など)に訴える
+armed,武装した
+armed forces,全軍
+as a last resort,最後の手段として
+be bound to do,きっと…する、…する義務がある
+be bound up with,…と密接に関係がある
+be reluctant to do,…することに気が進まない
+break out,(戦争、伝染病などが突然)発生する
+call...in,(専門家など)を呼ぶ、助けに来てもらう
+captive,捕虜
+captivity,監禁状態
+capture,…を捕らえる
+circumstances,(周囲の)状況
+citizenship,市民権、国籍
+civil,市民の、礼儀をわきまえた
+civil war,内戦、内乱
+collapse,崩壊する、卒倒する
+colony,植民地
+command,命令、指揮
+condemn,…を厳しく非難する
+confine A to B,AをBに閉じ込める
+declare,…を宣言する、…と断言する
+deprive A of B,AからBを奪う、剥奪する
+enemy,敵、敵軍
+engage,…を引き込む、かかわらせる
+engage in,…(活動など)にかかわる
+entire,すべての、まる
+flexible,(考えなどが)柔軟な、融通の利く
+for the moment,今のところは
+have no choice but to do,…せざるを得ない
+hold out,(燃料、抵抗などが)持ちこたえる
+hostage,人質
+in a moment,すぐに
+innocent,罪のない、純粋な、世間知らずの
+invasion,侵略、(プライバシーの)侵害
+jail,拘置所、刑務所
+not ... any longer,これ以上...ない
+notoriety,悪名、悪評
+notorious,悪名高い
+obedient,純情な、素直な
+occupy,…を占領する
+put ... down,…を下に置く、(暴動などを)鎮圧する、書き留める
+reason,理性、分別、理由
+rebel,反抗者
+rebellion,反乱、暴動
+rebellious,反抗的な
+regime,(非民主的な)政権
+reign,(絶対君主の)支配
+reluctantly,いやいや、しぶしぶ
+republic,共和国
+resolution,決意、決議
+resort to,(不本意ながら)…という手段をとる
+riot,暴動
+rule ... out,…(可能性など)を排除する、ないと断言する
+set ... free,…を解放する、自由にする
+sooner or later,遅かれ早かれ
+succeed in,…に成功する
+surrender,降参する
+swiftly,素早く
+tactic,(個々の)戦術、作戦
+territory,領土、領域
+terrorism,テロ(行為)
+tolerate,…に寛容な態度を取る、我慢する
+troop,軍隊
+tyranny,専制政治、圧制
+ultimately,最終的には
+under the circumstances,このような状況下では
+violation,違反、侵害
+Supreme Court,最高裁判所（名）
+abortion,中絶（名）
+all...long,…の間ずっと（副）
+ambassador,大使（名）
+amendment,改正案（名）
+appoint A,Aを任命する（動）
+ban on A,Aの禁止（令）（名）
+be capable of doing,doingできる（動）
+be in a A situation,Aな状況（立場）にある（動）
+be located,位置する（動）
+be to do,doをする予定である（助）
+bitter,激しい（形）
+broadcast,放送[放映]する（動）
+build...up,（徐々に）高まる[増える]（動）
+capable,有能な（形）
+conflict,衝突、紛争（名）
+controversy,論争、議論（名）
+cope with A,Aにうまく対処する（動）
+court,裁判所（名）
+deceased,故人（たち）（形）
+dialogue,対話（名）
+diplomatic,外交（上）の…（形）
+discrimination,差別（名）
+diversity,多様性（名）
+do away with A,Aを捨てる[廃止する]（動）
+endure A,Aに耐える（動）
+erect A,Aを建てる（動）
+ethnic,民族の（形）
+foster A,（関係など）Aを育む（動）
+freedom,自由（の状態）（名）
+get down on one's knees,膝をついて、膝まずいて（副）
+goodwill,親善、友好（名）
+help do,doするのに役立つ[貢献する]（動）
+honor,名誉、尊敬の念（名）
+illusion,幻想（名）
+immense,巨大な（形）
+immigrant,移民（名）
+imperial,帝国の、天皇（皇帝）の（形）
+in honor of A,Aに敬意を表して（前）
+in my opinion,私の考えでは（副）
+international,国際的な（形）
+locate A,Aの位置を特定する（動）
+long for A,Aを切望する（動）
+make an effort,努力する（動）
+mental,精神的な（形）
+minority,少数派（名）
+monument,記念碑（名）
+mutual,相互の（形）
+mutual understanding,相互理解（名）
+needless to say,言うまでもなく（副）
+neutral,中立の（形）
+no longer,もはや…ない（副）
+noble,（行為などが）崇高な、高潔な（形）
+nothing but A,Aに過ぎない（定）
+oppression,（人種などに対する）抑圧（名）
+pain,苦痛（名）
+palace,宮殿（名）
+patriot,愛国者（名）
+permanent,永久の（形）
+physical,肉体[身体]の（形）
+poverty,貧困（名）
+pray,祈りを捧げる（動）
+predict A,Aと予測[予言]する（動）
+prejudice,偏見（名）
+pro-choice,中絶賛成派（形）
+protest,抗議する（動）
+protest against A,Aに抗議する（動）
+put an end to A,Aに終止符を打つ（動）
+racial,人種の…（形）
+refugee,難民（名）
+reject A,Aを拒絶する、Aを却下する（動）
+remain A,Aのままでいる（動）
+senator,上院議員（名）
+simultaneously,同時に（副）
+situation,状況、立場（名）
+soul,霊、魂（名）
+specialist,専門家、評論家（名）
+struggle,（苦しみながら）必死に戦う（動）
+summit,首脳会談[会議]（名）
+supreme,（地位・性質などが）最高の（形）
+take A into account,Aを考慮に入れる（動）
+talks,会談（名）
+tension,（政治的・社会的）緊張（名）
+throughout the world,世界中で（副）
+What will become of A?,Aはどうなってしまうだろう？（定）
+according to A,Aによると（情報源）（前）
+administration,政府、政権(名)
+affair,諸問題、出来事（名）
+alternative,代わりの(形)
+approve A,Aを承認する(動)
+argue ～,～だと主張する(動)
+arise,(問題・困難などが)起る、生じる(動)
+at any moment,(嫌なことが)今にも(副)
+be in favor of A,A(意見など)を支持する(動)
+be indifferent to A,Aに無関心である（動）
+be ready to do,(いつでも)doするつもりだ、doする覚悟ができている(動)
+budget,予算(案)(名)
+congress,(米国の)議会(名)
+dispute,論争、紛争(名)
+eliminate A,A(不要なもの)を取り除く(動)
+expire,(契約・券などが)期限切れになる(動)
+federal,連邦政府[国家]の(形)
+foreign,外国の（形）
+friction,(関係などの)摩擦(名)
+impose A,(税・義務など)Aを課す(動)
+indifferent,無関心な（形）
+legislation,法律(名)
+look for A,Aを探す(動)
+majority,過半数、大多数(名)
+meet A halfway,A(人)と妥協する(動)
+narrowly,かろうじて(…する)(副)
+once and for all,きっぱりと(副)
+overwhelming,(数などが)圧倒的な軽
+poll,世論調査(名)
+priority,優先事項(名)
+relation,(社会生活・外交上の)関係（名）
+revenue,(国の)歳入(名)
+sanction,制裁(措置)(名)
+security,安全の確保[保障](されている状態)(名)
+settle A,(問題など)Aを解決する(動)
+source,(発生[入手])源(名)
+survey,（世論・動向などの）調査（名）
+tariff,関税(名)
+three in five,5つ[5人]のうち3つ[3人]（形）
+trade,貿易(名)
+treaty,(国家間の)条約(名)
+unfair,不公平な(形)
+unless,もし～でなければ、～でない限り(接)
+accuse of A,Aを訴える(動)
+attempt,試みる、企てる(動)
+attempt to do,doしようと試みる=try to do(動)
+break into A,Aに不法侵入する(動)
+brutal,残虐な(形)
+brutal murder,残虐殺人 (名)
+catch sight of A,Aをちらっと見かける(動)
+clue to A,Aの手がかり、Aのヒント(名)
+come up,近づいてくる(動)
+cop,警官、刑事(名)
+correspond with A,Aに一致する(動)
+crime,犯罪(行為)(名)
+debate,討論、論争(名)
+distinguish,区別する(動)
+distinguish A from B,AとBとを区別する(動)
+elderly,お年寄りの(形)
+fingerprint,指紋(名)
+give rise to A,(よくないこと)Aを引き起こす(動)
+guilty,有罪の(形)
+incident,(人々を不安にさせる)出来事、事件(名)
+insane,狂気の、正気ではない(形)
+jury,陪審団(名)
+kidnapping,誘拐(名)
+mercy,慈悲、情状酌量(名)
+murder,殺人(名)
+noted,有名な、著名な(形)
+officer,警官(名)
+on duty,職務中の、勤務中の(形)
+perceive A,Aに気づく(動)
+plead for A,Aを請願する(動)
+prison,刑務所(名)
+psychologist,心理学者(名)
+search,よく調べる(動)
+search for A,Aを探す(動)
+sentence to A,Aという判決を下す(動)
+take A by surprise,A(人)を驚かす(動)
+the day before yesterday,一昨日、おととい(副)
+thief,泥棒(名)
+verdict,評決(名)
+vice,悪いこと(名)
+virtue,正しいこと(名)
+weapon,兵器、凶器(名)
+weird,奇妙な(形)
+widespread,広範囲にわたる(形)
+wilderness,原野(名)
+witness A,Aを目撃する(動)
+,
+A to death,Aの結果死ぬ(副)
+Antarctic,南極(地方)(名)
+Mediterranean,地中海(名)
+aisle,(座席・棚の間の)通路(名)
+all of a sudden,突然(副)
+ash,灰、燃えかす[通例 -es](名)
+at present,現時点で(副)
+be aware of A,Aに気づいている(動)
+be in A condition,Aな状態[程度]である(動)
+become aware of A,Aに気づく(動)
+blaze,激しい炎(名)
+bomb,爆弾(名)
+bound for A,A行きの(電車・飛行機などが)(形)
+breathe,呼吸する、息をする(動)
+bullet,弾丸(名)
+burn down,全焼する(動)
+by accident,誤って、過失で(副)
+cargo,貨物(名)
+cargo vessel,貨物船(名)
+catch fire,火が付く(動)
+chest,胸部(全体)(名)
+condition,状態、程度、条件(名)
+critical,危機的な、危篤の(形)
+deli,デリ、惣菜屋、デリカテッセン(名)
+deliberately,故意に(副)
+expedition,探検[調査]旅行(名)
+explode,爆発する(動)
+firework,花火(名)
+freeze,凍る(動)
+freeze to death,凍死する(焼死は、be burnt to death）(動)
+go off,(爆発物が)爆発する(動)
+heap,(乱雑に積み上げられた)山(名)
+horror,(体が震えるほどの)恐怖、ホラー(名)
+in sight,視界に(入って)(副)
+inform A of B,A(人)にBを知らせる(動)
+it takes two days to do,doするのに2日間かかる(構)
+more than A,Aより多い、A以上の(形)
+penetrate A,Aを突き抜ける、Aの奥まで入り込む(動)
+put...out,…(火・タバコ)を消す(動)
+reckless,無謀な(形)
+relief,安堵(名)
+remember A,Aを覚えておく、Aを思い出す、Aを覚えている(動)
+remember doing,doingを覚えている(過去の記憶）(動)
+remember to do,忘れずにdoする(未来志向）(動)
+repeat,繰り返す(動)
+safety,(体・生命の)安全、無事(名)
+scream,悲鳴を上げる(恐怖、興奮などで)(動)
+seriously,ひどく(副)
+sigh,溜息(名)
+sink,沈む(動)
+so as to do,doなるように(副)
+stare at A,Aをじっと見つめる(動)
+take hold of A,Aをつかむ(動)
+thirty-story,30階建て(の建物)(名)
+trace,跡、形跡(名)
+tragedy,悲劇的な出来事(名)
+turn...around,振り向く(動)
+uncertain,(物が)不確実な(形)
+vessel,(大型の)船舶(名)
+warehouse,倉庫、貯蔵庫(名)
+whether A or B,AなのかそれともBなのか(接)
+without a trace,何の痕跡も残さずに(副)
+wounded,(武器・凶器で)負傷した(形)
+Give me a break,冗談はよしてくれ（定）
+Middle Ages,中世（名）
+access,到達する方法[入る方法]（名）
+acquire A,Aを獲得する（動）
+alien,宇宙人（名）
+ancestor,先祖（名）
+ancient,古代の（形）
+anthropologist,人類学者（名）
+ape,猿、類人猿（名）
+be familiar to A,Aによく知られている（動）
+be fluent in A,Aを流ちょうに話す（動）
+believe it or not,信じてもらえないかもしれないが（副）
+border,国境（名）
+bug,虫（名）
+bury A,Aを埋める（動）
+cast A,[比喩的に] Aを投げる（動）
+cast a spell on A,Aに呪文（魔法）をかける(動)
+cathedral,大聖堂（名）
+cave,洞窟（名）
+civilization,文明（名）
+cost,出費[負担]する（動）
+create A,（作品など）Aを創造する（動）
+credit,評価する、信用する、信頼する(動)
+credit A with B,B を A(人)の実績として認める[評価する]（動）
+custom,習慣（名）
+date A,Aに日付を書く（動）
+date back to A,（起源が）Aにまでさかのぼる（動）
+desert,砂漠（名）
+dialect,方言（名）
+emerge,（姿が）現れる（動）
+evil,とても悪い（形）
+exhibition,展覧会（名）
+explore A,（場所）Aを探検する（動）
+fancy,装飾された（形）
+fluent,流ちょうな（形）
+frame,枠、額縁（名）
+frighten,怯えさせる、ビックリさせる（動）
+from generation to generation,代々（副）
+generation,同世代の人々（名）
+get frightened,怖がる、びっくりする= be～（動）
+hand...down,伝える（動）
+in search of A,Aを求めて（前）
+insight into A,Aに対する洞察、Aに対する深い理解（名）
+insist on A,Aを強く主張する（動）
+inspire him,彼に意欲を沸かせる（動）
+language,言葉（名）
+legend,伝説（名）
+linguist,言語学者（名）
+magnificent,（外観・景観などが）荘厳な、壮大な（形）
+masterpiece,（ある芸術家の）傑作（名）
+millionaire,大富豪（名）
+mount A,Aを載せる[はめ込む]（動）
+myth,神話（名）
+no matter how ～,たとえどんな[どれだけ]～でも
+offer A,Aを提供する[与える]（動）
+path,細道、小道（名）
+portrait,肖像画[写真]（名）
+prevail,広く行われている[よく見られる]（動）
+proceed,進む（動）
+profound,（意味・教養などが）深い（形）
+province,（自治）州（名）
+religion,…の宗教、…教（名）
+renaissance,ルネッサンス、文芸復興（名）
+run away,逃げる（動）
+sculpture,彫刻作品（名）
+seed,きっかけ、種（名）
+several,いくつかの…（形）
+sole,唯一の（形）
+sow A,Aをまく（動）
+spell,呪文、魔法（名）
+splendid,すばらしい（形）
+steep,傾斜が急な（形）
+treasure,宝物（名）
+tribe,部族（名）
+turn A into B,A を B に変える（動）
+upside down,上下逆さまの[に]（形）（副）
+vanish,消える（動）
+wicked,意地の悪い、悪質な（形）
+witch,魔女（名）
+worship A,Aを崇拝する（動）
+It's none of your business,あなたには関係ないことだ（定）
+What's the matter ?,どうかしたの？(定)
+acquaintance,知人（名）
+all the more,なおさら（副）
+ambiguous,曖昧な（形）
+anniversary,記念日（名）
+at a glance,一目見て(すぐに)（副）
+backwards,後ろ前に（副）
+be dressed in A,A(服)を着ている（動)
+be suitable for A,Aにふさわしい（動）
+blush,赤面する（動）
+casual,偶然の、気取らない、くだけた（形）
+celebrate A,Aを祝う（動）
+chat,おしゃべりする（動）
+chuckle,くすくす笑う（動）
+clothes,衣類、洋服（名）
+come from A,Aの出身である、Aから来る（動）
+comprehend,理解する（動）
+crowd,人込み、群衆（名）
+crude,下品な、卑猥な（形）
+disguse,変装（名）
+drunk,酔っぱらった（形）
+embarrassed,どぎまぎした、恥ずかしい（形）
+glance,ちらっと目を向けること（名）
+hardly,ほとんど…ない（副）
+have...on,…を身につけている[着ている]（動）
+help yourself to A,Aをご自由にどうぞ（動）
+hospitality,おもてなし（名）
+imply,ほのめかす（動)
+in disguise,変装して（形）（副）
+in front of A,Aの正面に（前）
+in the meantime,その間に（副）
+intimate,とても私的な、親密な（形）
+invite to A,Aに招待する（動）
+irritate,いらいらさせる（動）
+it won't be long before A,Aするまでもうすぐだ(動）
+leave me alone,放っておいて、独りにして（動）
+look down on A,(人)Aを見下す（動）
+loud,(服・色などが)けばけばしい（形）
+miserable,惨めな、とても不幸な（形）
+occasion,(特別な)行事、イベント（名）
+offensive,不快にさせる（形）
+outfit,服装、衣装（名）
+peculiar,奇妙な、特異な（形）
+quite a few,かなり多くの（形)
+recognize A,Aが誰[何]だかわかる（動）
+reply,返事（名）
+rural,地方の（形）
+shabby,ぼろぼろの、みすぼらしい（形）
+share with A,A(人)に話す、Aと共有する（動）
+snack,軽食（名）
+stand out,目立つ、際立つ（動）
+stay away from him,彼に近づかない動）
+suitable,ふさわしい（形）
+sweatshirt,トレーナー（名）
+tease,からかう（動）
+timid,臆病な（形）
+too A to do,あまりに A 過ぎるのでdoする事が出来ない(構)
+topic,話題（名）
+touch,感動させる（動）
+A or something,A か何か（名）
+After you,お先にどうぞ（定）
+How about A ?,Aはいかがですか？（定）
+I'm not up for it,そういう気分じゃないよ（定）
+See you later,またね（定）
+Take care of yourself,じゃあね、体に気をつけてね（定）
+You're welcome,どういたしまして（定）
+adjust,調節する、調整する（動）
+adjust to A,Aに順応する（動）
+among,～の中で、～の間に(前)
+be good at A,Aが上手だ（動）
+be into A,Aにはまっている（趣味など)（動）
+belong,受け入れられる場所にいる（動）
+card,カード、トランプ札、トランプ（名)
+classical,クラシックの…（形）
+derive A from B,B から A を引き出す、BからAを得る（動）
+extremely,極度に（副）
+for a change,気分転換に（副）
+for her age,年の割には（副）
+go ahead,先へ進む、お先にどうぞ（動）
+hear from you,あなたから連絡をもらう（手紙・電話などで）（動）
+insect,昆虫（名）
+keep to A,Aから離れない[それない]（動）
+keep to oneself,自分の殻に閉じこもる（動）
+lonely,孤独な（形）
+look forward to doing,doingを楽しみにする（動）
+make friends,仲良しになる[親しくなる]（動）
+mature,大人になった、大人びた、円熟した、熟成した（形）
+niece,姪（名）
+observe,観察する（動）
+on the other hand,しかし一方では（副）
+out of place,場違いの、浮いてしまって（形）
+pass for A,Aとして通用する（動）
+play cards,トランプをする[で遊ぶ]（動）
+pleasure,楽しみ（名）
+pretty,かなり（副）
+say hi to A for me,A(人)によろしく（定）
+sincerely,心から（副） 敬具（定）
+sociable,社交的な（形）
+sophisticated,洗練された（形）
+surroundings,環境、状況（名）
+take care of A,Aの世話をする（動）
+to tell the truth,実を言うと（副）
+twenty-something,二十何歳、二十代（名）
+uneasy,不安な（形）
+utterly,全く（副）
+A is worth doing,A はdoingするだけの価値がある（動）
+You must be kidding,冗談でしょう（定）
+anything goes,何でも受け入れる、何でもあり、こだわりがない（定）
+apologize to Lisa,Lisaに謝罪する（動）
+as far as A is concerned,A に関しては（副）
+as far as ～,～まで、～の限りでは（定）
+as soon as possible,できるだけ{すぐ]に（副）
+awkward,気まずい、ぎこちない（形）
+be asleep,眠っている（動）
+be in a good mood,機嫌がいい（動）
+be inclined to do,doする傾向がある（動）
+be open to A,（批判など）Aを受け入れやすい（動）
+be worth A,Aの価値がある（動）
+between you and me,ここだけの話だけど（副）
+both,双方の、両者の(形)
+by contrast,それとは対照的に（副）
+calm...down,落ち着く（動）
+cautious,用心深い、慎重な（形）
+come across Nick,Nickを偶然見つける（動）
+come over,そこに行く（動）
+comfort Monica,Monicaを慰める（動）
+contrast,対比（名）
+creep,静かに[忍び足で]歩く（動）
+discuss A,Aについて話し合う（動）
+divorce him,彼と離婚する（動）
+drag her,彼女を無理に引っ張って進む（動）
+embrace A,Aを強く抱きしめる（動）
+exaggerate,大げさに表現する（動）
+get along with Nick,Nickとうまくやっていく（動）
+go too far,度を越す（動）
+in tears,泣きながら（副）
+interest,興味、関心（名）
+interpret,解釈する（他動）、通訳する（自動）
+interpret A as B,A をBの意味に解釈する（動）
+literally,文字通り（副）
+make fun of her,彼女をばかにする（動）
+make sure that A,Aを確かめる（動）
+misunderstanding,誤解（名）
+not...any more,もうこれ以上…しない（副）
+of importance to A,Aにとって重要な（形）
+once in a while,時々（副）
+passionately,情熱的に（副）
+pause,（話などの）間(ま)（名）
+pay attention to A,Aに注意を払う（動）
+remark,発言（名）
+romantic,恋愛の…（形）
+seem A,Aのように思える（動）
+set off,（旅行などに）出発する（動）
+sometime,そのうち（副）
+sound,（眠りが）深く（副）
+spare A,(時間)Aを割く、Aを分け与える（動）
+stand A,Aに我慢する（動）
+take her by the hand,彼女の手[腕]を取る（動）
+tear,破く、破ける、引きはがす（動）
+tear...up,Aを(ずたずたに)引き裂く（動）
+think of doing,doingしようかと考える（動）
+throw...away,捨てる（動）
+trivial,些細な（形）
+upstairs,上の階[二階]へ[に、で]（副）
+How come ?,どうして？
+Not much,別に(定)
+Not really,(返答で)そうでもないよ(定)
+Shut up,黙れ！、うるさい！(定)
+What a pity,それは可哀そうに(定)
+What's up?,どうだい調子は？(定)
+a couple of days,２.３の日（２.３日）(形)
+a great deal of A,たくさんのA(形)
+adolescence,思春期（名）
+advantage,利点、プラス面(名)
+all along,最初からずっと(副)
+all by myself,たった一人で(副)
+arrogance,傲慢さ(名)
+as...as ever,相変わらず… (副)
+ask him out,彼をデートに誘う(動)
+be afraid of A,Aを怖がる(動)
+be crazy about Ken,Kenの熱狂的なファンである（動）
+be in trouble,(相当)大変な[まずい]ことになている(動)
+be seeing A,A(異性)と付き合っている(動)
+be taken in by Jennifer,Jenniferにだまされる(動)
+be there for you,あなたのそばにいる(動)
+be upset,精神的に不安定である(動)
+be used to A,Aに慣れている(動)
+brave,勇敢な(形)
+break up,(異性と)別れる(動)
+congratulations,お祝いの言葉(名) おめでとう！(感)
+deceive me,私をだます（動）
+delight,(大きな)喜び(名)
+depress A,A(人)を憂鬱にさせる（動）
+depressed,憂鬱な（形）
+even though～,実際に～だけれども(接)
+feel down,気分が落ち込んでいる(動)
+for ages,ずいぶんと長い間(副)
+get married to Jennifer,Jenniferと結婚する(動)
+get through A,(辛いこと)Aを乗り切る(動)
+give her up,彼女をあきらめる(動)
+go so far as to do,(なんと)doさえもする(動)
+go with Jennifer,Jenniferと付き合う(動)
+guy,男(名)
+idiot,ばか(名)
+if I were you.I'd do,私(があなたの立場)だったらdoするかな(定)
+indecisive,決断力のない、優柔不断な(形)
+it dawns on me that A,Aということに私が(だんだん)気づいてくる(動)
+it is about time A,もうAしてもよい時間だ(構)
+know better than to do,doしないくらいの分別はある(動)
+leave me for B,私を見捨ててB(別の人)に行く(動)
+look back on A,Aを振り返る、Aを回想する(動)
+must have done,きっとdoneしたに違いない（助）
+naive,うぶな(形)
+no wonder ～,～ということも不思議ではない[当然だ](定)
+not do...without A,doするときはいつもAをする(定)
+on and off,したりやめたりを繰り返して(副)
+on his own,一人で、自分(だけ)で(副)
+opposite,反対のもの(名)
+ordeal,厳しい試練(名)
+pity,哀れみ、同情(名)
+provoke her,彼女を挑発する、彼女をわざと怒らせる(動)
+put up with A,Aに我慢する[耐える](動)
+reflect,反射する(動)
+reflect on A,Aをよく[深く]考える(動)
+regret,後悔する(動)
+regret doing,doingしたことを後悔する(動)
+see him off,彼(人)を見送る(動)
+see through her,彼女の正体を見抜く(動)
+self-confident,自信がある(動)
+serves you right,当然の報いだ(定)
+settle down,身を固める(動)
+should have done,doneするべきだった（助）
+show up,(待っていた人が)姿を見せる(動)
+sob,すすり泣く、すすり泣きながら言う（動）
+sorrow,(深い)悲しみ(名)
+take a risk,危険を冒す(動)
+take advantage of you,あなたを悪用する、あなたを利用する(動)
+take your time,慌てない(動)
+take...back,撤回する(動)
+to be honest,正直に言うと（副）
+torture,拷問、耐え難い苦痛(名)
+trouble,大変な状況、まずい状況(名)
+trust her,彼女を信頼[信用]する(動)
+waste A,Aを無駄にする、Aを浪費する(動)
+wonder,不思議(名)
+Buddhist,仏教徒(名)
+Do you have the time?,時間わかりますか？、今何時ですか？(定)
+I'll buy you dinner,dinnerをおごるよ(定)
+I'm at a loss for words,あきれてものが言えないよ(定)
+I'm so sorry,それはお気の毒に(定)
+It's a quarter to eight,８時１５分前です(定)
+Let's call it a day,今日はこの辺までにしておこう(定)
+Let's see,え～っと(定)
+Take jennifer for example,例えばjenniferを見てごらん(定)
+That's too bad,それは大変だね(定)
+all at once,突然(副)
+arrangement,準備、もろもろの手配(名)
+atmosphere,雰囲気(名)
+attend A,A(会議など)に出席する(動)
+be at a loss,どうしたら[どういったら]よいのか自分でもわからない(動)
+be starved,おなかがペコペコだ(動)
+besides A,Aに加えて(前)
+break off,…(関係)が(突然)壊れる[破局する](動)
+burst into A,突然Aの状態になる(動)
+businessman,実業家(名)
+by the way,ところで(副)
+cherish A,(宝物のように)Aを大切にする(動)
+childhood,少年[少女]時代(名)
+cough,咳をする(動)
+fade,徐々に消える(動)
+feel for you,あなたの気持ちがわかる(動)
+fly,ハエ(名)
+for example,例えば(副)
+funeral,儀式(名)
+get engaged to A,Aと婚約する[している](動)
+get over A,A(病気など)を克服する(動)
+go easy on Bob,Bobにやさしく接する(動)
+go thorough A,(嫌なこと)Aを経験する(動)
+grief,(死別などによる)深い悲しみ(名)
+interfere with,…の邪魔[妨害]をする(動)
+make arrangements,段取りをつける(動)
+marriage,結婚(名)
+meditation,瞑想(名)
+memory,思い出(名)
+mosquito,蚊(名)
+motive,動機(名)
+not necessarily,(可能性として)必ずしも…ではない(副)
+pass away,(人が)亡くなる(動)
+period,期間、時期(名)
+postpone A,Aの延期を決定する(動)
+precious,貴重な、大切な(形)
+priest,(キリスト教以外の)聖職者、僧侶(名)
+pure,純粋な(形)
+recently,最近、このごろ(副)
+relative,親戚(の一人)(名)
+ritual,(宗教的・伝統的な)儀式(名)
+rough,粗い、(人生が)辛い(形)
+sacred,神聖な(形)
+sneeze,くしゃみをする(動)
+speaking of jennifer,jenniferと言えば(定)
+spoil A,Aを台無しにする(動)
+starve,飢餓状態にある(動)
+take place,(行事・会合などが)行われる(動)
+these days,近頃は(副)
+yawn,あくびをする(動)
+you know,ほら、あれだよ(副)

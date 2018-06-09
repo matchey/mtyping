@@ -13,7 +13,7 @@ translated,fascinating,fairy,tale,into,plain
 The following passage is quoted from a well-known fable.
 following,passage,quoted,well-known,fable
 以下の一説は有名な寓話からの引用です。
-Are you familiar with contemporary literature? "I know next to nothing about it."
+"Are you familiar with contemporary literature?" "I know next to nothing about it."
 familiar,contemporary,literature,next,to
 「現代文学に詳しいですが？」 「ほとんど知りません。」  
 At times I confuse "curve" with "carve."
@@ -28,9 +28,9 @@ article,tips,those,who,eager,increase,vocabulary
 His latest works are on display at the city hall. They are fabulous beyond description.
 latest,works,display,hall,fabulous,description
 彼の最新の作品が市庁舎で展示されているの｡言葉にできないほど紫敵よ。
-Could you move over a little? "Oh, sorry. I didn't realize I was taking up so much space."
+"Could you move over a little?" "Oh, sorry. I didn't realize I was taking up so much space."
 move,over,taking,up
 「少し詰めていただけませんか？」「あ、ごめんなさい。こんなに 場所を取っていたなんて気付きませんでした｡」  
-What's this ugly object? "This is a piece of abstract art!"
+"What's this ugly object?" "This is a piece of abstract art!"
 ugly,object,piece,of,abstract
 「この不格好な物体は何？」 「これは抽象芸術の作品だよ！」  

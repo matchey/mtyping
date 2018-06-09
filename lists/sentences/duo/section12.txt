@@ -4,7 +4,7 @@ turn,our,backs,on,desperate,risk
 The parliament decided to provide developing countries with financial aid.
 parliament,provide,developing,countries,financial,aid
 議会は発展途上国に財政援助を行うことを決議した。
-Some say the British monarchy should be abolished. What do you think?"
+"Some say the British monarchy should be abolished. What do you think?"
 monarchy,abolished,What,do,you,think
 英国の君主制は廃止されるべきだと言う人もいるけど、あなたはどう思う？
 They sought shelter from the attack but found no place to hide.

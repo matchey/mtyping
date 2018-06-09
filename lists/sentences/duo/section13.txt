@@ -16,7 +16,7 @@ hostile,jealous,wealth,status
 I hate him! He behaves as if he were somebody.
 hate,behaves,as,if,somebody
 彼のことは大嫌い。まるで自分が大物であるかのように振る舞うのよ。
-In spite of our compliments, he frowned and turned away.He was so rude!
+In spite of our compliments, he frowned and turned away. He was so rude!
 In spite of our compliments,frowned,turned,away,rude
 僕たちがほめ言葉をかけたのに、彼は顔をしかめてそっぽを向いた。失礼だ！
 He claimed that the enormous property was at his disposal.

@@ -1,0 +1,84 @@
+No one,だれも…ない
+You flatte me,お世辞でもうれしいよ（定）
+admire A,Aを素晴らしい[すごい]と思う、Aに感心する（動）
+agree with A,(人)Aと同じ意見である（動）
+at first,最初は（副）
+back A up,Aを後援[支持]する（動）
+be getting at,…を言おうとしている（動）
+be grateful to A,(人)Aに感謝している（動）
+be inferior to A,Aよりも劣る（動）
+be on A side,Aの味方[側]である（動）
+be yet to A,まだAしていない（動）
+capacity,(人の)能力（名）
+chairman,(会議などの)議長（名）
+come up with A,(うまい考えなど)Aを考え出す（動）
+complete,完全な、全くの（形）
+consensus,(グループ内の)まとまった意見（名）
+courage,勇気（名）
+cut...off,･･･の話を遮る（動）
+deal,取引（名）
+defeat A,(相手)Aに勝つ、Aを負かす（動）
+desagree with A,(人)Aと意見が異なる（動）
+despite A,Aにもかかわらず（前）
+differ from A,Aと異なる（動）
+endeavor,(壮大な)試み、努力（名）
+eventually,最終的には（副）
+exchange A,(意見など)Aを交換する（動）
+expect A to B,AがBすることを期待する（動）
+experience,(長い時間をかけて習得した)経験（名）
+fail to A,(そうすべきなのに)Aしない（動）
+failure,失敗（名）
+fall through,(交渉・計画などが)うまくいかない（動）
+firsthand,(情報などが)直接得た（形）
+former,[the -]前者（名）
+frank,(良い意味で)率直な（形）
+from A viewpoint,Aの見地からすると、Aの観点でみると（副）
+genius,天賦の才能（名）
+go along with A,(意見など)Aに賛成する（動）
+go over A,Aをよく見る[説明する/考える]（動）
+immediately,直ちに（副）
+in doing,…する時は（前）
+in practice,(理論ではなく)実際には（副）
+in theory,理論的には（副）
+ingenious,(考えなどが)独創的な（形）
+instinct,本能（名）
+ironically,皮肉にも（副）
+lack,欠乏、不足（名）
+latter,[the -]後者（名）
+live up to A expectation,Aの期待にこたえる（動）
+logic,論理（名）
+make ... out,…(わかりにくいこと)を理解できる（動）
+make a decision,どうするかを決める（動）
+make up for A,(マイナス状態)Aを埋め合わせる（動）
+marvelous,すばらしい（形）
+matter,事柄、問題（名）
+meeting,(会社などの)会議、打ち合わせ（名）
+mission,(政治的・軍事的な)任務、使命（名）
+not A but B,AでなくB（定）
+objective,客観的な（形）
+obstacle,障害（名）
+opinion,意見、考え（名）
+opponent,(論争・試合などの)相手、対抗者（名）
+overcome A,Aを克服する（動）
+perseverance,不屈の努力（名）
+possess A,Aを所有する（動）
+put A into practice,(考え・計画など)Aを実行に移す（動）
+reach A,(合計・結論など)Aに達する（動）
+regarding A,Aに関して（前）
+rely on A,Aに頼る（動）
+result in A,(結果)Aに終わる（動）
+sensible,(人・判断などが)懸命な（形）
+solid,しっかりした、団結した（形）
+solution,(…に対する)解決策（名）
+somewhat,いくらか（副）
+sound A,(聞いたところ)Aのようだ（動）
+strictly speaking,厳密に言うと（副）
+support,支持（名）
+take a vote,決を取る（動）
+talk A into B,(人)Aを説得してBさせる（動）
+view,考え、見解（名）
+wind A up,(会合など)を)Aを終わりにする（動）
+wisdom,知恵（名）
+without A,Aがなかった[いなかった]なら（前）
+would have done,…していただろう（動）
+yet,しかし(それでも)(接)

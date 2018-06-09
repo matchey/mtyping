@@ -1,0 +1,43 @@
+accurate,正確な（形）
+autobiography,自叙伝（名）
+be disappointed,（人が）がっかりする（動）
+be sold out,（商品・チケットなどが）完売する（動）
+billion,10億（名）
+candidate,（立）候補者（名）
+care for A,Aの世話をする（動）
+charity,慈善団体（名）
+collect A,Aを集める[収集する]（動）
+concentrate on A,（神経などを）Aに集中する（動）
+cooperate,協力する（動）
+council,（地方自治体の）議会（名）
+data,データ（名）
+devote A to B,（時間・労力など）AをBに捧げる（動）
+donation,寄付（金）（名）
+election,選挙（名）
+far from A,Aと言うにはほど遠い（定）
+for the sake of A,Aの（利益・保護の）ために（前）
+force A to B,AにBするよう強いる(強制する)（動）
+give...away,…をただであげる、…を寄付する（動）
+ideal,理想（名）
+in need,（生活に）困っている（形）
+integrity,高潔さ、誠実さ（名）
+issue,（公の場で議論されるべき）問題（点）（名）
+it is the case that ～,～ということは事実だ（定）
+lead a A life,Aな生活を送る（動）
+leave...out,（全体から）除外する、除く（動）
+live on A,（収入など）Aで生活する（動）
+mayor,市長、町長（名）
+municipal,市[町]の（形）
+name A after B,Aの名前をBから取る（名付ける）（動）
+orphan,孤児（名）
+outcome,結果、結末（名）
+pension,年金（名）
+pursue A,（人・理想など）Aを追いかける（動）
+refer to A as B,AをBと呼ぶ、AをBと言及する（動）
+release A,（新製品など）Aを発売する（動）
+rest of A,Aの残り部分（名）
+retirement,退職、引退（名）
+run for A,（官職）Aに立候補する（動）
+some,約、およそ（副）
+specific,具体的な（形）
+spend A doing,Aをdoingに費やす（動）

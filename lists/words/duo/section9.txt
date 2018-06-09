@@ -1,0 +1,54 @@
+Here you are,(物を手渡す時に)はいどうぞ（定）
+Sure,もちろん（副）
+add A to B,AをBに加える（動）
+be amazed to see A,Aを見て(とても)驚く（動）
+bill,請求書（名）
+borrow A,A(物)を借りる（動）
+cell phone,携帯電話（名）
+chore,(特に家庭内の)雑用（名）
+come to A,(合計が)Aになる（動）
+decide to A,Aすることに決める（動）
+do with A,Aをどうにかする[扱う]（動）
+do without A,Aなしでやっていく（動）
+dye A,Aを染める（動）
+elbow,(服の)ひじの部分（名）
+fabric,織物、生地（名）
+faucet,水道の栓（名）
+flour,小麦粉（名）
+for a rainy day,まさかの時のために（副）
+for now,とりあえず（副）
+fridge,冷蔵庫（名）
+get rid of A,Aを処分する、Aを捨てる（動）
+glue,接着剤（名）
+go bad,(食べ物などが)腐る、痛む（動）
+in a rage,激怒して（副）
+lay ... out,…(大金)をつぎ込む（動）
+lay A,Aを(そっと)置く（動）
+leather,革（名）
+leftovers,(食事の)残り物（名）
+lid,(箱・鍋などの)蓋（名）
+lie down,(体を休めるために)横になる（動）
+microwave,電子レンジ（名）
+mixture,混合物（名）
+necessity,必需品（名）
+needle,縫い針（名）
+no sooner A than B,Aした途端にBが起こる(構)
+on second thought,考え直して（副）
+put A aside,(物・お金など)Aを取っておく（動）
+relax,くつろぐ（動）
+scissors,はさみ（名）
+shrink,(服などが)縮む（動）
+sit back,ゆったりと座る（動）
+so that A will B,AがBするように(構)
+something of a A,ちょっとしたA（形）
+stir A,Aをかき混ぜる（動）
+substitute A for B,AをBの代わりに使う（動）
+thick,(スープなどが)濃い、とろみのある（形）
+thread,(裁縫用の)糸（名）
+tighten A,Aをきつく締める（動）
+transparent,透明な（形）
+turn A off,A(電気など)を消す、A(水栓)を止める（動）
+utility,(公益サービスとしての)電気、ガス、水道（名）
+wear out,すり切らす（動）
+what should we do,どうしたらよいのでしょう？
+yell,(興奮して)…と叫ぶ（動）

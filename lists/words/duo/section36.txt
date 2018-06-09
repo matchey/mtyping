@@ -1,0 +1,84 @@
+Supreme Court,最高裁判所（名）
+abortion,中絶（名）
+all...long,…の間ずっと（副）
+ambassador,大使（名）
+amendment,改正案（名）
+appoint A,Aを任命する（動）
+ban on A,Aの禁止（令）（名）
+be capable of doing,doingできる（動）
+be in a A situation,Aな状況（立場）にある（動）
+be located,位置する（動）
+be to do,doをする予定である（助）
+bitter,激しい（形）
+broadcast,放送[放映]する（動）
+build...up,（徐々に）高まる[増える]（動）
+capable,有能な（形）
+conflict,衝突、紛争（名）
+controversy,論争、議論（名）
+cope with A,Aにうまく対処する（動）
+court,裁判所（名）
+deceased,故人（たち）（形）
+dialogue,対話（名）
+diplomatic,外交（上）の…（形）
+discrimination,差別（名）
+diversity,多様性（名）
+do away with A,Aを捨てる[廃止する]（動）
+endure A,Aに耐える（動）
+erect A,Aを建てる（動）
+ethnic,民族の（形）
+foster A,（関係など）Aを育む（動）
+freedom,自由（の状態）（名）
+get down on one's knees,膝をついて、膝まずいて（副）
+goodwill,親善、友好（名）
+help do,doするのに役立つ[貢献する]（動）
+honor,名誉、尊敬の念（名）
+illusion,幻想（名）
+immense,巨大な（形）
+immigrant,移民（名）
+imperial,帝国の、天皇（皇帝）の（形）
+in honor of A,Aに敬意を表して（前）
+in my opinion,私の考えでは（副）
+international,国際的な（形）
+locate A,Aの位置を特定する（動）
+long for A,Aを切望する（動）
+make an effort,努力する（動）
+mental,精神的な（形）
+minority,少数派（名）
+monument,記念碑（名）
+mutual,相互の（形）
+mutual understanding,相互理解（名）
+needless to say,言うまでもなく（副）
+neutral,中立の（形）
+no longer,もはや…ない（副）
+noble,（行為などが）崇高な、高潔な（形）
+nothing but A,Aに過ぎない（定）
+oppression,（人種などに対する）抑圧（名）
+pain,苦痛（名）
+palace,宮殿（名）
+patriot,愛国者（名）
+permanent,永久の（形）
+physical,肉体[身体]の（形）
+poverty,貧困（名）
+pray,祈りを捧げる（動）
+predict A,Aと予測[予言]する（動）
+prejudice,偏見（名）
+pro-choice,中絶賛成派（形）
+protest,抗議する（動）
+protest against A,Aに抗議する（動）
+put an end to A,Aに終止符を打つ（動）
+racial,人種の…（形）
+refugee,難民（名）
+reject A,Aを拒絶する、Aを却下する（動）
+remain A,Aのままでいる（動）
+senator,上院議員（名）
+simultaneously,同時に（副）
+situation,状況、立場（名）
+soul,霊、魂（名）
+specialist,専門家、評論家（名）
+struggle,（苦しみながら）必死に戦う（動）
+summit,首脳会談[会議]（名）
+supreme,（地位・性質などが）最高の（形）
+take A into account,Aを考慮に入れる（動）
+talks,会談（名）
+tension,（政治的・社会的）緊張（名）
+throughout the world,世界中で（副）

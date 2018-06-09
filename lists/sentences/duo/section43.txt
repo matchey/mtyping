@@ -22,8 +22,8 @@ Between,you,and,me,came,across,passionately,embracing
 Such a remark is open to misunderstanding.
 remark,open,to,misunderstanding
 そういう発言は誤解を招きやすい。
-"I can't stand it anytmore!" "Calm down. I'll come over as soon as possible."
-stand,anytmore,Calm,down,come,over,as,as,possible
+"I can't stand it anymore!" "Calm down. I'll come over as soon as possible."
+stand,anymore,Calm,down,come,over,as,as,possible
 「もう我慢できないっ！」「落ち着けよ。すぐそこに行くから。」 
 Don't take it literally. He is inclined to exaggerate.
 literally,inclined,to,exaggerate

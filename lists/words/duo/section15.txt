@@ -1,0 +1,53 @@
+Celsius,セ氏
+Let me see it,ちょっと見せて
+academic,(純粋に)学問的な
+barely,何とか…(する)、かろうじて
+barometer,気圧計
+barrel,樽
+be composed of A,Aから構成されている
+be interested in A,(人が) Aに関心[興味]がある
+bottom,〔the-〕底
+calculate A,Aを計算する
+cell,細胞
+chapter,(書物などの)章
+concept,概念、考え
+consist of A,Aから成る
+crack,ひび
+degree,(温度・角度の)度
+depth,深さ
+exact,正確な
+first of all,何よりもまず
+fix A,Aを修理する
+focus on A,Aに焦点をあてる
+for instance,例えば
+formula,(数学などの)公式
+gauge,計器
+geometry,幾何学(きかがく)
+go wrong with A,A(機械)の調子が悪くなる
+have A done,(専門の人に)Aを…してもらう
+have A repaired,Aを(誰かに)修理してもらう
+hydrogen,水素
+instrument,(医療・計測用などの)器具
+learn A by heart,Aを暗記する
+length,長さ、縦
+microscope,顕微鏡
+minute,極めて小さい(細かい)
+mostly,主に
+multiply A by B,AにBを掛ける
+muscle,筋肉
+oxygen,酸素
+particle,粒子
+practical,実用的な
+skill,(実用的な)技能[技術]
+subject,主題、テーマ
+substance,物質
+such as A,(例えば) Aとか[みたいな]
+temperature,温度、体温
+the naked eye,肉眼
+thermometer,温度計
+tiny,とても小さな
+tissue,(細胞からなる動植物の)組織
+vast,膨大な
+visible,目に見える
+volume,体積、容量
+width,横、幅

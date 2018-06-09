@@ -1,0 +1,80 @@
+A as a whole,Aを全体[一つ]として（形）
+No way!,まさか！(感)
+absolutely,全くの（副）
+annual,年に一度の…（形）
+antique,骨董品（名）
+apply A to B,(理論など)AをBに応用[適用]する（動）
+back,背中、腰（名)
+be absent from A,Aを欠席する（動）
+be entitled to A,(人に)Aする権利がある（動）
+be in A spirits,Aな気分[精神状態]である（動）
+be opposed to A,Aに反対である（動）
+be proud of A,Aを誇りに思う（動）
+bend down,腰をかがめる（動）
+benefit,(恩恵、幸福などの非金銭的な)利益（名）
+beyond the reach of A,Aの届かない範囲に（前）
+biologist,生物学者（名）
+bite A,Aを噛む（動）
+boast about A,Aを自慢げに話す（動）
+brain,脳（名）
+breakthrough,(科学・技術などの)飛躍的な発展（名）
+brief,短時間の（形）
+bring ... about,…(変化など)をもたらす（動）
+cancer,がん（名）
+cattle,(畜産用の)牛（名）
+classify A,Aを分類する（動）
+clone,クローンを作る（動）
+compensate A for B,AにB(損害)を補償する（動）
+complex,(構造などが)複雑な（形）
+conference,(公式の大きな)会議（名）
+die of A,(病気など)Aで死ぬ（動）
+discovery,発見(したもの)（名）
+disease,病気A（名）
+disgusting,ぞっとするような、キモい（形）
+effect,効果（名）
+epidemic,(伝染病の)流行（名）
+ethical,倫理上の、倫理的な（形）
+evolution,進化（名）
+fake,偽物の（形）
+fever,(病気による)高熱（名）
+flu,インフルエンザ（名）
+forbid,(絶対的な圧力で)禁止する（動）
+genuine,(物が)本物の（形）
+grandma,おばあちゃん（名）
+have a habit of A,(よくない)Aする癖がある（動）
+herbal,薬草の、漢方の（形）
+historic,歴史的(に重要)な（形）
+hug A,Aを(ギュッと)抱きしめる（動）
+human being,(神・動物・機械に対して)人間（名）
+humanity,人類（名）
+illness,病気B（名）
+imagination,想像力（名）
+initial,最初の（形）
+injury,けが、負傷（名）
+intese,(感情・勢いなどが)激しい、強烈な（形）
+let alone A,Aはなおさら(接)
+little by little,徐々に（副）
+mammal,哺乳動物（名）
+medical,医学の（形）
+nail,爪（名）
+no less than A,Aもの(多くの)（副）
+on A grounds,Aな理由から（副）
+owing to A,Aのために、Aが理由で（前）
+pill,錠剤（名）
+recover from A,(病気)Aから回復する（動）
+remedy,治療(法)（名）
+representative,代表者（名）
+so far,現在までに（副）
+so-called,いわゆる（形）
+son-in-law,娘婿（名）
+sore,(炎症などを起こして)痛い（形）
+stiff,(筋肉などが)凝った（形）
+stomach,胃（名）
+strain A,(無理をして体の一部)Aを痛める（動）
+structure,構造（名）
+symptom,(病気の)兆候、症状（名）
+technique,(実用的な)技術（名）
+theory,理論、学説（名）
+therapy,(特殊な)治療、療法（名）
+throat,のど（名）
+whale,クジラ（名）
