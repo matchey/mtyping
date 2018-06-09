@@ -23,7 +23,7 @@ void Mtyping::select_sections()
 	cout << "select sections: "; //e.g. 2, 4, 6, 12~19, 30
 	getline(cin, str_input);
 
-	if(str_input == "all"){
+	if(str_input == "all" || str_input == ""){
 		str_input = "1~45";
 	}
 

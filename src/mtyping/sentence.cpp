@@ -49,7 +49,10 @@ int Sentence::typing()
 	tcsetattr(STDIN_FILENO, 0, &RawTermIos); //端末をRowモードに設定
 
 	for(auto it = eng.begin(); it != eng.end(); ++it) {
-		if((chr = getchar()) == 0x03) break; // <C-c> for break
+		if((chr = getchar()) == 0x03){
+			cnt_miss = eng.length() - distance(eng.begin(), it);;
+			break; // <C-c> for break
+		}
 		if(chr == *it){
 			putchar(chr);
 		}else{
