@@ -21,7 +21,7 @@ Compared,previous,looking,up,in,terms,of,profit
 昨年と比べて、売上の数字だけを見れば事業は上向いている。しかしながら、利益はまだ全く出ていない。
 "I'm going to be transferred to an overseas branch." "Oh, I'll miss you. Please drop me a line."
 transferred,overseas,branch,miss,drop,line.
-「海外の支店に転勤することになったよ。」 「えっ。寂しくなるわ。手紙でも下さいね。」 
+「海外の支店に転勤することになったよ。」 「えっ。寂しくなるわ。手紙でも下さいね。」
 While he was away on business, his wife gave birth to a baby boy.
 away,on,business,gave,birth,to
 彼が出張中に、奥さんが男の子の赤ちゃんを出産した。

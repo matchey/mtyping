@@ -12,7 +12,7 @@ Round-trip,fares,destination,as,follows
 各目的地までの往復料金は下記の通りです。
 "Don't forget to confirm your reservation in advance." "I won't."
 Don't,forget,to,confirm,reservation,in,advance
-「事前に予約の確認をするのを忘れないでね。」 「ええ。」 
+「事前に予約の確認をするのを忘れないでね。」 「ええ。」
 Be sure to check in at least 45 minutes prior to departure time.
 Be,sure,to,check,in,at,least,prior,to,departure
 遅くとも出発時刻の45分前には搭乗手続きを必ず完了させて下さい。

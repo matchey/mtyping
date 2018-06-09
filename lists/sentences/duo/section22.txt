@@ -48,4 +48,4 @@ tool,handy,close,at,hand
 この道具は何かと便利だから、いつも手元に置いています。
 "In general, consumers prefer quantity to quality." "It's the other way around today."
 In,general,consumers,prefer,quantity,quality,the,other,way,around
-「一般的に、消費者は質よりも量を選びます。」 「今は全く逆です。」 
+「一般的に、消費者は質よりも量を選びます。」 「今は全く逆です。」

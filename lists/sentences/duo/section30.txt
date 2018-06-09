@@ -3,7 +3,7 @@ by,no,means,satisfied,reward,selfish,greedy
 ニックはその報酬に満足していない。彼は自己中心的で欲が深い。
 "You owe me $200 altogether, Bob. When are you going to pay me back?" "I'm sorry. I'm hard up." "There you go again!"
 owe,altogether,pay,back,hard,up,There,you,go,again
-「全部で200ドル貸してるの、ボブ。いつ返すつもりなの？」 「ごめん、金欠なんだ。」 「またなの？」 
+「全部で200ドル貸してるの、ボブ。いつ返すつもりなの？」 「ごめん、金欠なんだ。」 「またなの？」
 To Brian's surprise, his debt amounted to a considerable sum.
 To,surprise,debt,amounted,to,considerable,sum
 ブライアンが驚いたことに、借金はかなりの額になっていた。

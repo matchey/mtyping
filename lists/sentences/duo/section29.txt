@@ -6,7 +6,7 @@ stand,up,for,believe,in,yield,threats
 自分の信念を守るためには立ち上がるし、いかなる脅威にも屈しないつもりだ。
 "If only I could conquer my weaknesses!" "It's up to you."
 If,only,conquer,weaknesses,It's,up,to
-「自分の弱点を克服できさえすればなあ。」 「あなた次第よ。」 
+「自分の弱点を克服できさえすればなあ。」 「あなた次第よ。」
 You should make the most of this rare opportunity to demonstrate your talent.
 make,the,most,of,rare,opportunity,demonstrate,talent
 自分の才能を示すために、めったにないこの機会を最大限に利用するべきだ。

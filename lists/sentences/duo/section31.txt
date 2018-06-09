@@ -1,6 +1,6 @@
 "How's it going, Bob?" "Couldn't be better! I did well in my job interview!" "Good for you!"
 How's,it,going,Couldn't,be,better,did,well,job,interview,Good,for,you
-「ボブ、最近どう？」 「最高だよ！就職面接がうまくいったんだ。」 「やったじゃない！」 
+「ボブ、最近どう？」 「最高だよ！就職面接がうまくいったんだ。」 「やったじゃない！」
 He gave instructions to the trainees, but they couldn't make heads or tails of them.
 instructions,trainees,couldn't,make,heads,or,tails,of
 研修生たちは、彼から与えられた指示がさっぱりわからなかった。
@@ -9,7 +9,7 @@ at,one,time,out,of,the,question,one,by,one
 一度に二つのことはできないよ。無理に決まってる。一つずつやりなよ。
 "Bob, don't disturb her. Mind your own business," he whispered.
 disturb,Mind,your,own,business,whispered
-「ボブ、彼女の邪魔をしちゃだめだぞ。ちょっかいを出すなよ。」と彼は小声で言った。 
+「ボブ、彼女の邪魔をしちゃだめだぞ。ちょっかいを出すなよ。」と彼は小声で言った。
 If you persist in bothering her like that, she'll lose her temper.
 persist,bothering,temper
 そうやってしつこく彼女を困らせると、彼女も怒り出すぞ。
@@ -18,7 +18,7 @@ so,childish,that,resist,temptation
 彼はあまりに子供だから誘惑に勝てなかった。
 "Stop making a fuss. It really gets on my nerves!" she shouted.
 fuss,nerves,shouted
-「ぎゃあぎゃあ言うのはやめて。本当にいらいらするわ。」と彼女は叫んだ。 
+「ぎゃあぎゃあ言うのはやめて。本当にいらいらするわ。」と彼女は叫んだ。
 There's no point in talking back to Nick. He is a "dictator," so to speak.
 There's,no,point,in,talking,back,to,dictator,so,to,speak
 ニックに口答えしたって無駄だよ。言ってみりゃ彼は独裁者さ。
@@ -27,7 +27,7 @@ polite,in,presence,actually,behind,his,back
 彼女たちは彼の前ではとても礼儀正しいが、実際には、いつも陰口を叩いている。
 "You despise Nick, don't you?" "On the contrary! I look up to him."
 despise,contrary,look,up,to
-「ニックを軽蔑しているんだろう？」 「とんでもない！尊敬しているわ。」 
+「ニックを軽蔑しているんだろう？」 「とんでもない！尊敬しているわ。」
 His constant insults aroused her anger.
 constant,insults,aroused,anger
 彼の絶え間ない侮辱が、彼女の怒りをかき立てた。

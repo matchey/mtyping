@@ -33,13 +33,13 @@ devastating,earthquake,hit,state,capital,residents,homeless
 壊滅的規模の地震が州都を襲い、数万人の住民が家を失った。
 "Watch out! The ceiling is giving way!"
 Watch,out,ceiling,giving,way!
-「気をつけろっ！天井が崩れかけてるぞ！」 
+「気をつけろっ！天井が崩れかけてるぞ！」
 The weather forecast says the typhoon is likely to accelerate and approach the coast.
 weather,forecast,typhoon,likely,accelerate,approach,coast
 台風は速度を上げて沿岸に接近しそうだと天気予報では言っている。
 "It's still up in the air whether the game will be called off or not." "So what? It makes no difference to me."
 It's,up,in,the,air,called,off,So,what,makes,no,difference
-「試合が中止になるかどうか、まだ決まらないんだ。」 「それがどうしたの？私にとってはどうでもいいことだわ。」 
+「試合が中止になるかどうか、まだ決まらないんだ。」 「それがどうしたの？私にとってはどうでもいいことだわ。」
 "It's foggy, isn't it?" "It sure is. But chances are it'll clear up later on."
 foggy,It,sure,is,chances,are,clear,up,later,on
-「霧が濃いね。」 「本当ね。でも、たぶんこのあとは晴れるわ。」 
+「霧が濃いね。」 「本当ね。でも、たぶんこのあとは晴れるわ。」

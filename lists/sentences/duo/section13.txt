@@ -1,6 +1,6 @@
 Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him.
 cut,in,conversation,against,ignored
-ボブが「それには反対だ！」と言って会話に割り込んできた。けれども、誰も耳を貸さなかった。  
+ボブが「それには反対だ！」と言って会話に割り込んできた。けれども、誰も耳を貸さなかった。
 We skipped his turn on purpose.
 skipped,turn,on,purpose
 私たちは彼の順番をわざと飛ばした。
@@ -27,4 +27,4 @@ The,more,stubborn,isolated
 頑固になればなるほど孤立するよ。
 "Don't beat around the bush! What am I supposed to do?" "Just wait and see. Time will tell."
 bush,supposed,Just,wait,and,see,Time,will,tell
-「遠回しな言い方はやめてくれ！僕にどうしろって言うんだ？」 「慌てずに待つしかありません。時が経てばわかります。」  
+「遠回しな言い方はやめてくれ！僕にどうしろって言うんだ？」 「慌てずに待つしかありません。時が経てばわかります。」

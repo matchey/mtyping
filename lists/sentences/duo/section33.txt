@@ -9,7 +9,7 @@ exerted,dominant,influence,conservative,party,diminishing
 その男はかつて保守政党に対して支配的影響力を及ぼしていたが、今では彼の力も弱まっている。
 The spokesperson refused to make any comment, saying, "It's under investigation."
 spokesperson,refused,comment,investigation
-報道担当者は「調査中です」と言って一切のコメントを拒否した。 
+報道担当者は「調査中です」と言って一切のコメントを拒否した。
 The police say there's someone pulling strings behind the scenes.
 police,strings,scenes
 背後で糸を引いている人物がいると警察は言っている。

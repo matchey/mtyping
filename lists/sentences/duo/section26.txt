@@ -15,13 +15,13 @@ packed,better,make,reservation,beforehand
 あのレストランはいつでも混んでいるから、事前に予約をした方がいい。
 "Sorry to interrupt your meal but I'd like a word with you in private." "Can I get back to you later?"
 interrupt,meal,I'd,like,word,with,you,private,get,back,to
-「食事の邪魔をして悪いんだけど、ちょっと内密に話がしたいの。」 「後で君のところに行くよ。」 
+「食事の邪魔をして悪いんだけど、ちょっと内密に話がしたいの。」 「後で君のところに行くよ。」
 The cook was astonished at his incredible appetite.
 cook,astonished,incredible,appetite
 料理人は彼の信じられないほどの食欲にとても驚いた。
 "What's going on down there? I'm curious." "I have no idea."
 going,on,curious,have,no,idea.
-「下で何が起こっているの？ すごく気になるわ。」 「さあ、何だろう。」 
+「下で何が起こっているの？ すごく気になるわ。」 「さあ、何だろう。」
 Excited fans were hanging around the rear exit hoping to catch a glimpse of Michael.
 Excited,fans,hanging,around,rear,exit,glimpse
 興奮したファンたちが、マイケルを一目見ようと裏口に群がっていた。

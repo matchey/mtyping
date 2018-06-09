@@ -3,13 +3,13 @@ abroad,suffer,jet,lag,diarrhea
 海外に行くと必ず、時差ボケと下痢に悩まされる。
 "I feel sort of dizzy and I feel like throwing up." "You look pale!"
 sort,of,dizzy,feel,like,throwing,up,pale
-「何だか目まいと吐き気がするよ。」 「顔が真っ青よ。」 
+「何だか目まいと吐き気がするよ。」 「顔が真っ青よ。」
 Take some aspirin. It will cure you of your headache in no time.
 aspirin,cure,headache,in,no,time
 鎮痛剤を飲めば、すぐに頭痛は治まります。
 "I'm afraid I'm coming down with something." "You should take a day off."
 afraid,coming,down,with,take,off
-「何だか体調が悪いなあ。」 「一日休みを取った方がいいわよ。」 
+「何だか体調が悪いなあ。」 「一日休みを取った方がいいわよ。」
 Some of the ingredients in this beverage are harmful, especially if you are pregnant.
 ingredients,beverage,harmful,especially,pregnant
 この飲料に含まれている成分には有害なものもある。とりわけ、妊娠中の人にとっては。

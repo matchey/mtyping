@@ -1,12 +1,12 @@
 The chairman cut me off, saying, "Time to wind things up. Let's take a vote."
 chairman,cut,off,wind,vote
-議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。  
+議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。
 We exchanged frank opinions in the meeting, but consensus is yet to be reached regarding this matter.
 exchanged,frank,opinions,meeting,consensus,yet,to,reached,regarding,matter
 我々は会議で率直な意見を交わしたが、この件に関してはまだ全体の意見がまとまらない。
 "Do you agree or disagree with him?W "I'm on his side."
 agree,disagree,on,his,side
-「あなたは彼と同じ意見？ それとも違うの？」「彼のほうを支持するよ。」  
+「あなたは彼と同じ意見？ それとも違うの？」「彼のほうを支持するよ。」
 Strictly speaking, his view differs somewhat from mine.
 Strictly,view,differs,somewhat
 厳密に言えば、彼の見解は私のものとはいくらか異なる。
@@ -18,7 +18,7 @@ backed,at,first,eventually,talked,into,going,with
 僕の案を支持してくれる人は最初は誰もいなかったけれど、最後にはみんなを説得して賛同してもらうことができた。
 "I admire your perseverance, courage and wisdom." "You flatter me!"
 admire,perseverance,courage,wisdom,flatter
-「君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」  
+「君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」
 In making a decision, I rely not on logic but on instinct.
 In,making,decision,rely,on,not,logic,but,instinct
 どうするかを決めるとき、僕は論理ではなく本能を当てにする。

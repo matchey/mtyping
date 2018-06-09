@@ -42,4 +42,4 @@ ape,emerged,cave,frightened,ran,away
 洞窟から大きな猿が現れると、彼らはびっくりして逃げて行った。
 "Believe it or not, I saw an alien and then it vanished!" "Give me a break!"
 Believe,it,or,not,alien,vanished,Give,me,a,break
-「信じてくれないかもしれないけど、宇宙人を見たの。で、消えちゃったのよ！」 「冗談はよせよ。」 
+「信じてくれないかもしれないけど、宇宙人を見たの。で、消えちゃったのよ！」 「冗談はよせよ。」

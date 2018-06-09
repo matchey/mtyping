@@ -15,10 +15,10 @@ is,interested,academic,subjects,practical,skills
 フィルは実用的な技能よりも学問的なテーマのほうに興味がある。
 "Something's gone wrong with this microscope. I need to have it repaired." "Let me see it. Maybe I can fix it."
 gone,wrong,with,microscope,have,repaired,Let,me,see,it,fix
-｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」  
+｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」
 "What is 'an instrument'?" "For instance, a gauge, such as a thermometer or a barometer."
 instrument,instance,gauge,such,as,thermometer,barometer
-「インストゥルメントって何ですか？」「例えば、温度計や気圧計とかの計器がそうです。」  
+「インストゥルメントって何ですか？」「例えば、温度計や気圧計とかの計器がそうです。」
 The minute particles are barely visible to the naked eye.
 minute,particles,barely,visible,naked
 その微粒子は肉眼でもかろうじて見える。

@@ -24,7 +24,7 @@ smells,awful,tastes,terrific
 納豆は臭いはひどいけれど味は最高。
 "I'm soaked with sweat." "Stand back! You stink. Take a shower."
 soaked,sweat,Stand,back,stink,Take,shower
-「汗でびしょぬれだよ。」「来ないで！臭いわ。シャワーを浴びて。」  
+「汗でびしょぬれだよ。」「来ないで！臭いわ。シャワーを浴びて。」
 Bob was so beside himself that he could scarcely tell fact from fiction.
 was,beside,himself,scarcely,tell,fact,from,fiction
 ボブはひどく取り乱していて、現実と虚構の区別がほとんどできなかった。
@@ -42,7 +42,7 @@ following,passage,quoted,well-known,fable
 以下の一説は有名な寓話からの引用です。
 "Are you familiar with contemporary literature?" "I know next to nothing about it."
 familiar,contemporary,literature,next,to
-「現代文学に詳しいですが？」 「ほとんど知りません。」  
+「現代文学に詳しいですが？」 「ほとんど知りません。」
 At times I confuse "curve" with "carve."
 At,times,confuse,curve,carve
 時々、""curve""と""carve""を混同してしまう
@@ -57,16 +57,16 @@ latest,works,display,hall,fabulous,description
 彼の最新の作品が市庁舎で展示されているの｡言葉にできないほど紫敵よ。
 "Could you move over a little?" "Oh, sorry. I didn't realize I was taking up so much space."
 move,over,taking,up
-「少し詰めていただけませんか？」「あ、ごめんなさい。こんなに 場所を取っていたなんて気付きませんでした｡」  
+「少し詰めていただけませんか？」「あ、ごめんなさい。こんなに 場所を取っていたなんて気付きませんでした｡」
 "What's this ugly object?" "This is a piece of abstract art!"
 ugly,object,piece,of,abstract
-「この不格好な物体は何？」 「これは抽象芸術の作品だよ！」  
+「この不格好な物体は何？」 「これは抽象芸術の作品だよ！」
 I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
 begged,lend,bucks,shook,his,head,broke
-100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。 
+100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。
 "I'm apt to buy things on impulse whenever something is on sale." "So am I."
 apt,impulse,on,sale,So,am,I.
-「安売りをしているといつも衝動買いしてしまうたちです。」 「私も。」  
+「安売りをしているといつも衝動買いしてしまうたちです。」 「私も。」
 As it is, ordinary people cannot afford to purchase such luxuries.
 As,it,is,ordinary,cannot,afford,purchase,luxuries
 実際のところ、普通の人々にはそんな贅沢品を購入する余裕はない。
@@ -183,25 +183,25 @@ Little,by,little,son-in-law,recovering,stomach,cancer,spirits
 私の娘婿は徐々に胃癌を克服しつつあり、今は明るく元気だ。
 "This is fake, isn't it?" "Hey, it's a genuine antique." "No way!"
 fake,genuine,antique,No,way
-「これって偽物だろう？」 「何言ってるの。本物の骨蓮品よ。」 「まさか！」   
+「これって偽物だろう？」 「何言ってるの。本物の骨蓮品よ。」 「まさか！」
 "Anything else?" "That's it." "For here or to go?" "To go."
 Anything,else,That's,For,here,or,To,go
-「ほかにご注文は?」「こちらでお召し上がりですか？」「持ち帰ります。」  
+「ほかにご注文は?」「こちらでお召し上がりですか？」「持ち帰ります。」
 "How much is this rug?" "$100 including tax." "OK, I'll take it."
 rug,including,tax,I'll,take,it
-「この敷物はおいくらですか?」「税込みで100ドルです」「じゃあ、これにします。」  
+「この敷物はおいくらですか?」「税込みで100ドルです」「じゃあ、これにします。」
 I don't think those pants look good on you. Try these on. They're really in now!
 pants,look,good,on,Try,on,They're,in
 そのパンツはあなたには似合わないと思う。こっちをはいてみて。今すごく流行っているのよ。
 He got out of the cab in haste, saying, "Keep the change."
 got,out,cab,in,haste,Keep,the,change
-彼は「おつりはいいです」と言って、急いでタクシーを降りた。 
+彼は「おつりはいいです」と言って、急いでタクシーを降りた。
 Delivery service is available to our customers for a slight extra charge.
 Delivery,service,available,customers,slight,extra,charge
 当店のお客様は､わずかな追加料金で配達サービスをご利用できます。
 "It's on me." "No. You treat me every time we eat out." "Well, okay. Let's split the check then."
 It's,on,me,treat,every,time,eat,out,split,check
-「これは僕のおごり。」 「だめよ。外食のときはいつもおごってもらっていいるし。」 「うーん、わかった。じゃあ割り勘にしよう。」  
+「これは僕のおごり。」 「だめよ。外食のときはいつもおごってもらっていいるし。」 「うーん、わかった。じゃあ割り勘にしよう。」
 While I was hanging out at the mall, I ran into Ken.
 hanging,out,mall,ran,into
 ショッピングセンターをぶらぶらしていたら、偶然ケンに会った。
@@ -213,25 +213,25 @@ On,her,way,robbed,purse
 彼女は帰宅途中にハンドバッグを盗まれた。
 "That's odd! Tell me how it happened." "I'll explain it to you later."
 odd,happened,explain
-「それは変だわ。どうしてそんなことが起きたのか教えて。」 「後で説明するよ。」  
+「それは変だわ。どうしてそんなことが起きたのか教えて。」 「後で説明するよ。」
 My parents gave me a 6 pm curfew as a punishment because I broke my promise.
 curfew,punishment,broake,my,promise
 私が約束を破ったので、罰として両親に門限を６時にされた。
 As the proverb goes, "The end justifies the means."
 proverb,end,justifies,means
-諺にある通り、「嘘も方便 （目的が手段を正当化する）」。  
+諺にある通り、「嘘も方便 （目的が手段を正当化する）」。
 Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
 Now,that,turn,to,stand,on,my,own,two,feet
 誰も頼れる人がいないとわかったのだから、自分の力でやっていくしかない。
 The chairman cut me off, saying, "Time to wind things up. Let's take a vote."
 chairman,cut,off,wind,vote
-議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。  
+議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。
 We exchanged frank opinions in the meeting, but consensus is yet to be reached regarding this matter.
 exchanged,frank,opinions,meeting,consensus,yet,to,reached,regarding,matter
 我々は会議で率直な意見を交わしたが、この件に関してはまだ全体の意見がまとまらない。
 "Do you agree or disagree with him?W "I'm on his side."
 agree,disagree,on,his,side
-「あなたは彼と同じ意見？ それとも違うの？」「彼のほうを支持するよ。」  
+「あなたは彼と同じ意見？ それとも違うの？」「彼のほうを支持するよ。」
 Strictly speaking, his view differs somewhat from mine.
 Strictly,view,differs,somewhat
 厳密に言えば、彼の見解は私のものとはいくらか異なる。
@@ -243,7 +243,7 @@ backed,at,first,eventually,talked,into,going,with
 僕の案を支持してくれる人は最初は誰もいなかったけれど、最後にはみんなを説得して賛同してもらうことができた。
 "I admire your perseverance, courage and wisdom." "You flatter me!"
 admire,perseverance,courage,wisdom,flatter
-「君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」  
+「君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」
 In making a decision, I rely not on logic but on instinct.
 In,making,decision,rely,on,not,logic,but,instinct
 どうするかを決めるとき、僕は論理ではなく本能を当てにする。
@@ -309,7 +309,7 @@ Tighten,lid,so,go,bad
 食べ物が腐らない様にふたをしっかり閉めなさい。
 "Can I borrow your scissors?" "Sure, here you are."
 borrow,scissors,Sure,here,you,are
-｢ハサミを貸してもらえる？」「もちろん。はいどうぞ｡」  
+｢ハサミを貸してもらえる？」「もちろん。はいどうぞ｡」
 You can substitute some transparent glue for a needle and thread.
 substitute,transparent,glue,needle,thread
 針と糸の代わりに透明な接着剤を使っても結構です｡
@@ -324,7 +324,7 @@ Add,flour,mixture,stir,thick
 その混ぜ合わせたものに小麦粉を加えて、とろみがつくまでかき混ぜましょう。
 "What should we do with the leftovers?" "Keep them in the fridge for now. I'll heat them in the microwave later."
 do,with,leftovers,fridge,for,now,microwave
-「残り物をどうしよう？」 「とりあえず冷蔵庫に入れておいて。 後で電子レンジで温め直すよ。」  
+「残り物をどうしよう？」 「とりあえず冷蔵庫に入れておいて。 後で電子レンジで温め直すよ。」
 I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day.
 laid,out,on,second,thought,decided,put,aside,for,rainy,day
 新しいパソコンに全額つぎ込むこともできたが、考え直して、まさかの時のために多少は残しておくことにした。
@@ -348,7 +348,7 @@ bumped,shelf,priceless,china,shattered,fragments
 彼が棚にぶつかり、とても高価な陶磁器が落ちて粉々に割れてしまった。
 "Can you keep an eye on my kids for a while? I need to pick up Ken." "No problem."
 keep,an,eye,on,for,while,pick,up
-「うちの子たちをちょっと見ててもらえる？ケンを迎えに行かないといけないの｡」「いいよ｡」  
+「うちの子たちをちょっと見ててもらえる？ケンを迎えに行かないといけないの｡」「いいよ｡」
 Our neighbor told us off for making a mess in his yard.
 neighbor,told,off,mess,yard
 隣の家の人が庭をめちゃくちゃにされたと、私たちにがみがみ説教した。
@@ -366,10 +366,10 @@ favorite,pastime,strolling,shore,pleasant
 時間があいたときの一番の楽しみは浜辺の散歩です。気持ちいいですよ。
 "I'm exhausted! Let's take a break in the shade." "Why not?"
 exhausted,take,break,shade,Why,not
-「私、もうくたくた。日陰で休憩しましょう｡」「そうだね｡」  
+「私、もうくたくた。日陰で休憩しましょう｡」「そうだね｡」
 "Bob, this vending machine is out of order." "Oh no! I'm dying of thirst!"
 vending,machine,order,dying,thirst
-「ボブ、この自動販売機、故障してるわ｡」「何だって！喉が乾いて死にそうだよ！」  
+「ボブ、この自動販売機、故障してるわ｡」「何だって！喉が乾いて死にそうだよ！」
 He fainted with hunger and fatigue, but came to after a while.
 fainted,hunger,fatigue,came,to,after,while
 彼は空腹と疲労で気を失ったが、しばらくして意識を取り戻した。
@@ -435,7 +435,7 @@ revolution,in,itself,bore,no,fruit,after,all
 結局、革命それ自体は何の成果ももたらさなかった。
 Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him.
 cut,in,conversation,against,ignored
-ボブが「それには反対だ！」と言って会話に割り込んできた。けれども、誰も耳を貸さなかった。  
+ボブが「それには反対だ！」と言って会話に割り込んできた。けれども、誰も耳を貸さなかった。
 We skipped his turn on purpose.
 skipped,turn,on,purpose
 私たちは彼の順番をわざと飛ばした。
@@ -462,7 +462,7 @@ The,more,stubborn,isolated
 頑固になればなるほど孤立するよ。
 "Don't beat around the bush! What am I supposed to do?" "Just wait and see. Time will tell."
 bush,supposed,Just,wait,and,see,Time,will,tell
-「遠回しな言い方はやめてくれ！僕にどうしろって言うんだ？」 「慌てずに待つしかありません。時が経てばわかります。」  
+「遠回しな言い方はやめてくれ！僕にどうしろって言うんだ？」 「慌てずに待つしかありません。時が経てばわかります。」
 Please hand in your assignment via e-mail no later than 5:00 PM on June 10.
 hand,in,assignment,via,no,later,than
 課題は電子メールで6月10日の午後5時までに提出して下さい。
@@ -477,13 +477,13 @@ essay,concise,to,the,point
 彼の小論文は簡潔で要領を得ていた。
 "How are you going to deal with this complicated problem?" "Leave it to me! It's a piece of cake."
 deal,with,complicated,Leave,to,piece,of,cake
-「この複雑な問題をどう処理するつもり？｣ ｢任せとけって。朝飯前さ。」  
+「この複雑な問題をどう処理するつもり？｣ ｢任せとけって。朝飯前さ。」
 "Nick, I want you to look this over before I turn it in." "Sorry, but I have my hands full right now."
 look,over,turn,in,have,my,hands,full,right,now
-「ニック、これを提出する前にざっと目を通して欲しいの。」 「ごめん、今、手が離せないんだ。」  
+「ニック、これを提出する前にざっと目を通して欲しいの。」 「ごめん、今、手が離せないんだ。」
 "What if I don't meet the deadline?" "I bet he'll get mad at you!"
 What,if,meet,deadline,bet,mad
-「締め切りに間に合わなかったらどうなる？」 「きっと彼に怒られるぞ！」  
+「締め切りに間に合わなかったらどうなる？」 「きっと彼に怒られるぞ！」
 Your summary leaves nothing to be desired apart from the terrible handwriting.
 summary,desired,apart,from,terribele,handwriting
 字が汚いことを別にすれば、君の要約は完壁だ。
@@ -510,10 +510,10 @@ is,interested,academic,subjects,practical,skills
 フィルは実用的な技能よりも学問的なテーマのほうに興味がある。
 "Something's gone wrong with this microscope. I need to have it repaired." "Let me see it. Maybe I can fix it."
 gone,wrong,with,microscope,have,repaired,Let,me,see,it,fix
-｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」  
+｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」
 "What is 'an instrument'?" "For instance, a gauge, such as a thermometer or a barometer."
 instrument,instance,gauge,such,as,thermometer,barometer
-「インストゥルメントって何ですか？」「例えば、温度計や気圧計とかの計器がそうです。」  
+「インストゥルメントって何ですか？」「例えば、温度計や気圧計とかの計器がそうです。」
 The minute particles are barely visible to the naked eye.
 minute,particles,barely,visible,naked
 その微粒子は肉眼でもかろうじて見える。
@@ -528,7 +528,7 @@ exact,temperature,degrees,Celsius
 正確な気温はセ氏22.68度です。
 "Naomi likes to show off her perfect figure. I wish I were thin like her. I envy her." "You could go on a diet."
 show,off,perfect,figure,wish,thin,envy,diet
-「ナオミは自分の完壁なスタイルをひけらかしたがる。私も彼女みたいに痩せていればなあ。彼女が羨ましいわ。｣ ｢ダイエットすれば。」 
+「ナオミは自分の完壁なスタイルをひけらかしたがる。私も彼女みたいに痩せていればなあ。彼女が羨ましいわ。｣ ｢ダイエットすれば。」
 I fell in love with Naomi at first sight. Three months later, I took a chance and proposed to her, but she turned me down.
 fell,in,love,with,sight,take,chance,proposed,turn,down
 ナオミに一目惚れした。３ケ月後、思い切って彼女にプロポーズしてみたが振られてしまった。
@@ -546,10 +546,10 @@ judged,not,so,much,as,how,they,look,who,they,are
 人は外見ではなく、むしろ中身で判断されるべきだ。
 "It's not your title that counts. That's for sure!" exclaimed Bob.
 It's,title,that,counts,for,sure,exclaimed.
-「大切なのは肩書きなんかじゃない。絶対そうだ！」と、ボブは語気を強めて言った。 
+「大切なのは肩書きなんかじゃない。絶対そうだ！」と、ボブは語気を強めて言った。
 As a self-made man put it, "A man of vision will make good in the end."
 As,self-made,put,it,of,vision,make,good,in,the,end
-自分の力で成功をつかんだ人が言ったように、「先見の明のある人は最後には成功する」。 
+自分の力で成功をつかんだ人が言ったように、「先見の明のある人は最後には成功する」。
 Keep in mind that youth is not eternal
 Keep,in,mind,youth,eternal
 若さが永遠のものではないことを忘れてはいけない。
@@ -570,7 +570,7 @@ fat,clumsy,leaped,shallow,stream,stumbled,twisted,ankle
 デイブはデブでドジ。浅い小川を飛び越えた時に、つまずいて足首を捻挫したんだ。
 "I'm scared of heights." "You're a coward!"
 scared,heights,coward
-「僕、高所恐怖症なんだ。」 「弱虫っ！」 
+「僕、高所恐怖症なんだ。」 「弱虫っ！」
 The passive man seldom, if ever, expresses himself in public.
 passive,seldom,if,ever,expresses,himself,in,public
 消極的なその男性が、人前で自己表現をすることはまずない。
@@ -600,7 +600,7 @@ admit,quarrel,every,now,and,then,generally,on,good,terms,with
 確かに、私たちは時々口げんかもしますが、普段は仲良くやっています。
 "Do you mind if I stop by your house?" "No, not at all. Be my guest!"
 Do,you,mind,if,stop,by,not,at,all,Be,my,guest
-「君の家に寄ってもいいかい？」 「もちろんいいわよ。気兼ねなく！」 
+「君の家に寄ってもいいかい？」 「もちろんいいわよ。気兼ねなく！」
 Hold on. I'll be right back. Don't hang up!
 Hold,on,I'll,be,right,back,hang,up
 ちょっと待ってて。すぐ戻るから。切らないでよ！（電話で）
@@ -612,13 +612,13 @@ still,pacing,back,and,forth,sidewalk
 ジェニファーがじっと立っている間、ボブは歩道を行ったり来たりしていた。
 "Let's make up, Lisa." "Stop taking me for granted! We're through for good this time. I mean it!"
 make,up,taking,for,through,for,good,mean,it
-「仲直りしようよ、リサ。」 「私がいて当然だなんて思わないで。私たち、今度は永遠に終わりよ。本気なんだから！」 
+「仲直りしようよ、リサ。」 「私がいて当然だなんて思わないで。私たち、今度は永遠に終わりよ。本気なんだから！」
 Come on! Don't get so emotional, Lisa. I didn't mean to hurt you. Let's talk it over.
 Come,on,emotional,mean,to,hurt,talk,over
 おい！リサ、そう感情的になるなよ。君を傷つけるつもりじゃなかったんだ。じっくり話し合おう。
 "You betrayed me!" "Please forgive me. How can I make it up to you?" "I'll get even!"
 betrayed,forgive,make,it,up,to,get,even
-「私を裏切ったわね！」 「許してくれよ。どうしたら埋め合わせができるかなあ？」 「仕返ししてやるっ！」 
+「私を裏切ったわね！」 「許してくれよ。どうしたら埋め合わせができるかなあ？」 「仕返ししてやるっ！」
 You should confess your sins rather than conceal them.
 confess,sins,conceal
 自分の罪は隠しておかずに告白したほうがいい。
@@ -630,13 +630,13 @@ sticks,moral,principles,honesty,pays,off,in,the,long,run
 ボブは自分の道徳的信条を曲げない男だ。正直でいれば最後には報われると信じている。
 "Cheer up! You couldn't help it." "I did my best." "I know. Don't dwell on the past. You can start over!
 Cheer,couldn't,help,did,my,best,dwell,on,past,start,over
-「元気を出して。仕方ないわ。」 「やれるだけのことはやったんだ。」 「わかってる。過ぎたことにくよくよしないで。やり直せるわよ！」 
+「元気を出して。仕方ないわ。」 「やれるだけのことはやったんだ。」 「わかってる。過ぎたことにくよくよしないで。やり直せるわよ！」
 "Jane, please do me a favor and give me a ride to Times Square." "I wish I could, but I'm tied up right now."
 please,do,me,favor,give,me,ride,to,wish,could,tied,up
-「ジェーン、タイムズ・スクェアーまで乗せて行って欲しいんだけど。」 「そうしてあげたいのは山々だけど。今、全然時間がないの。」 
+「ジェーン、タイムズ・スクェアーまで乗せて行って欲しいんだけど。」 「そうしてあげたいのは山々だけど。今、全然時間がないの。」
 As usual, Mike turned up on time. He's very punctual.
 As,usual,turned,up,on,time,punctual
-いつものように、マイクは時間通りに現れた。本当に時間に正確な人だ。」 
+いつものように、マイクは時間通りに現れた。本当に時間に正確な人だ。」
 The other day I ran out of gas in the middle of a busy Interstate.
 The,other,day,ran,out,of,gas,in,the,middle,of,busy,Interstate
 この前、混雑した幹線道路の真ん中でガス欠してしまった。
@@ -651,7 +651,7 @@ In,case,of,emergency,get,in,touch,with,agent,right,away
 緊急の際には、すぐに私の代理人と連絡を取って下さい。
 "Jane, where are we heading?" "I think we're lost. We went in the wrong direction." "Damn! Pull over!"
 heading,lost,wrong,direction,Pull,over
-「ジェーン、俺たちはどこに向かってるんだ？」 「迷ったみたい。違う方向に来ちゃったわ。」 「何だよ。車を止めてくれ！」 
+「ジェーン、俺たちはどこに向かってるんだ？」 「迷ったみたい。違う方向に来ちゃったわ。」 「何だよ。車を止めてくれ！」
 My rusty Ford broke down, obstructing the intersection.
 rusty,broke,down,obstructing,intersection
 僕のさびついたフォードが故障して、交差点をふさいでしまった。
@@ -660,10 +660,10 @@ fine,scratches,dents,surface,it's,no,use,polishing
 表面に細かい傷やへこみがたくさんあるから、磨いても無駄だよ。
 "Hey, we're stuck in a traffic jam!" "Chill out, Joe. Let's take a shortcut! We'll get there in time."
 stuck,traffic,jam,Chill,out,shortcut,time.
-「おい、渋滞にはまっちゃったよ！」 「熱くならないで、ジョー。近道しましょう。時間までには着けるわ。」 
+「おい、渋滞にはまっちゃったよ！」 「熱くならないで、ジョー。近道しましょう。時間までには着けるわ。」
 "I've got a flat tire. Can you give me a hand?" "I'd be glad to."
 got,flat,tire,give,me,hand,I'd,be,glad,to.
-「パンクしちゃったよ。手を貸してくれる？」 「喜んで。」 
+「パンクしちゃったよ。手を貸してくれる？」 「喜んで。」
 The ambulance went out of control and came close to running over a pedestrian.
 ambulance,out,of,control,came,close,to,running,over,pedestrian
 ハンドルがきかなくなった救急車が、危うく歩行者をひきそうになった。
@@ -753,16 +753,16 @@ devastating,earthquake,hit,state,capital,residents,homeless
 壊滅的規模の地震が州都を襲い、数万人の住民が家を失った。
 "Watch out! The ceiling is giving way!"
 Watch,out,ceiling,giving,way!
-「気をつけろっ！天井が崩れかけてるぞ！」 
+「気をつけろっ！天井が崩れかけてるぞ！」
 The weather forecast says the typhoon is likely to accelerate and approach the coast.
 weather,forecast,typhoon,likely,accelerate,approach,coast
 台風は速度を上げて沿岸に接近しそうだと天気予報では言っている。
 "It's still up in the air whether the game will be called off or not." "So what? It makes no difference to me."
 It's,up,in,the,air,called,off,So,what,makes,no,difference
-「試合が中止になるかどうか、まだ決まらないんだ。」 「それがどうしたの？私にとってはどうでもいいことだわ。」 
+「試合が中止になるかどうか、まだ決まらないんだ。」 「それがどうしたの？私にとってはどうでもいいことだわ。」
 "It's foggy, isn't it?" "It sure is. But chances are it'll clear up later on."
 foggy,It,sure,is,chances,are,clear,up,later,on
-「霧が濃いね。」 「本当ね。でも、たぶんこのあとは晴れるわ。」 
+「霧が濃いね。」 「本当ね。でも、たぶんこのあとは晴れるわ。」
 For the most part, modernization is identified with westernization.
 For,the,most,part,modernization,identified,westernization
 ほとんどの場合、近代化は西欧化と同一のことと見なされる。
@@ -813,7 +813,7 @@ tool,handy,close,at,hand
 この道具は何かと便利だから、いつも手元に置いています。
 "In general, consumers prefer quantity to quality." "It's the other way around today."
 In,general,consumers,prefer,quantity,quality,the,other,way,around
-「一般的に、消費者は質よりも量を選びます。」 「今は全く逆です。」 
+「一般的に、消費者は質よりも量を選びます。」 「今は全く逆です。」
 Obviously, the advertisement is aimed at teenagers.
 Obviously,advertisement,aimed,teenagers
 明らかにその広告は10代の若者層をターゲットにしている。
@@ -837,7 +837,7 @@ Compared,previous,looking,up,in,terms,of,profit
 昨年と比べて、売上の数字だけを見れば事業は上向いている。しかしながら、利益はまだ全く出ていない。
 "I'm going to be transferred to an overseas branch." "Oh, I'll miss you. Please drop me a line."
 transferred,overseas,branch,miss,drop,line.
-「海外の支店に転勤することになったよ。」 「えっ。寂しくなるわ。手紙でも下さいね。」 
+「海外の支店に転勤することになったよ。」 「えっ。寂しくなるわ。手紙でも下さいね。」
 While he was away on business, his wife gave birth to a baby boy.
 away,on,business,gave,birth,to
 彼が出張中に、奥さんが男の子の赤ちゃんを出産した。
@@ -849,10 +849,10 @@ intended,to,take,out,work,overtime
 ボブは今夜、彼女とデートするつもりだったが、残業になってしまった。
 "Please estimate the losses by Friday at the latest." "I'll manage it somehow."
 estimate,losses,by,at,the,latest,manage,somehow.
-「遅くとも金曜日までには損失の見積りを出して下さい。」 「何とかやってみましょう。」 
+「遅くとも金曜日までには損失の見積りを出して下さい。」 「何とかやってみましょう。」
 "Nick, I'm counting on you." "OK, I'll see to it." "Thanks, I appreciate it." "Don't mention it."
 counting,on,see,to,appreciate,mention
-「頼りにしてるわ、ニック。」 「大丈夫、きちんとやっておきます。」 「ありがとう。感謝するわ。」 「いいんですよ。」 
+「頼りにしてるわ、ニック。」 「大丈夫、きちんとやっておきます。」 「ありがとう。感謝するわ。」 「いいんですよ。」
 He pretends to be enthusiastic when his boss is around.
 pretends,enthusiastic,boss,around
 彼は上司がそばにいる時は熱心なふりをする。
@@ -891,7 +891,7 @@ Round-trip,fares,destination,as,follows
 各目的地までの往復料金は下記の通りです。
 "Don't forget to confirm your reservation in advance." "I won't."
 Don't,forget,to,confirm,reservation,in,advance
-「事前に予約の確認をするのを忘れないでね。」 「ええ。」 
+「事前に予約の確認をするのを忘れないでね。」 「ええ。」
 Be sure to check in at least 45 minutes prior to departure time.
 Be,sure,to,check,in,at,least,prior,to,departure
 遅くとも出発時刻の45分前には搭乗手続きを必ず完了させて下さい。
@@ -924,13 +924,13 @@ packed,better,make,reservation,beforehand
 あのレストランはいつでも混んでいるから、事前に予約をした方がいい。
 "Sorry to interrupt your meal but I'd like a word with you in private." "Can I get back to you later?"
 interrupt,meal,I'd,like,word,with,you,private,get,back,to
-「食事の邪魔をして悪いんだけど、ちょっと内密に話がしたいの。」 「後で君のところに行くよ。」 
+「食事の邪魔をして悪いんだけど、ちょっと内密に話がしたいの。」 「後で君のところに行くよ。」
 The cook was astonished at his incredible appetite.
 cook,astonished,incredible,appetite
 料理人は彼の信じられないほどの食欲にとても驚いた。
 "What's going on down there? I'm curious." "I have no idea."
 going,on,curious,have,no,idea.
-「下で何が起こっているの？ すごく気になるわ。」 「さあ、何だろう。」 
+「下で何が起こっているの？ すごく気になるわ。」 「さあ、何だろう。」
 Excited fans were hanging around the rear exit hoping to catch a glimpse of Michael.
 Excited,fans,hanging,around,rear,exit,glimpse
 興奮したファンたちが、マイケルを一目見ようと裏口に群がっていた。
@@ -942,13 +942,13 @@ abroad,suffer,jet,lag,diarrhea
 海外に行くと必ず、時差ボケと下痢に悩まされる。
 "I feel sort of dizzy and I feel like throwing up." "You look pale!"
 sort,of,dizzy,feel,like,throwing,up,pale
-「何だか目まいと吐き気がするよ。」 「顔が真っ青よ。」 
+「何だか目まいと吐き気がするよ。」 「顔が真っ青よ。」
 Take some aspirin. It will cure you of your headache in no time.
 aspirin,cure,headache,in,no,time
 鎮痛剤を飲めば、すぐに頭痛は治まります。
 "I'm afraid I'm coming down with something." "You should take a day off."
 afraid,coming,down,with,take,off
-「何だか体調が悪いなあ。」 「一日休みを取った方がいいわよ。」 
+「何だか体調が悪いなあ。」 「一日休みを取った方がいいわよ。」
 Some of the ingredients in this beverage are harmful, especially if you are pregnant.
 ingredients,beverage,harmful,especially,pregnant
 この飲料に含まれている成分には有害なものもある。とりわけ、妊娠中の人にとっては。
@@ -993,13 +993,13 @@ make,come,true,dropped,out,made,his,way
 自分の夢を実現させるために、彼は学校を中退して東京を目指した。
 "What do you do?" "I'm a college student, a freshman at Harvard." "What's your major?" "Philosophy."
 What,do,you,do,college,freshman,major,Philosophy
-「普段は何をなさっているんですか？」 「大学生です。ハーバードの1年です。」 「専攻は？」 「哲学です。」 
+「普段は何をなさっているんですか？」 「大学生です。ハーバードの1年です。」 「専攻は？」 「哲学です。」
 Tuition will be raised by nearly ten percent as of April 1, 2001.
 Tuition,raised,nearly,percent,as,of
 2001年4月1日から授業料が10%近く値上げになります。
 "I'm of two minds whether to apply for the scholarship or not." "Give it a try!"
 of,two,minds,whether,apply,for,scholarship,Give,it,try
-「奨学金を申し込もうかどうか悩んでいるの。」 「やるだけやってみなよ！」 
+「奨学金を申し込もうかどうか悩んでいるの。」 「やるだけやってみなよ！」
 As soon as he graduated from Keio University, he took over his family's business.
 As,soon,as,he,graduated,from,took,over
 彼は慶応大学を卒業するとすぐに家業を継いだ。
@@ -1015,7 +1015,7 @@ grew,up,learned,to,perspective
 Conformity is an essential element of our homogeneous community.
 Conformity,essential,element,homogeneous,community
 同じような人々からなる私たちの地域社会では、体制に従おうとする意識は不可欠な要素である。
-I'd rather go my own way than toil away for a company. Trying to fit into a mold gets me nowhere! 
+I'd rather go my own way than toil away for a company. Trying to fit into a mold gets me nowhere!
 rather,go,my,own,way,toil,away,fit,mold,gets,nowhere
 会社のためにあくせく働くよりは、我が道を行くほうがいい。型にはまろうとしたって何の得にもならないよ！
 Tom takes after his uncle in personality. I mean, he is obstinate by nature. He never gives in.
@@ -1029,7 +1029,7 @@ stand,up,for,believe,in,yield,threats
 自分の信念を守るためには立ち上がるし、いかなる脅威にも屈しないつもりだ。
 "If only I could conquer my weaknesses!" "It's up to you."
 If,only,conquer,weaknesses,It's,up,to
-「自分の弱点を克服できさえすればなあ。」 「あなた次第よ。」 
+「自分の弱点を克服できさえすればなあ。」 「あなた次第よ。」
 You should make the most of this rare opportunity to demonstrate your talent.
 make,the,most,of,rare,opportunity,demonstrate,talent
 自分の才能を示すために、めったにないこの機会を最大限に利用するべきだ。
@@ -1062,7 +1062,7 @@ by,no,means,satisfied,reward,selfish,greedy
 ニックはその報酬に満足していない。彼は自己中心的で欲が深い。
 "You owe me $200 altogether, Bob. When are you going to pay me back?" "I'm sorry. I'm hard up." "There you go again!"
 owe,altogether,pay,back,hard,up,There,you,go,again
-「全部で200ドル貸してるの、ボブ。いつ返すつもりなの？」 「ごめん、金欠なんだ。」 「またなの？」 
+「全部で200ドル貸してるの、ボブ。いつ返すつもりなの？」 「ごめん、金欠なんだ。」 「またなの？」
 To Brian's surprise, his debt amounted to a considerable sum.
 To,surprise,debt,amounted,to,considerable,sum
 ブライアンが驚いたことに、借金はかなりの額になっていた。
@@ -1095,7 +1095,7 @@ further,inquiries,feel,free,to,contact,toll-free
 さらにご質問がありましたら、どうぞご遠慮なくフリーダイヤル1-800-555-1212までお電話ください。
 "How's it going, Bob?" "Couldn't be better! I did well in my job interview!" "Good for you!"
 How's,it,going,Couldn't,be,better,did,well,job,interview,Good,for,you
-「ボブ、最近どう？」 「最高だよ！就職面接がうまくいったんだ。」 「やったじゃない！」 
+「ボブ、最近どう？」 「最高だよ！就職面接がうまくいったんだ。」 「やったじゃない！」
 He gave instructions to the trainees, but they couldn't make heads or tails of them.
 instructions,trainees,couldn't,make,heads,or,tails,of
 研修生たちは、彼から与えられた指示がさっぱりわからなかった。
@@ -1104,7 +1104,7 @@ at,one,time,out,of,the,question,one,by,one
 一度に二つのことはできないよ。無理に決まってる。一つずつやりなよ。
 "Bob, don't disturb her. Mind your own business," he whispered.
 disturb,Mind,your,own,business,whispered
-「ボブ、彼女の邪魔をしちゃだめだぞ。ちょっかいを出すなよ。」と彼は小声で言った。 
+「ボブ、彼女の邪魔をしちゃだめだぞ。ちょっかいを出すなよ。」と彼は小声で言った。
 If you persist in bothering her like that, she'll lose her temper.
 persist,bothering,temper
 そうやってしつこく彼女を困らせると、彼女も怒り出すぞ。
@@ -1113,7 +1113,7 @@ so,childish,that,resist,temptation
 彼はあまりに子供だから誘惑に勝てなかった。
 "Stop making a fuss. It really gets on my nerves!" she shouted.
 fuss,nerves,shouted
-「ぎゃあぎゃあ言うのはやめて。本当にいらいらするわ。」と彼女は叫んだ。 
+「ぎゃあぎゃあ言うのはやめて。本当にいらいらするわ。」と彼女は叫んだ。
 There's no point in talking back to Nick. He is a "dictator," so to speak.
 There's,no,point,in,talking,back,to,dictator,so,to,speak
 ニックに口答えしたって無駄だよ。言ってみりゃ彼は独裁者さ。
@@ -1122,7 +1122,7 @@ polite,in,presence,actually,behind,his,back
 彼女たちは彼の前ではとても礼儀正しいが、実際には、いつも陰口を叩いている。
 "You despise Nick, don't you?" "On the contrary! I look up to him."
 despise,contrary,look,up,to
-「ニックを軽蔑しているんだろう？」 「とんでもない！尊敬しているわ。」 
+「ニックを軽蔑しているんだろう？」 「とんでもない！尊敬しているわ。」
 His constant insults aroused her anger.
 constant,insults,aroused,anger
 彼の絶え間ない侮辱が、彼女の怒りをかき立てた。
@@ -1185,7 +1185,7 @@ exerted,dominant,influence,conservative,party,diminishing
 その男はかつて保守政党に対して支配的影響力を及ぼしていたが、今では彼の力も弱まっている。
 The spokesperson refused to make any comment, saying, "It's under investigation."
 spokesperson,refused,comment,investigation
-報道担当者は「調査中です」と言って一切のコメントを拒否した。 
+報道担当者は「調査中です」と言って一切のコメントを拒否した。
 The police say there's someone pulling strings behind the scenes.
 police,strings,scenes
 背後で糸を引いている人物がいると警察は言っている。
@@ -1470,7 +1470,7 @@ ape,emerged,cave,frightened,ran,away
 洞窟から大きな猿が現れると、彼らはびっくりして逃げて行った。
 "Believe it or not, I saw an alien and then it vanished!" "Give me a break!"
 Believe,it,or,not,alien,vanished,Give,me,a,break
-「信じてくれないかもしれないけど、宇宙人を見たの。で、消えちゃったのよ！」 「冗談はよせよ。」 
+「信じてくれないかもしれないけど、宇宙人を見たの。で、消えちゃったのよ！」 「冗談はよせよ。」
 Quite a few people have been invited to celebrate the couple's anniversary.
 Quite,few,people,invited,celebrate,anniversary
 かなりの数の人々が、その夫婦の結婚記念のお祝いに招待されている。
@@ -1509,13 +1509,13 @@ looks,down,on,comes,from,rural
 ニックは地方出身者なら誰であろうと見下している。
 What's the matter, Bob? You look so miserable. Leave me alone. It's none of your business.
 What's,the,matter,miserable,Leave,alone,none,of,your,business
-「どうしたの、ボブ？そんなに暗い顔をして。」「ほっといてくれよ。君には関係ないことだ。」 
+「どうしたの、ボブ？そんなに暗い顔をして。」「ほっといてくれよ。君には関係ないことだ。」
 Although Bob was in disguise, I recognized him at a glance.
 disguise,recognized,glance
 ボブは変装していたけれども、一目で彼だとわかった。
 What are you chuckling about? Bob, you have your sweatshirt on backwards! Oops!
 chuckling,have,sweatshirt,on,backwards
-「何をくすくす笑ってるんだ？」「ボブ、トレーナーが後ろ前だよ。」「あっ！」 
+「何をくすくす笑ってるんだ？」「ボブ、トレーナーが後ろ前だよ。」「あっ！」
 He is not good at making friends and always keeps to himself.
 not,good,at,making,friends,keeps,to
 彼は友達作りが苦手で、いつもひとりぼっちでいる。
@@ -1536,16 +1536,16 @@ derives,pleasure,from,observing,insects
 ボブは昆虫の観察に楽しみを感じている。
 How about playing cards or something for a change? Sorry, I'm not up for it.
 How,about,cards,or,something,for,change,I'm,not,up,for,it
-「気分転換にトランプか何かしない？」「わるいけど、そういう気分じゃないよ。」 
+「気分転換にトランプか何かしない？」「わるいけど、そういう気分じゃないよ。」
 "After you." "No pleasure, you go ahead." "Thanks." "You're welcome."
 After,you,you,go,ahead,You're,welcome.
-「お先にどうぞ。」「いや、あなたの方こそお先にどうぞ。」「すみません。」「どういたしまして。」 
+「お先にどうぞ。」「いや、あなたの方こそお先にどうぞ。」「すみません。」「どういたしまして。」
 His niece is sociable and mature for her age. She could pass for twenty-something.
 niece,sociable,mature,for,age,pass,for,twenty-something
 彼の姪は年の割には社交的で大人だ。二十代と言っても通用する。
 Take care of yourself and say hi to your family for me. I will. See you later.
 Take,care,of,say,hi,to,See,you,later
-「じゃあね。家族のみんなによろしく。」「ああ。またね。」 
+「じゃあね。家族のみんなによろしく。」「ああ。またね。」
 I'm looking forward to hearing from you. Sincerely,
 looking,forward,to,hearing,from,Sincerely
 お返事頂けるのを楽しみにしております。敬具
@@ -1575,22 +1575,22 @@ remark,open,to,misunderstanding
 そういう発言は誤解を招きやすい。
 "I can't stand it anymore!" "Calm down. I'll come over as soon as possible."
 stand,anymore,Calm,down,come,over,as,as,possible
-「もう我慢できないっ！」「落ち着けよ。すぐそこに行くから。」 
+「もう我慢できないっ！」「落ち着けよ。すぐそこに行くから。」
 Don't take it literally. He is inclined to exaggerate.
 literally,inclined,to,exaggerate
 そんなこと真に受けちゃだめだよ。彼は大げさに言う傾向があるから。
 "You should apologize to Lisa for making fun of her." "You went too far this time. Yeah ... I will, sometime when she's in a better mood."
 apologize,making,fun,of,went,too,far,sometime,in,a,better,mood
-「リサを馬鹿にしたことを謝るべきだわ。今回はやりすぎよ。」「ああ、そうするよ。その内彼女の機嫌が直ったらね。」 
+「リサを馬鹿にしたことを謝るべきだわ。今回はやりすぎよ。」「ああ、そうするよ。その内彼女の機嫌が直ったらね。」
 "Lisa, are you getting along with Nick?" "Once in a while, I think of divorcing him." "You must be kidding!"
 getting,along,with,Once,in,a,while,think,of,divorcing,You,must,be,kidding
-「リサ、ニックとうまくやってる？」「時々、離婚を考えることがあるわ。」「冗談だろ！」 
+「リサ、ニックとうまくやってる？」「時々、離婚を考えることがあるわ。」「冗談だろ！」
 In tears, she tore up his letter and threw it away.
 In,tears,tore,threw,away
 彼女は泣きながら、彼からの手紙をめちゃくちゃに引き裂いて捨てた。
 "Jennifer deceived me!" "You should have known better than to trust her."
 deceived,should,have,known,better,trust
-「ジェニファーにだまされた！」「彼女を信じないくらいの分別があっても良かったのに。」 
+「ジェニファーにだまされた！」「彼女を信じないくらいの分別があっても良かったのに。」
 Tom regretted having wasted a great deal of his life.
 regretted,wasted,great,deal,of
 トムは自分の人生の多くを無駄にしてきたことを後悔した。
@@ -1599,40 +1599,40 @@ look,back,adolescence,without,depressed
 自分の思春期を振り返ると、いつも憂鬱な気分になる。
 "Jennifer left me for another guy." "Oh, you must be upset." "Not really. I'm used to it."
 left,for,guy,be,upset,Not,really,used,to
-「ジェニファーが俺をふって他の男のところにいったよ。」「えっ、それは辛いわね。」「そうでもないよ。慣れてるよ。」 
+「ジェニファーが俺をふって他の男のところにいったよ。」「えっ、それは辛いわね。」「そうでもないよ。慣れてるよ。」
 "No wonder she didn't show up to see him off." "How come?" "They broke up." "Oh, what a pity!"
 wonder,show,up,see,off,How,come,broke,up,pity
-「彼女が見送りに来なかったのも当然だよ。」「どうして？」「二人は別れたんだ。」「えっ、かわいそうに！」 
+「彼女が見送りに来なかったのも当然だよ。」「どうして？」「二人は別れたんだ。」「えっ、かわいそうに！」
 "Living here all by myself is torture!" he sobbed.
 all,by,myself,torture,sobbed
-「ここで自分一人だけ生きていくなんて拷問だ」と彼はすすり泣きして言った。 
+「ここで自分一人だけ生きていくなんて拷問だ」と彼はすすり泣きして言った。
 "To be honest, I'm crazy about Ken because he's brave, self-confident, and never afraid of taking risks." "If I were you, I'd ask him out!"
 To,be,honest,crazy,about,brave,self-confident,afraid,of,taking,risks,If,were,you,I'd,ask,him,out
 正直言うと私、ケンに夢中なの。だって、勇敢で自分に自信を持っていて、それに危険を冒すことを決して恐れないでしょ。」「私ならデートに誘うわ。」,
 "I've been going with Jennifer on and off for ages." "You're as indecisive as ever. Isn't it about time you settled down?"
 going,with,on,and,off,for,ages,as,indecisive,as,ever,it,about,time,settled,down
-「ずいぶん長い間、ジェニファーとは付き合ったり別れたりの繰り返しだよ。」「相変わらず優柔不断ね。そろそろ落ち着いたらどう？」 
+「ずいぶん長い間、ジェニファーとは付き合ったり別れたりの繰り返しだよ。」「相変わらず優柔不断ね。そろそろ落ち着いたらどう？」
 "It dawned on me that I had been taken in by Jennifer all along." "How naive! Didn't you see through her?"
 It,dawned,on,taken,in,by,all,along,naive,see,through
-「ジェニファーにずっとだまされていたのが分かってきたよ。」「何てうぶなの。彼女の本性が見抜けなかったの？」 
+「ジェニファーにずっとだまされていたのが分かってきたよ。」「何てうぶなの。彼女の本性が見抜けなかったの？」
 Even though she is seeing someone else, I won't give her up.
 Even,though,seeing,give,up
 実際、彼女は誰かと付き合っているけれども、僕は彼女を諦めない。
 "Hi, Jane. What's up?" "Not much. How about you?" "I got married to Jennifer." "Wow! Congratulations!"
 What's,up,Not,much,got,married,Congratulations
-「やあ、ジェーン。最近どう？」「別に。あなたは？」「ジェニファーと結婚したんだ。」「ええっ、おめでとう！」 
+「やあ、ジェーン。最近どう？」「別に。あなたは？」「ジェニファーと結婚したんだ。」「ええっ、おめでとう！」
 Whenever you're in trouble or feeling down, I'll be there for you.
 trouble,feeling,down,be,there
 大変なことがあったり、落ち込んだりしたときはいつでも、私があなたのそばにいるわ。
 "Delight" is the opposite of "sorrow."
 Delight,opposite,sorrow
-「喜び」は「悲しみ」の反対です。 
+「喜び」は「悲しみ」の反対です。
 "Jennifer went so far as to call me an idiot and she wouldn't take it back." "Serves you right! You provoked her, didn't you?"
 went,so,far,as,to,idiot,take,back,Serves,you,right,provoked
-「ジェニファーは僕をばか呼ばわりまでして、しかもそれを撤回しないんだ。」「自業自得よ！あなたからけしかけたんでしょう？」 
+「ジェニファーは僕をばか呼ばわりまでして、しかもそれを撤回しないんだ。」「自業自得よ！あなたからけしかけたんでしょう？」
 "Why do you put up with her arrogance? She's just taking advantage of you." "Shut up!"
 put,up,with,arrogance,advantage,Shut,up
-「彼女の傲慢さにどうして我慢しているの？利用されているだけよ。」「うるさい！」 
+「彼女の傲慢さにどうして我慢しているの？利用されているだけよ。」「うるさい！」
 Take your time. I know you need a couple of days to reflect on it.
 Take,time,couple,of,reflect
 慌てなくていいですよ。そのことをじっくり考えるには、2、3日必要でしょうから。
@@ -1653,19 +1653,19 @@ cough,sneeze,yawn
 咳、くしゃみ、あくびをするときは口を手で隠しなさい。
 "One of her relatives passed away three days ago." "Oh, that's too bad. I'm so sorry."
 relatives,passed,away,that's,too,bad,I'm,so,sorry
-「彼女の親戚が3日前に亡くなったんだ。」「えっ、それは大変ね。お気の毒だわ。」 
+「彼女の親戚が3日前に亡くなったんだ。」「えっ、それは大変ね。お気の毒だわ。」
 Besides attending the funeral, she needs to make all the arrangements.
 Besides,attending,funeral,arrangements
 彼女は葬儀に参列するだけでなく、すべての段取りをつけなければならない。
 "I feel for you, Jane. Grief doesn't fade away quickly." "I'm OK. I'll get over it."
 feel,for,Grief,fade,get,over
-「ジェーン、気持ちは分かるよ。悲しみはすぐに消えるものじゃない。」「大丈夫。乗り越えてみせるわ。 
+「ジェーン、気持ちは分かるよ。悲しみはすぐに消えるものじゃない。」「大丈夫。乗り越えてみせるわ。
 She cherishes the precious memories of her childhood.
 cherishes,precious,memories,childhood
 彼女は子供の頃のかけがえのない思い出を大切にしている。
 "Speaking of Jennifer, she got engaged to a businessman." "I'm at a loss for words! I hope she won't break it off."
 Speaking,of,got,engaged,to,businessman,at,loss,break,off
-「ジェニファーと言えば、彼女、実業家と婚約したんだよ。」「あきれてものが言えないわ。破談にならなきゃいいけどね。」 
+「ジェニファーと言えば、彼女、実業家と婚約したんだよ。」「あきれてものが言えないわ。破談にならなきゃいいけどね。」
 These days, the motives for marriage are not necessarily pure. Take Jennifer for example.
 These,days,motives,marriage,not,necessarily,pure,for,example
 近頃では、結婚の動機は必ずしも純粋とは限らない。例えば、ジェニファーを見てごらんよ。
@@ -1674,7 +1674,7 @@ Go,easy,on,You,know,going,through,rough,period,recently
 ボブにはやさしく接してあげてくれよ。ほら、彼は最近ずっと辛いこと続きなんだ。
 "By the way, do you have the time?" "Let's see .. it's a quarter to eight."
 By,the,way,do,you,have,the,time,Let's,see,it's,quarter,to,eight
-「ところで、今何時？」「えーっと、8時15分前だよ。」 
+「ところで、今何時？」「えーっと、8時15分前だよ。」
 "Let's call it a day, Bob. I'm starved." "Yep. I'll buy you dinner."
 Let's,call,it,day,starved,I'll,buy,you
-「ボブ、今日はこの辺までにしましょう。お腹がぺこぺこ。」「ああ。晩飯は僕がおごるよ。」 
+「ボブ、今日はこの辺までにしましょう。お腹がぺこぺこ。」「ああ。晩飯は僕がおごるよ。」

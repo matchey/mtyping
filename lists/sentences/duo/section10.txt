@@ -9,7 +9,7 @@ bumped,shelf,priceless,china,shattered,fragments
 彼が棚にぶつかり、とても高価な陶磁器が落ちて粉々に割れてしまった。
 "Can you keep an eye on my kids for a while? I need to pick up Ken." "No problem."
 keep,an,eye,on,for,while,pick,up
-「うちの子たちをちょっと見ててもらえる？ケンを迎えに行かないといけないの｡」「いいよ｡」  
+「うちの子たちをちょっと見ててもらえる？ケンを迎えに行かないといけないの｡」「いいよ｡」
 Our neighbor told us off for making a mess in his yard.
 neighbor,told,off,mess,yard
 隣の家の人が庭をめちゃくちゃにされたと、私たちにがみがみ説教した。
@@ -27,10 +27,10 @@ favorite,pastime,strolling,shore,pleasant
 時間があいたときの一番の楽しみは浜辺の散歩です。気持ちいいですよ。
 "I'm exhausted! Let's take a break in the shade." "Why not?"
 exhausted,take,break,shade,Why,not
-「私、もうくたくた。日陰で休憩しましょう｡」「そうだね｡」  
+「私、もうくたくた。日陰で休憩しましょう｡」「そうだね｡」
 "Bob, this vending machine is out of order." "Oh no! I'm dying of thirst!"
 vending,machine,order,dying,thirst
-「ボブ、この自動販売機、故障してるわ｡」「何だって！喉が乾いて死にそうだよ！」  
+「ボブ、この自動販売機、故障してるわ｡」「何だって！喉が乾いて死にそうだよ！」
 He fainted with hunger and fatigue, but came to after a while.
 fainted,hunger,fatigue,came,to,after,while
 彼は空腹と疲労で気を失ったが、しばらくして意識を取り戻した。

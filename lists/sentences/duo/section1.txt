@@ -24,4 +24,4 @@ smells,awful,tastes,terrific
 納豆は臭いはひどいけれど味は最高。
 "I'm soaked with sweat." "Stand back! You stink. Take a shower."
 soaked,sweat,Stand,back,stink,Take,shower
-「汗でびしょぬれだよ。」「来ないで！臭いわ。シャワーを浴びて。」  
+「汗でびしょぬれだよ。」「来ないで！臭いわ。シャワーを浴びて。」

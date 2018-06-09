@@ -15,7 +15,7 @@ fat,clumsy,leaped,shallow,stream,stumbled,twisted,ankle
 デイブはデブでドジ。浅い小川を飛び越えた時に、つまずいて足首を捻挫したんだ。
 "I'm scared of heights." "You're a coward!"
 scared,heights,coward
-「僕、高所恐怖症なんだ。」 「弱虫っ！」 
+「僕、高所恐怖症なんだ。」 「弱虫っ！」
 The passive man seldom, if ever, expresses himself in public.
 passive,seldom,if,ever,expresses,himself,in,public
 消極的なその男性が、人前で自己表現をすることはまずない。

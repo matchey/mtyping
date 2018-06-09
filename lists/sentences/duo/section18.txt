@@ -9,7 +9,7 @@ admit,quarrel,every,now,and,then,generally,on,good,terms,with
 確かに、私たちは時々口げんかもしますが、普段は仲良くやっています。
 "Do you mind if I stop by your house?" "No, not at all. Be my guest!"
 Do,you,mind,if,stop,by,not,at,all,Be,my,guest
-「君の家に寄ってもいいかい？」 「もちろんいいわよ。気兼ねなく！」 
+「君の家に寄ってもいいかい？」 「もちろんいいわよ。気兼ねなく！」
 Hold on. I'll be right back. Don't hang up!
 Hold,on,I'll,be,right,back,hang,up
 ちょっと待ってて。すぐ戻るから。切らないでよ！（電話で）
@@ -21,13 +21,13 @@ still,pacing,back,and,forth,sidewalk
 ジェニファーがじっと立っている間、ボブは歩道を行ったり来たりしていた。
 "Let's make up, Lisa." "Stop taking me for granted! We're through for good this time. I mean it!"
 make,up,taking,for,through,for,good,mean,it
-「仲直りしようよ、リサ。」 「私がいて当然だなんて思わないで。私たち、今度は永遠に終わりよ。本気なんだから！」 
+「仲直りしようよ、リサ。」 「私がいて当然だなんて思わないで。私たち、今度は永遠に終わりよ。本気なんだから！」
 Come on! Don't get so emotional, Lisa. I didn't mean to hurt you. Let's talk it over.
 Come,on,emotional,mean,to,hurt,talk,over
 おい！リサ、そう感情的になるなよ。君を傷つけるつもりじゃなかったんだ。じっくり話し合おう。
 "You betrayed me!" "Please forgive me. How can I make it up to you?" "I'll get even!"
 betrayed,forgive,make,it,up,to,get,even
-「私を裏切ったわね！」 「許してくれよ。どうしたら埋め合わせができるかなあ？」 「仕返ししてやるっ！」 
+「私を裏切ったわね！」 「許してくれよ。どうしたら埋め合わせができるかなあ？」 「仕返ししてやるっ！」
 You should confess your sins rather than conceal them.
 confess,sins,conceal
 自分の罪は隠しておかずに告白したほうがいい。
@@ -39,4 +39,4 @@ sticks,moral,principles,honesty,pays,off,in,the,long,run
 ボブは自分の道徳的信条を曲げない男だ。正直でいれば最後には報われると信じている。
 "Cheer up! You couldn't help it." "I did my best." "I know. Don't dwell on the past. You can start over!
 Cheer,couldn't,help,did,my,best,dwell,on,past,start,over
-「元気を出して。仕方ないわ。」 「やれるだけのことはやったんだ。」 「わかってる。過ぎたことにくよくよしないで。やり直せるわよ！」 
+「元気を出して。仕方ないわ。」 「やれるだけのことはやったんだ。」 「わかってる。過ぎたことにくよくよしないで。やり直せるわよ！」

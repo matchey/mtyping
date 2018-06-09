@@ -36,10 +36,10 @@ looks,down,on,comes,from,rural
 ニックは地方出身者なら誰であろうと見下している。
 What's the matter, Bob? You look so miserable. Leave me alone. It's none of your business.
 What's,the,matter,miserable,Leave,alone,none,of,your,business
-「どうしたの、ボブ？そんなに暗い顔をして。」「ほっといてくれよ。君には関係ないことだ。」 
+「どうしたの、ボブ？そんなに暗い顔をして。」「ほっといてくれよ。君には関係ないことだ。」
 Although Bob was in disguise, I recognized him at a glance.
 disguise,recognized,glance
 ボブは変装していたけれども、一目で彼だとわかった。
 What are you chuckling about? Bob, you have your sweatshirt on backwards! Oops!
 chuckling,have,sweatshirt,on,backwards
-「何をくすくす笑ってるんだ？」「ボブ、トレーナーが後ろ前だよ。」「あっ！」 
+「何をくすくす笑ってるんだ？」「ボブ、トレーナーが後ろ前だよ。」「あっ！」

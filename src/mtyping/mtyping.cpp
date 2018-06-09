@@ -155,7 +155,8 @@ void Mtyping::play()
 
 	auto elaped = chrono::duration_cast<chrono::milliseconds>(end - start).count();
 	int score = round((cnt_char-cnt_miss) / (1e-3 * elaped / 60.0));
-	char rank = 'F' - (score - 230)/5;
+	// F:245~249, E:250~254, D:255~259, C:260~264, B:265~269, A:270~274, S:275~ 
+	char rank = 'F' - (score - 245)/5;
 	rank = rank < 'A' ? 'S' : rank;
 
 	cout << "==========" << endl;
