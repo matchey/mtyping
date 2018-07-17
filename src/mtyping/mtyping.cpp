@@ -6,6 +6,7 @@
 #include <thread> //this_thread::sleep_for()
 #include <algorithm> //shuffle
 #include <random>
+#include <mach-o/dyld.h> // _NSGetExecutablePath
 #include "mstring/mstring.h"
 #include "mtyping/mtyping.h"
 
@@ -80,31 +81,32 @@ void Mtyping::select_sections()
 
 void Mtyping::load()
 {
-	char pathname[256];
-
-	// getcwd(pathname, 256);
-
-	// cout << "path: " << pathname << endl;
-	// system("echo $(cd $(dirname $0); pwd)");
-	// system("echo `dirname $0`");
-	// system("echo $0");
-	ssize_t len = readlink( "/proc/self/exe", pathname, sizeof(pathname)-1 ); //linux
-	if(len != -1){
-		pathname[len] = '\0';
-	}else{
-		cerr << "couldnt find link" << endl;
-		return;
-	}
-	//macどうする?? argv[0]とか使う??
-
-	// cout << "path: " << pathname << endl;
-
 	size_t pos;
-	string str_fname(pathname);
+
+	string str_fname;
+	char pathname[256];
+	char path2org[256];
+
+	uint32_t bufsize = sizeof(pathname);
+	_NSGetExecutablePath(pathname, &bufsize); // sybolic link たどれない
+	str_fname = string(pathname);
+	if(str_fname.find("test_duo", str_fname.size() - 8) == string::npos){
+		ssize_t length = readlink(pathname, path2org, bufsize - 1);
+		if(length != -1){
+			path2org[length] = '\0';
+			str_fname = string(pathname);
+			pos = str_fname.find_last_of('/');
+			str_fname.erase(pos+1, str_fname.back());
+			str_fname = str_fname + string(path2org);
+		}else{
+			cerr << "couldnt find org link" << endl;
+			return;
+		}
+	}
+
 	if((pos = str_fname.find("mtyping")) != string::npos){
 		str_fname.erase(pos+7, str_fname.back());
 		str_fname += "/params.yaml";
-		// cout << str_fname << endl;
 	}
 
 	ifstream f(str_fname.c_str());
@@ -119,20 +121,17 @@ void Mtyping::load()
 		break;
 	}
 
-	// f.open(dir_name.c_str());
-	// if(f.fail()){
-	// 	cerr << "couldnt find " << dir_name << endl;
-	// 	return;
-	// }
-
 	string filename;
 	for(auto it = selected.begin(); it != selected.end(); ++it){
 		filename = dir_name + "/section" + to_string(*it) + ".txt";
-		// cout << filename << endl;
 		set_sentences(filename);
 	}
-
 }
+
+// void Mtyping::load(const std::string& filename)
+// {
+// 	cout << filename << endl;
+// }
 
 void Mtyping::play()
 {
