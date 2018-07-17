@@ -5,6 +5,7 @@
 #include <cmath> // std::round()
 #include <thread> //this_thread::sleep_for()
 #include <algorithm> //shuffle
+#include <random>
 #include "mstring/mstring.h"
 #include "mtyping/mtyping.h"
 
